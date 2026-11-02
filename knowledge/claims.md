@@ -18,6 +18,10 @@
 
 **鱼博会选烤熟或煎熟。** 真正影响这顿饭安全的是鱼的来源和处理过程。家里拿不准这些条件，充分加热是当下做得到的选择。他也讲过自己在北欧看到的吃法，那属于个人见闻。按 FDA 的说明，冷冻能杀死某些寄生虫，却不能消除所有有害微生物。[三文鱼切片](https://www.douyin.com/video/7636804417093668106) · [FDA 海产品处理建议](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely)
 
+## 剩饭第二天怎么处理
+
+**鱼博偏向按人头少做、想吃时现做。** 在一段 50 秒的问答里，他先回答一般家庭的剩饭，随后特别提到孕妇，对吃剩菜更谨慎。读者若面对的是已经做多的一锅菜，还可以再问一句：它在桌上放了多久，什么时候进的冰箱？食品安全资料建议易腐熟食及时分装、冷藏，食用前彻底加热。上海市市场监管局公布的三种菜品实验也列出了储存温度和时间，不能单从“过了一夜”得出致癌的结论。[隔夜饭菜问答](https://www.douyin.com/video/7675379952636352617) · [上海市市场监管局的实验说明](https://www.shanghai.gov.cn/nw17239/20250207/84ab66f27d9d4a1aa4926ba824ab115c.html) · [FoodSafety.gov 熟食储存](https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses)
+
 ## 高考生买鱼油，看清主播推荐与提分证据
 
 **鱼博在带货时确实向高考生推荐过商品。仅凭这段推荐，不值得为了提分下单。** 前一句是他的实际答复，后一句是整理者按证据作的购买判断。鱼油能提供 DHA、EPA 等脂肪酸，但成分表回答不了服用这款产品的学生考试成绩会不会提高。[10 月带货录屏 00:04–00:13](https://www.douyin.com/video/7693784743971753243) · [NIH 关于 Omega-3 的资料](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-Consumer/)

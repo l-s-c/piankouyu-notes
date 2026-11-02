@@ -23,4 +23,4 @@
 | 偏口鱼博士切片 | [小红书入口](https://www.xiaohongshu.com/explore/69e817c600000000230147b7) · [链接出处](https://post.smzdm.com/p/a95gmele/) |
 | 回国以后可能去上海或者深圳发展 | [小红书入口](https://www.xiaohongshu.com/explore/6a806516000000002402c60e) · [链接出处](https://post.smzdm.com/p/aqr0o0d2/) |
 
-[返回首页](README.md) · [查看全部来源](sources.md)
+[另读微博、博客总结与原片对照](posts.md) · [返回首页](README.md) · [查看全部来源](sources.md)
