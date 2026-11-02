@@ -42,4 +42,6 @@
 
 **蔬菜粉和冻干羽衣甘蓝粉，他都不拿来顶一盘菜。** 一段快问快答里，先有人问一般的蔬菜粉，稍后又点名羽衣甘蓝粉。换了更具体的产品，他给的答案一样。若关心的是加工后还剩多少膳食纤维，做法很要紧。榨汁后滤去渣通常会损失较多纤维，保留可食部分一起搅打能留下更多。判断某款粉还要看用料和每份分量。[蔬菜粉 00:43](https://www.bilibili.com/video/BV16nV16YEoo/?t=43) · [羽衣甘蓝粉 00:59](https://www.bilibili.com/video/BV16nV16YEoo/?t=59) · [梅奥诊所关于榨汁和搅打的说明](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/juicing/faq-20058020)
 
+**肉汤能养细菌，为什么只喝肉汤还不够？** 9 月 30 日，弹幕直接拿实验室的肉汤培养基反问他。他说，培养细菌和给人配一餐，问的是不同对象。观众随即改问番茄鸡蛋汤，他答少油少盐可以喝。连着听，才知道他反对的是把汤当作肉的替身。[肉汤培养基 07:48](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=468) · [番茄鸡蛋汤 08:32](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=512)
+
 [知识体系](README.md) · [超市选购和餐盘](shopping.md) · [分量、做法和频率](habits.md)

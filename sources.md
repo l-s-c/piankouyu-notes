@@ -4,6 +4,8 @@
 
 **怎么读证据。** 主号作品、连续录屏、剪辑号署名分别记录。能看到画面字幕的地方写明“字幕”，借助自动文稿或本地音轨转写的以转述为主。没有时间轴的文稿用前后问题来定位；账号名带“授权”不能替代对发布者身份的判断。小红书粉丝笔记与分享卡单列，不能直接充当主播逐字引文。
 
+找某一天的播出录像可以看[回放日历](recordings.md)，找几分钟能看完的作品可以看[切片选看](clips.md)。日历中的作品只在确实提炼了问答后，才列入下方的内容来源。
+
 ## 听过一句话，怎么找到原片
 
 | 记得的词 | 先看哪里 | 要核哪件事 |
@@ -24,6 +26,13 @@
 | R04 | [8 月 16 日弹幕版直播录屏](https://www.bilibili.com/video/BV1aybY6pE7k/) · 拂乱的风看点啥，02:33:12。场次取自上传者标注。 | 全段音轨分时段转写，重点处另核转写或画面弹幕、板书。选入[本场 87 组问答](dialogues.md#show-aug)。[08:11 方便面](https://www.bilibili.com/video/BV1aybY6pE7k/?t=491)、[01:04:02 学医与就业](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3842)、[02:32:30 留学个例能说明什么](https://www.bilibili.com/video/BV1aybY6pE7k/?t=9150)。其中的商品比较和个人自述保留了当场条件。 |
 | R05 | [3 月 4 日直播回放（含弹幕）](https://www.bilibili.com/video/BV1nVP6z6ExR/) · 拂乱的风看点啥，33:52。 | 全段公开音轨分段转写，并对照两份自动听写核对选段。收录[本场 38 组问答](dialogues.md#show-m04)，如[01:22 沙拉酱](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=82)、[10:34 中午带饭](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=634)、[25:05 芹菜与替换食物](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1505)。 |
 | R06 | [3 月 13 日直播回放（含弹幕）](https://www.bilibili.com/video/BV1uscmzvEn4/) · 拂乱的风看点啥，01:10:31。 | 全段音轨分时段转写，对选用问答复核。收录[本场 55 组问答](dialogues.md#show-m13)。[27:05 煎饼与窝头](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1625)、[48:21 教室与实验室](https://www.bilibili.com/video/BV1uscmzvEn4/?t=2901)、[01:03:04 发芽土豆](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3784)。中段有含铁商品销售。 |
+| R07 | [2026-01-04 回放](https://www.bilibili.com/video/BV1JeinB7EYM/) · 旭旭宝宝传媒实况，全长 1:58:49，2026-01-04 发布。 | 本轮核对 00:00–06:00、30:00–36:00、1:45:00–1:51:00，见[本场 10 组问答](dialogues.md#show-jan04)。上海户外、术前提问、第一颗乳牙。 |
+| R08 | [2026-02-22 回放](https://www.bilibili.com/video/BV1sKfuBjEvy/) · 拂乱的风看点啥，全长 2:25:50，2026-02-23 发布。 | 本轮核对 05:00–30:00，见[本场 24 组问答](dialogues.md#show-feb22)。备考节食、陈皮、蜜饯和坚果。 |
+| R09 | [2026-02-28 回放](https://www.bilibili.com/video/BV1NGABz6E7p/) · 拂乱的风看点啥，全长 1:01:47，2026-03-01 发布。 | 本轮核对 05:00–30:00，见[本场 19 组问答](dialogues.md#show-feb28)。考前吃饭、富硒鸡蛋和东北口音。 |
+| R10 | [2026-04-01 回放](https://www.bilibili.com/video/BV1rS97BnEFu/) · 拂乱的风看点啥，全长 34:40，2026-04-01 发布。 | 本轮核对 00:00–06:00、15:00–21:00、29:00–片尾，见[本场 11 组问答](dialogues.md#show-apr01)。菜市场豆芽、清炒青菜、睡觉和运动。 |
+| R11 | [2026-05-27 回放](https://www.bilibili.com/video/BV1KGGD6nECD/) · 拂乱的风看点啥，全长 1:17:53，2026-05-28 发布。 | 本轮核对 00:00–06:00、21:00–27:00、1:04:00–1:10:00，见[本场 9 组问答](dialogues.md#show-may27)。镜头里的午饭、即食燕麦和家庭采购。 |
+| R12 | [2026-09-30 回放](https://www.bilibili.com/video/BV1Ukaf6hEdM/) · 拂乱的风看点啥，全长 1:20:48，2026-09-30 发布。 | 本轮核对 00:00–25:00、30:00–35:00、1:05:00–1:10:00，见[本场 12 组问答](dialogues.md#show-sep30)。小米饭、豆腐、肉汤培养基和孩子的晚饭。 |
+| R13 | [2026-10-31 回放](https://www.bilibili.com/video/BV1YBxy6LEPZ/) · 拂乱的风看点啥，全长 1:06:18，2026-10-31 发布。 | 本轮核对 00:00–25:00、30:00–35:00，另核 50:00–55:00 的豆腐追问，见[本场 12 组问答](dialogues.md#show-oct31)。买虾、炖牛肉、嚼不动的米糊和直播语气。 |
 | P01 | [油耳、喝酒上脸、喝奶不适等表现](https://www.douyin.com/video/7673409464128771697)，8 月 13 日发布，署名为[偏口鱼博士主账号](https://www.douyin.com/user/MS4wLjABAAAAEcNnTC5ZX1JqBOTtt_dnCig0GZ6YXxY76sn84KKDfcY6PF82fN0p8sl0Pxs-zhSi)，抖音号 21657184576。 | 02:00 为乳糖不耐章节。已核对画面字幕：02:24 提到零乳糖牛奶，02:27–02:28 提到无糖酸奶。 |
 | P02 | [瑞典超市称重沙拉实拍](https://www.douyin.com/video/7683801575421184689) · 偏口鱼博士主号，9 月 10 日发布，03:27。 | 原声与内嵌字幕。00:18–00:35 选菜，00:39–00:44 加螺旋意面，00:45–01:21 配肉、蛋、奶酪、虾和调味。能辨认他选了少拌酱的肉，其种类连他自己也没认准。[抖音精选原片](https://jingxuan.douyin.com/m/video/7683801575421184689) |
 | P03 | [博士毕业自述](https://www.douyin.com/video/7691157794469680825) · 偏口鱼博士主号，9 月 30 日发布，02:13。 | 原声与内嵌字幕。00:00–00:09 宣布毕业并展示文件，01:19–01:32 回忆自己选择无学费、有月薪的岗位，提到攒钱带父母旅行。[抖音精选原片](https://jingxuan.douyin.com/m/video/7691157794469680825) |
@@ -81,6 +90,35 @@
 | B13 | [偏爱数学的小学生英语连麦](https://www.bilibili.com/video/BV1b86dBrErQ/) · 评鉴百态，08:43 | 音轨及字幕。[01:42–02:09](https://www.bilibili.com/video/BV1b86dBrErQ/?t=102) 算总分，[05:59–06:33](https://www.bilibili.com/video/BV1b86dBrErQ/?t=359) 追问怎样背课文，他建议动笔、分句回译。 |
 | B14 | [研究生复试回忆](https://www.bilibili.com/video/BV1N1BVBCErR/) · 评鉴百态，09:08 | 核对开头约 7 分钟的音轨。[00:30–01:13](https://www.bilibili.com/video/BV1N1BVBCErR/?t=30) 谈见面着装、买还是租以及自己当年的选择。 |
 | B15 | [减重与训练的长专题](https://www.bilibili.com/video/BV1uoEE6QEfG/) · 科普知识干货分享，36:21 | 标题称“减肥不需要运动”，[20:44–21:32](https://www.bilibili.com/video/BV1uoEE6QEfG/?t=1244) 的口播却给长期减重者举了力量训练和快走两个做法，两段取自同一作品。 |
+| B16 | [高中自习，谁在督促你](https://www.bilibili.com/video/BV18GkxBbE3w/) · 评测百态，2026-01-18 发布，2:41。 | 00:03–00:20、00:38–00:55。音轨定位 [0:03](https://www.bilibili.com/video/BV18GkxBbE3w/?t=3)。 [对应问答](dialogues.md#new-BV18GkxBbE3w-3) |
+| B17 | [考研九个月与排序题失分](https://www.bilibili.com/video/BV1airoBJEud/) · 评鉴百态，2026-01-15 发布，2:11。 | 00:00–00:43、01:05–02:10。音轨定位 [0:00](https://www.bilibili.com/video/BV1airoBJEud/?t=0)、[1:50](https://www.bilibili.com/video/BV1airoBJEud/?t=110)。 [对应问答](dialogues.md#new-BV1airoBJEud-0) |
+| B18 | [本科时值得坚持的两件事](https://www.bilibili.com/video/BV1x7r6BtEig/) · 评鉴百态，2026-01-13 发布，1:14。 | 00:03–00:20、00:30–01:13。音轨定位 [0:30](https://www.bilibili.com/video/BV1x7r6BtEig/?t=30)。 [对应问答](dialogues.md#new-BV1x7r6BtEig-30) |
+| B19 | [学医后回不同城市找工作](https://www.bilibili.com/video/BV1dQBDBPEQZ/) · 评鉴百态，2025-12-25 发布，4:47。 | 01:00–01:33、02:01–02:31。音轨定位 [1:00](https://www.bilibili.com/video/BV1dQBDBPEQZ/?t=60)。 [对应问答](dialogues.md#new-BV1dQBDBPEQZ-60) |
+| B20 | [成绩与交朋友](https://www.bilibili.com/video/BV1s6BCBbErB/) · 评鉴百态，2025-12-27 发布，2:36。 | 00:22–00:38、01:55–02:23。音轨定位 [2:14](https://www.bilibili.com/video/BV1s6BCBbErB/?t=134)。 [对应问答](dialogues.md#new-BV1s6BCBbErB-134) |
+| B21 | [免学费的博士也要算生活账](https://www.bilibili.com/video/BV1oCXqBAEWt/) · 偏口鱼超会说，2026-03-31 发布，0:32。 | 00:06–00:31。音轨定位 [0:10](https://www.bilibili.com/video/BV1oCXqBAEWt/?t=10)。 [对应问答](dialogues.md#new-BV1oCXqBAEWt-10) |
+| B22 | [学生会能不能积攒人脉](https://www.bilibili.com/video/BV1nRraBcEBh/) · 偏偏啥都懂，2026-01-13 发布，1:59。 | 音轨定位 [0:00](https://www.bilibili.com/video/BV1nRraBcEBh/?t=0)。 [对应问答](dialogues.md#new-BV1nRraBcEBh-0) |
+| B23 | [新概念英语和眼前的考试](https://www.bilibili.com/video/BV1ctDCBDE7f/) · 偏口鱼超会说，2026-04-11 发布，0:35。 | 音轨定位 [0:15](https://www.bilibili.com/video/BV1ctDCBDE7f/?t=15)。 [对应问答](dialogues.md#new-BV1ctDCBDE7f-15) |
+| B24 | [工作后回看学习这件事](https://www.bilibili.com/video/BV1Y7DQB8EQ4/) · 偏口鱼超会说，2026-04-12 发布，1:13。 | 音轨定位 [0:07](https://www.bilibili.com/video/BV1Y7DQB8EQ4/?t=7)。 [对应问答](dialogues.md#new-BV1Y7DQB8EQ4-7) |
+| B25 | [外科医生会被 AI 取代吗](https://www.bilibili.com/video/BV1XKDpB5EaA/) · 偏口鱼超会说，2026-04-09 发布，0:30。 | 音轨定位 [0:00](https://www.bilibili.com/video/BV1XKDpB5EaA/?t=0)。 [对应问答](dialogues.md#new-BV1XKDpB5EaA-0) |
+| B26 | [孩子发脾气与待人接物](https://www.bilibili.com/video/BV1pkXpBqEDq/) · 偏口鱼超会说，2026-03-26 发布，0:48。 | 00:03–00:09、00:20–00:47。音轨定位 [0:03](https://www.bilibili.com/video/BV1pkXpBqEDq/?t=3)。 [对应问答](dialogues.md#new-BV1pkXpBqEDq-3) |
+| B27 | [公用洗衣房和内衣要不要分开](https://www.bilibili.com/video/BV1mCzYBzEyv/) · 偏偏啥都懂，2026-01-26 发布，2:39。 | 00:00–00:25、00:55–01:06。音轨定位 [0:00](https://www.bilibili.com/video/BV1mCzYBzEyv/?t=0)、[0:55](https://www.bilibili.com/video/BV1mCzYBzEyv/?t=55)。 [对应问答](dialogues.md#new-BV1mCzYBzEyv-0) |
+| B28 | [工作压力和下班后的心境](https://www.bilibili.com/video/BV19yjL6LEDA/) · 偏偏啥都懂，2026-06-17 发布，1:39。 | 00:04–00:20、01:03–01:37。音轨定位 [0:04](https://www.bilibili.com/video/BV19yjL6LEDA/?t=4)。 [对应问答](dialogues.md#new-BV19yjL6LEDA-4) |
+| B29 | [累了想刷手机，导师建议做什么](https://www.bilibili.com/video/BV1yX6TBhEXT/) · 偏偏啥都懂，2026-01-27 发布，2:09。 | 音轨定位 [0:00](https://www.bilibili.com/video/BV1yX6TBhEXT/?t=0)。 [对应问答](dialogues.md#new-BV1yX6TBhEXT-0) |
+| B30 | [初二孩子用手机看小说](https://www.bilibili.com/video/BV1SGF5z6ERx/) · 评鉴百态，2026-02-03 发布，1:46。 | 音轨定位 [0:00](https://www.bilibili.com/video/BV1SGF5z6ERx/?t=0)。 [对应问答](dialogues.md#new-BV1SGF5z6ERx-0) |
+| B31 | [会不会做饭，家长怎样安排孩子的时间](https://www.bilibili.com/video/BV1vZrzB3EkU/) · 偏偏啥都懂，2026-01-13 发布，3:04。 | 音轨定位 [0:00](https://www.bilibili.com/video/BV1vZrzB3EkU/?t=0)。 [对应问答](dialogues.md#new-BV1vZrzB3EkU-0) |
+| B32 | [旅游的新鲜感与长期在外生活](https://www.bilibili.com/video/BV1r4LX6bEfW/) · 偏口鱼超会说，2026-06-17 发布，1:08。 | 音轨定位 [0:18](https://www.bilibili.com/video/BV1r4LX6bEfW/?t=18)。 [对应问答](dialogues.md#new-BV1r4LX6bEfW-18) |
+| B33 | [在瑞典素食家庭做东北菜](https://www.bilibili.com/video/BV1SNVm6HES4/) · 养生健康知识分享家，2026-06-03 发布，2:28。 | 音轨定位 [0:22](https://www.bilibili.com/video/BV1SNVm6HES4/?t=22)。 [对应问答](dialogues.md#new-BV1SNVm6HES4-22) |
+| B34 | [他在上海如何防蚊](https://www.bilibili.com/video/BV1vuG46NE9Q/) · 偏口鱼超会说，2026-05-25 发布，1:10。 | 音轨定位 [0:35](https://www.bilibili.com/video/BV1vuG46NE9Q/?t=35)。 [对应问答](dialogues.md#new-BV1vuG46NE9Q-35) |
+| B35 | [山姆的苹果干怎样判断](https://www.bilibili.com/video/BV1Hv7A6ZEnZ/) · 养生健康知识分享家，2026-06-22 发布，2:31。 | 00:00–00:31、00:54–01:11。音轨定位 [0:00](https://www.bilibili.com/video/BV1Hv7A6ZEnZ/?t=0)。 [对应问答](dialogues.md#new-BV1Hv7A6ZEnZ-0) |
+| B36 | [家用净水器该花多少钱](https://www.bilibili.com/video/BV1JBZLBRE11/) · 养生健康知识分享家，2026-02-14 发布，1:26。 | 00:00–00:24。音轨定位 [0:00](https://www.bilibili.com/video/BV1JBZLBRE11/?t=0)。 [对应问答](dialogues.md#new-BV1JBZLBRE11-0) |
+| B37 | [挑西红柿要不要数蒂瓣](https://www.bilibili.com/video/BV1yvVZ6rEUQ/) · 偏口鱼超会说，2026-06-01 发布，1:05。 | 音轨定位 [0:06](https://www.bilibili.com/video/BV1yvVZ6rEUQ/?t=6)、[0:44](https://www.bilibili.com/video/BV1yvVZ6rEUQ/?t=44)。 [对应问答](dialogues.md#new-BV1yvVZ6rEUQ-6) |
+| B38 | [原味和调味爆米花](https://www.bilibili.com/video/BV1YXQYB2EWo/) · 偏口鱼超会说，2026-04-14 发布，0:49。 | 音轨定位 [0:00](https://www.bilibili.com/video/BV1YXQYB2EWo/?t=0)。 [对应问答](dialogues.md#new-BV1YXQYB2EWo-0) |
+| B39 | [茄子留不留皮](https://www.bilibili.com/video/BV1sGGz6DEEV/) · 偏口鱼超会说，2026-05-23 发布，0:44。 | 音轨定位 [0:00](https://www.bilibili.com/video/BV1sGGz6DEEV/?t=0)。 [对应问答](dialogues.md#new-BV1sGGz6DEEV-0) |
+| B40 | [在食堂舀紫菜蛋花汤](https://www.bilibili.com/video/BV1jWXSBvEhM/) · 偏口鱼超会说，2026-03-29 发布，0:35。 | 音轨定位 [0:00](https://www.bilibili.com/video/BV1jWXSBvEhM/?t=0)。 [对应问答](dialogues.md#new-BV1jWXSBvEhM-0) |
+| B41 | [清炒蔬菜怎么做才爱吃](https://www.bilibili.com/video/BV1L797BVEHs/) · 偏口鱼超会说，2026-04-01 发布，0:24。 | 音轨定位 [0:00](https://www.bilibili.com/video/BV1L797BVEHs/?t=0)。 [对应问答](dialogues.md#new-BV1L797BVEHs-0) |
+| B42 | [电动牙刷与手动软毛牙刷](https://www.bilibili.com/video/BV1XnzfBnEiQ/) · 评测百态，2026-01-29 发布，1:23。 | 00:03–00:33。音轨定位 [0:04](https://www.bilibili.com/video/BV1XnzfBnEiQ/?t=4)。 [对应问答](dialogues.md#new-BV1XnzfBnEiQ-4) |
+| B43 | [心率数字和心电图的区别](https://www.bilibili.com/video/BV1TaPPzXEUA/) · 养生健康知识分享家，2026-03-04 发布，4:38。 | 01:30–02:29、02:42–03:22。音轨定位 [2:42](https://www.bilibili.com/video/BV1TaPPzXEUA/?t=162)。 [对应问答](dialogues.md#new-BV1TaPPzXEUA-162) |
+| B44 | [青少年刮胡子、腹式呼吸与减肚子](https://www.bilibili.com/video/BV1J9EB6xEPV/) · 偏偏啥都懂，2026-06-12 发布，3:09。 | 00:11–00:25、00:35–00:46。音轨定位 [0:11](https://www.bilibili.com/video/BV1J9EB6xEPV/?t=11)、[0:35](https://www.bilibili.com/video/BV1J9EB6xEPV/?t=35)。 [对应问答](dialogues.md#new-BV1J9EB6xEPV-11) |
 
 ## 总结帖、小红书与独立核对资料
 
