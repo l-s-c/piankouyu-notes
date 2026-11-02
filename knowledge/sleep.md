@@ -1,19 +1,23 @@
-# 睡眠要看时长、规律和醒来后的状态
+# 睡得够不够，要把一整晚看完
 
-每天凌晨两点睡，第二天晚点起，凑足八小时，算不算熬夜？鱼博用这道题开场。他看了三件事：几点睡、睡了多久、每天的时间是不是忽早忽晚。他还明确提醒，讨论成人时用的数字不能照搬给小学生。[睡眠专题 00:03–01:07](https://www.bilibili.com/video/BV1ftkYBhEgr/?t=3) · [忽早忽晚的例子 01:46–01:57](https://www.bilibili.com/video/BV1ftkYBhEgr/?t=106)
+**每天凌晨两点睡、睡足八小时，按鱼博在这场直播里的说法，仍算熬夜。** 他把当地晚上十一点以后就寝算作晚睡，也关心每天睡多久、作息是否忽早忽晚。医学上没有“过十一点就能诊断睡眠障碍”这条线。要决定自己的作息怎么调，时长、规律和第二天的精神都要看。[睡眠专题 00:03–01:07](https://www.bilibili.com/video/BV1ftkYBhEgr/?t=3) · [NHLBI 生物钟](https://www.nhlbi.nih.gov/health/sleep-deprivation/body-clock)
 
-## “熬夜”是他在直播里怎么用的词
+## 平常安排作息，先留够时间，再把起床时间定下来
 
-这段里，他把当地晚上十一点以后就寝列入自己的“熬夜”口径，还认为部分成人如果睡得好，六小时就够。这些数字得和他的说法一起保留，读者才判断得了。独立资料给出的参照不同。美国疾控中心指出，大多数成年人需要至少七小时优质睡眠。光照会影响生物钟，保持相对稳定的睡眠和起床时间也有帮助；单凭越过十一点，判断不了某个人有没有睡眠障碍。[睡眠专题 00:11–01:07](https://www.bilibili.com/video/BV1ftkYBhEgr/?t=11) · [CDC 睡眠资料](https://www.cdc.gov/niosh/bulletin/2020/sleep.html) · [NHLBI 生物钟](https://www.nhlbi.nih.gov/health/sleep-deprivation/body-clock)
+**大多数成年人每天要留出至少七小时的睡眠，尽量在相近的时间睡觉、起床。** 这是美国疾控中心给的参照。鱼博在直播里说，部分成人如果睡得好，六小时也够。自己排作息时，别照着这个较低的数字去压缩睡眠。[睡眠专题 00:11–01:07](https://www.bilibili.com/video/BV1ftkYBhEgr/?t=11) · [CDC 睡眠资料](https://www.cdc.gov/niosh/bulletin/2020/sleep.html)
 
-## 喝酒入睡与半夜憋醒，都要看后半夜
+至于作息怎么才叫不规律，他给的例子是今天晚上八点睡、明天凌晨两点睡。就算两晚时长一样，就寝时间也差了六小时。他也特意把小学生单拎出来，孩子的睡眠需求应按年龄看。[作息忽早忽晚 01:46–01:57](https://www.bilibili.com/video/BV1ftkYBhEgr/?t=106) · [成人和孩子 00:03–01:07](https://www.bilibili.com/video/BV1ftkYBhEgr/?t=3)
 
-有人睡前喝红酒，觉得管用，因为很快就困了。鱼博让人把观察再往后挪：夜里睡得怎么样，早上起来到底恢复了没有？他直接反对为了入睡喝酒。美国国立心肺血液研究所也建议临睡前避开酒精。这个例子和他分析食物功效时的做法相通：马上有感觉，与真正想改善的结果，中间还有一步要核实。[红酒、啤酒助眠问答 05:02–05:44](https://www.bilibili.com/video/BV1ftkYBhEgr/?t=302) · [NHLBI 健康睡眠习惯](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits)
+## 红酒能让人犯困，也别拿它助眠
 
-睡眠专题里他还用打鼾举例，提醒旁人听见鼾声，不能据此认定这个人睡得香。在一段单独的呼吸机问答里，他认可呼吸机对部分人有用，也说有人戴着不舒服，并倾向先尝试减重。这段直播无法替一个人决定治疗顺序。反复响亮打鼾，尤其伴有呼吸暂停、喘醒或白天嗜睡，值得就医评估；是否需要睡眠检查、正压通气或其他治疗，应结合实际病情。单纯打鼾与睡眠呼吸暂停也应区别。[睡得香的比喻 01:32–01:47](https://www.bilibili.com/video/BV1ftkYBhEgr/?t=92) · [呼吸机问答切片](https://www.douyin.com/video/7653423244943876267) · [NHLBI 对症状和评估的说明](https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms) · [NHLBI 治疗说明](https://www.nhlbi.nih.gov/health/sleep-apnea/treatment)
+**鱼博不赞成为了入睡喝红酒或啤酒。** 喝完很快就困，容易让人觉得这一杯管用。他接着问起后半夜睡得安不安稳，早上醒来有没有恢复精神。美国国立心肺血液研究所也建议临睡前避开酒精。判断睡得好不好，得把后半夜也算进去。[红酒、啤酒助眠问答 05:02–05:44](https://www.bilibili.com/video/BV1ftkYBhEgr/?t=302) · [NHLBI 健康睡眠习惯](https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits)
 
-## 考试前偶尔睡不着
+## 经常打响鼾又憋醒，先评估睡眠呼吸暂停
 
-他说自己考研时也经历过临考前睡不着，于是接受当晚有些焦虑，闭眼休息。这里能带走的是他对临场压力的态度：偶尔一晚没睡好，没必要再为“我怎么还没睡着”多着一层急。他在段末把闭目休息说得接近睡眠，属于个人体会；持续失眠的评估和治疗另有依据。针对成人慢性失眠，美国睡眠医学学会指南推荐多组分的失眠认知行为治疗（CBT-I）。[考前经历 06:29–07:14](https://www.bilibili.com/video/BV1ftkYBhEgr/?t=389) · [AASM 成人慢性失眠指南](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/)
+**鼾声响说明不了睡得香。要是反复打响鼾，家人还看到呼吸停顿，或自己会喘醒、白天犯困，就应就医评估。** 鱼博谈呼吸机时说它对部分人有用，也有人戴着不舒服，他个人倾向先试减重。实际有这些症状就可以看医生，不需要等瘦下来才去。是否要做睡眠检查、用正压通气设备，由评估结果决定。[睡得香的比喻 01:32–01:47](https://www.bilibili.com/video/BV1ftkYBhEgr/?t=92) · [呼吸机问答切片](https://www.douyin.com/video/7653423244943876267) · [NHLBI 睡眠呼吸暂停的症状](https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms) · [NHLBI 治疗说明](https://www.nhlbi.nih.gov/health/sleep-apnea/treatment)
+
+## 考前偶尔失眠，让这一晚少一层着急
+
+**只是一场考试前睡不着，鱼博劝人先放下“我现在非得睡着”的念头。** 他说自己考研前夜也焦虑，当晚能做的就是闭眼休息。闭目让他放松，是他的个人体会。若失眠持续、已经影响白天生活，就值得单独评估。针对成人慢性失眠，美国睡眠医学学会推荐多组分的失眠认知行为治疗（CBT-I）。[考前经历 06:29–07:14](https://www.bilibili.com/video/BV1ftkYBhEgr/?t=389) · [AASM 成人慢性失眠指南](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/)
 
 [知识体系总览](README.md) · [学习与科研](research.md)
