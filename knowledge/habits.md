@@ -48,4 +48,10 @@
 
 **鱼博不接受“天天洗头会折损阳气”这个理由。** 弹幕把这句话归给一位专家，他先追问是哪个专家，又拿日常洗澡举例。在开头这二十多秒里，他反驳了那条忌讳，没有替每种头皮定一个相同的洗发周期。美国皮肤科学会给的判断更具体，按头皮出油、头发变脏的情况和发质安排。直发又容易出油的人可能适合每天洗，干燥、卷曲的头发可以洗得少些。[洗头问答 00:00–00:24](https://www.bilibili.com/video/BV155bR6WEf1/?t=0) · [美国皮肤科学会的洗护建议](https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips)
 
+<a name="homemade-sugar"></a>
+
+## 家里的蜂蜜、自己榨的果汁，要不要算进喝的糖
+
+9 月 30 日有人问柠檬水能不能加蜂蜜。鱼博自己选鲜柠檬加水。接着有人说就爱那个甜味，他同意按喜欢的口味喝，但得认这是一杯糖水。又有人把条件换成自家的蜂蜜、自己榨的果汁。他仍主张想吃苹果就直接吃，连果肉一起吃进去。原料是谁买的、是谁动手做的，都没改变他在这道题里比较的东西。[柠檬水加蜂蜜 36:40](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=2200) · [喜欢甜味 37:30](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=2250) · [自家蜂蜜与榨汁 39:04](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=2344)
+
 [知识体系](README.md) · [运动怎么选](exercise.md) · [睡眠与休息](sleep.md) · [从营养成分到健康承诺](claims.md)

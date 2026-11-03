@@ -6,7 +6,7 @@
 
 想先读答案，可以看[逐场直播问答](dialogues.md)。想先看两三分钟的剪辑，可以从[切片选看](clips.md)按话题挑。
 
-录播号「拂乱的风看点啥」将自己的合集标作含弹幕的完整回放，「旭旭宝宝传媒实况」将作品标作直播片段。表中仅为作品登记时，已核对作品题名、上传者所标日期、片长和账号。末列标有题数的日期另有已核音轨，所用版本和取材范围写在对应问答内。[含弹幕回放合集](https://space.bilibili.com/6127378/lists/7501913?type=season) · [按日直播片段合集](https://space.bilibili.com/3493117260990907/lists/7096248?type=season)
+录播号「拂乱的风看点啥」将自己的合集标作含弹幕的完整回放，「旭旭宝宝传媒实况」将作品标作直播片段。表中仅为作品登记时，已核对作品题名、上传者所标日期、片长和账号。末列标“整场”的三天已从录屏开头整理到收播，只有题数的其余日期则有部分问答。每页都写明取材版本。[含弹幕回放合集](https://space.bilibili.com/6127378/lists/7501913?type=season) · [按日直播片段合集](https://space.bilibili.com/3493117260990907/lists/7096248?type=season)
 
 <a name="month-01"></a>
 
@@ -47,7 +47,7 @@
 | 02-24 | [2:32:50](https://www.bilibili.com/video/BV1yAftBcEHK/) | [2:34:02](https://www.bilibili.com/video/BV19EfUB6Ev8/) | — |
 | 02-25 | [1:05:11](https://www.bilibili.com/video/BV1UpfYBXEdb/) | [1:07:30](https://www.bilibili.com/video/BV1rMf8BvE8H/) | — |
 | 02-26 | [2:59:38](https://www.bilibili.com/video/BV1fpAmzXE7u/) | [3:06:05](https://www.bilibili.com/video/BV16hAyzDE7D/) | — |
-| 02-28 | [1:01:47](https://www.bilibili.com/video/BV1NGABz6E7p/) | [1:01:26](https://www.bilibili.com/video/BV13YAiz7Eqr/) | [19 组](dialogues.md#show-feb28) |
+| 02-28 | [1:01:47](https://www.bilibili.com/video/BV1NGABz6E7p/) | [1:01:26](https://www.bilibili.com/video/BV13YAiz7Eqr/) | [整场 169 组](sessions/2026-02-28.md) |
 
 <a name="month-03"></a>
 
@@ -223,7 +223,7 @@
 | 09-23 | [51:48](https://www.bilibili.com/video/BV1KNh86gEfG/) | [52:44](https://www.bilibili.com/video/BV1AuaP6vEzY/) | — |
 | 09-24 | [1:28:59](https://www.bilibili.com/video/BV1P9aP6vENB/) | [1:33:07](https://www.bilibili.com/video/BV1D4au6tEuT/) | — |
 | 09-26 | [2:33:01](https://www.bilibili.com/video/BV1rsho63ExJ/) | [2:16:06](https://www.bilibili.com/video/BV11bhd6UEfy/) | — |
-| 09-30 | [1:20:48](https://www.bilibili.com/video/BV1Ukaf6hEdM/) | [1:21:31](https://www.bilibili.com/video/BV162YP6AEVf/) | [12 组](dialogues.md#show-sep30) |
+| 09-30 | [1:20:48](https://www.bilibili.com/video/BV1Ukaf6hEdM/) | [1:21:31](https://www.bilibili.com/video/BV162YP6AEVf/) | [整场 246 组](sessions/2026-09-30.md) |
 
 <a name="month-10"></a>
 
@@ -246,8 +246,8 @@
 | 10-26 | [20:51](https://www.bilibili.com/video/BV1k6nZ6XEtz/) | — | — |
 | 10-27 | [57:59](https://www.bilibili.com/video/BV13jxu6CEPc/) | — | — |
 | 10-28 | [57:52](https://www.bilibili.com/video/BV1Lsx76gEK4/) | [56:27](https://www.bilibili.com/video/BV1BCxF6PERt/)、[56:26](https://www.bilibili.com/video/BV1ZMxs6PEs3/) | — |
-| 10-31 | [1:06:18](https://www.bilibili.com/video/BV1YBxy6LEPZ/) | — | [12 组](dialogues.md#show-oct31) |
+| 10-31 | [1:06:18](https://www.bilibili.com/video/BV1YBxy6LEPZ/) | — | [整场 203 组](sessions/2026-10-31.md) |
 
-录制日期取作品题名，片长取合集的作品记录。题名中的日期不存在、上传者把另一个主播写在题名里，或内容为游戏录像的条目均已略去。同日期的不同作品放在同一行，时长按各自页面显示。页面核对于 2026 年 11 月 2 日。
+录制日期取作品题名，片长取合集的作品记录。题名中的日期不存在、上传者把另一个主播写在题名里，或内容为游戏录像的条目均已略去。同日期的不同作品放在同一行，时长按各自页面显示。录像目录核对于 2026 年 11 月 2 日，整场问答更新于 11 月 3 日。
 
 [回首页](README.md) · [来源索引](sources.md)

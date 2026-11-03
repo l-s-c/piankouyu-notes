@@ -16,4 +16,10 @@
 
 独立资料给出的答案更完整。身体活动会增加能量消耗，结合饮食调整，有助于减重和维持体重。成人的一般健康目标同时包括有氧活动和肌肉力量训练。快走能练心肺，俯卧撑能练相应肌群，可以放进同一周的安排里。鱼博那句对减重的评价应和公开指南分开读。[CDC 关于运动与体重](https://www.cdc.gov/healthy-weight-growth/physical-activity/) · [CDC 成人活动建议](https://www.cdc.gov/physical-activity-basics/guidelines/adults.html)
 
+<a name="walking-purpose"></a>
+
+## 一样是走路，锻炼和出门办事怎么选速度
+
+观众只问“走快好还是走慢好”，鱼博先问走这趟是干什么。专门出来锻炼，他会把步子放快些；平常路上走走，那就看赶不赶时间。另有人说老人总爱蹲着，他想到的办法是在旁边放个小板凳。这两题放在一起，他先改的是眼前那个动作。[2 月 28 日 · 快慢怎么选 46:54](https://www.bilibili.com/video/BV1NGABz6E7p/?t=2814) · [给老人放个板凳 43:13](https://www.bilibili.com/video/BV1NGABz6E7p/?t=2593)
+
 [知识体系总览](README.md) · [减重时怎样看一天的饮食](habits.md) · [来源索引](../sources.md)

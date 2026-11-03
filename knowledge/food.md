@@ -44,4 +44,12 @@
 
 **肉汤能养细菌，为什么只喝肉汤还不够？** 9 月 30 日，弹幕直接拿实验室的肉汤培养基反问他。他说，培养细菌和给人配一餐，问的是不同对象。观众随即改问番茄鸡蛋汤，他答少油少盐可以喝。连着听，才知道他反对的是把汤当作肉的替身。[肉汤培养基 07:48](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=468) · [番茄鸡蛋汤 08:32](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=512)
 
+<a name="milk-allergy"></a>
+
+## 喝奶不舒服，先听清是“不耐受”还是“过敏”
+
+**同一场里，相邻两道题只换了几个字，安全的回答就变了。** 第一题说乳糖不耐受，鱼博提到可以看零乳糖奶。第二题说的是“牛奶过敏”，他随口让换无糖酸奶。两段之间只隔半分钟。[10 月 31 日 · 乳糖不耐受 20:49](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=1249) · [牛奶蛋白过敏 21:22](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=1282)
+
+**编注**　后一答有误。去掉乳糖处理的是奶里的糖，普通无糖酸奶和零乳糖牛奶都仍含牛奶蛋白。确诊牛奶蛋白过敏的人应按其医疗团队的饮食方案选择替代品。前一题的换奶办法不能照搬到后一题。[英国 NHS 的牛奶蛋白过敏食物清单](https://allergynorthwest.nhs.uk/home-patient/managing-allergies/patient-leaflets/patient-cows-milk-protein-allergy/)
+
 [知识体系](README.md) · [超市选购和餐盘](shopping.md) · [分量、做法和频率](habits.md)

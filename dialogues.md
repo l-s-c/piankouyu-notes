@@ -1,8 +1,20 @@
 # 直播问答
 
-**340 组问答，答案都在这一页。** 其中 293 组按 11 份带日期的回放或长片段排列，另有 45 组切片问答、2 组主号短视频补充。点日期可以跳到这一场的问答，点回答旁的时间可以回看原片。
+想看观众怎样问、补了一句什么、鱼博又怎样接，就从这三份**整场问答**开始。每份按回放时间排列，从录屏第一秒一路写到文件结束。
 
-**本次补录**　[1 月 4 日](#show-jan04) · [2 月 22 日](#show-feb22) · [2 月 28 日](#show-feb28) · [4 月 1 日](#show-apr01) · [5 月 27 日](#show-may27) · [9 月 30 日](#show-sep30) · [10 月 31 日](#show-oct31) · [新的专题切片](#new-clips)
+<a name="full-sessions"></a>
+
+**三场共 618 组问答和追问，合计 3 小时 28 分 53 秒**。每组都有第一人称答复和片内时间。单列的主播自述、现场提醒均不计入题数。
+
+| 直播日期 | 录屏时长 | 问答和追问 | 这一场能听见什么 |
+| --- | --- | ---: | --- |
+| [2 月 28 日](sessions/2026-02-28.md) | 1:01:47 | 169 组 | 富硒鸡蛋、焯水追问、三周与三周岁 |
+| [9 月 30 日](sessions/2026-09-30.md) | 1:20:48 | 246 组 | 肉汤培养基、自家蜂蜜、中考各科满分 |
+| [10 月 31 日](sessions/2026-10-31.md) | 1:06:18 | 203 组 | 虾和米糊、椰子多少钱、怎么陪孩子学习 |
+
+下面按原编号保留 **340 组问答索引**。其中 293 组来自 11 份带日期的回放或长片段，另有 45 组切片问答和 2 组主号短视频补充。整场里再次出现的题目仍只算同一次回答。
+
+**按日期跳到原编号**　[1 月 4 日](#show-jan04) · [2 月 22 日](#show-feb22) · [2 月 28 日](#show-feb28) · [4 月 1 日](#show-apr01) · [5 月 27 日](#show-may27) · [9 月 30 日](#show-sep30) · [10 月 31 日](#show-oct31) · [新的专题切片](#new-clips)
 
 按日期挑录像，可翻[直播回放日历](recordings.md)。想只看一个问题，可从[短切片选看](clips.md)按话题选。
 
@@ -22,7 +34,7 @@
 
 **按话题直达**　[方便面怎么改一碗](#q-aug-491) · [医院工作有什么价值](#q-aug-3937) · [去瑞典用什么语言](#q-aug-7766) · [发芽土豆和豆芽](#q-m13-3784) · [中午带饭何时做](#q-m04-634) · [青团能吃几个](#q-m28-392) · [其他切片与主号补充](#other-qa) · [两段连续会话](#conversations)
 
-问和答都按原意压缩。有些问题由鱼博念出来，有些根据他接弹幕后的一段说明整理。意思相同的连续追问合在一起。主播答“不知道”、开玩笑或只是讲个人经历的地方，照当时的情形写。以下日期取自发布者对录播的标注。
+**怎么读**　答复用第一人称转述，保留当时的比较、反问和改口。问句也是题意整理，原声可点每题的时间核对。带“编注”的是整理者查证或交代的背景。有些问题由鱼博念出来，有些根据他接弹幕后的一段说明整理。意思相同的连续追问合在一起。主播答“不知道”、开玩笑或只是讲个人经历的地方，照当时的情形写。以下日期取自发布者对录播的标注。
 
 <a name="show-aug"></a>
 
@@ -36,115 +48,125 @@
 
 **001　土豆能当主食，那薯片算不算？**
 
-他会把烤、蒸或煮的土豆当主食。追问到薯片、薯条，他马上换了答案，炸过的这两样不在他刚才推荐的吃法里。 [回放 00:12](https://www.bilibili.com/video/BV1aybY6pE7k/?t=12)
+**答**　蒸土豆、煮土豆，或者烤一个，都能当主食。你接着问薯片、薯条，那可炸过了，我刚才说的是前面那几样。 [回放 00:12](https://www.bilibili.com/video/BV1aybY6pE7k/?t=12)
 
 <a name="q-aug-38"></a>
 
 **002　少吃盐，是不是干脆一点盐都别吃？**
 
-不是。他让观众把蚝油、挂面、酱油也算进去。即使做饭没另抓一把盐，用的料里也可能已经有盐了。他在另一条切片里还把腐乳、榨菜和调味料算在一起。 [回放 00:38](https://www.bilibili.com/video/BV1aybY6pE7k/?t=38) · [鸡精、味精和酱油](https://www.douyin.com/video/7645860171591224618)
+**答**　盐可以吃。你把厨房里的蚝油、酱油、挂面也算算，别光数最后撒的那一勺。 [回放 00:38](https://www.bilibili.com/video/BV1aybY6pE7k/?t=38) · [鸡精、味精和酱油](https://www.douyin.com/video/7645860171591224618)
 
 <a name="q-aug-63"></a>
 
 **003　想买条好吃的海鱼，非得买金枪鱼吗？**
 
-他先推荐自己叫“刀鱼”的带鱼。有人提金枪鱼，他仍然选带鱼。后面有人嫌带鱼没排面，他举渤海、舟山的带鱼作例子，说好带鱼未必便宜。这里的刀鱼指他当场解释的带鱼。 [回放 01:03](https://www.bilibili.com/video/BV1aybY6pE7k/?t=63) · [02:21–02:53](https://www.bilibili.com/video/BV1aybY6pE7k/?t=141)
+**答**　我买带鱼。我说的“刀鱼”就是带鱼。金枪鱼听着有排面，可你看看渤海、舟山的好带鱼，也未必便宜呀。 [回放 01:03](https://www.bilibili.com/video/BV1aybY6pE7k/?t=63) · [02:21–02:53](https://www.bilibili.com/video/BV1aybY6pE7k/?t=141)
 
 <a name="q-aug-105"></a>
 
 **004　饭前先喝汤？换成蔬菜汤、鱼汤呢？**
 
-他说不用特意安排喝汤。就是喜欢味道，可以少喝点。观众接着换了两种汤来问，他的回答仍是有菜就吃菜，有鱼就吃鱼，别只喝汤。 [回放 01:45](https://www.bilibili.com/video/BV1aybY6pE7k/?t=105) · [02:55–03:04](https://www.bilibili.com/video/BV1aybY6pE7k/?t=175) · [03:28–03:40](https://www.bilibili.com/video/BV1aybY6pE7k/?t=208)
+**答**　不用特意饭前来一碗。爱那口味就少喝点。你换成蔬菜汤，有菜就吃菜。换成鱼汤，有鱼就吃鱼，别光喝那碗水。 [回放 01:45](https://www.bilibili.com/video/BV1aybY6pE7k/?t=105) · [02:55–03:04](https://www.bilibili.com/video/BV1aybY6pE7k/?t=175) · [03:28–03:40](https://www.bilibili.com/video/BV1aybY6pE7k/?t=208)
 
 <a name="q-aug-222"></a>
 
 **005　玉米打成糊吃，和直接啃玉米一样吗？**
 
-他更喜欢直接啃，玉米本身就挺好，没必要打成糊。说的是日常选哪种吃法，这段没谈吞咽有困难的人。 [回放 03:42](https://www.bilibili.com/video/BV1aybY6pE7k/?t=222)
+**答**　平时我就直接啃。好好一根玉米，非得打成糊干什么？ [回放 03:42](https://www.bilibili.com/video/BV1aybY6pE7k/?t=222)
+
+**编注**　这道题的前提是平常能正常咀嚼。
 
 <a name="q-aug-239"></a>
 
 **006　海带能多吃吗？紫菜、海苔呢？**
 
-他的答法是可以吃，别老是大量吃。他把海带、紫菜、海苔放在一块儿说，理由是含碘。没在直播里给每个人定克数。 [回放 03:59](https://www.bilibili.com/video/BV1aybY6pE7k/?t=239)
+**答**　能吃，别老是一大堆一大堆地吃。你换成紫菜、海苔，我还是这句话，这几样里都有碘。 [回放 03:59](https://www.bilibili.com/video/BV1aybY6pE7k/?t=239)
 
 <a name="q-aug-282"></a>
 
 **007　坐月子有必要买专门的“月子水”吗？**
 
-没有必要。他把婴儿、产妇专用水放在一起说，质疑的是单凭人群名称卖贵的“特殊”饮用水。此处没有讨论婴儿何时能喝水或怎么冲奶。 [回放 04:42](https://www.bilibili.com/video/BV1aybY6pE7k/?t=282)
+**答**　我不买。水贴上“产妇专用”“婴儿专用”，光凭这几个字就要多花钱，我看没必要。 [回放 04:42](https://www.bilibili.com/video/BV1aybY6pE7k/?t=282)
+
+**编注**　本题只涉及商品溢价。
 
 <a name="q-aug-293"></a>
 
 **008　家里总有隔夜菜，给孕妇再热透了行不行？**
 
-他当场尤其不赞成给孕妇留隔夜菜。追问再蒸透行不行，他还是主张改改一开始的备餐量，这顿少做点，现做现吃。这里只记他的备餐偏好，不能据此把所有妥善冷藏的剩菜定成不安全。 [回放 04:53](https://www.bilibili.com/video/BV1aybY6pE7k/?t=293) · [06:02–06:34](https://www.bilibili.com/video/BV1aybY6pE7k/?t=362)
+**答**　我会少做一点，让她这顿吃现做的。你问明天再蒸一遍呢？我宁愿今天做饭的时候就别剩那么多。 [回放 04:53](https://www.bilibili.com/video/BV1aybY6pE7k/?t=293) · [06:02–06:34](https://www.bilibili.com/video/BV1aybY6pE7k/?t=362)
+
+**编注**　这是备餐偏好。食品安全还取决于冷藏和处理方式。
 
 <a name="q-aug-328"></a>
 
 **009　既然说鸡蛋好，那一天吃五十个？**
 
-他把这个数量当抬杠，直接否了。推荐吃鸡蛋，和叫人一口气吃几十个，是两件事。这段玩笑不能用来换算一个人该吃几颗。 [回放 05:28](https://www.bilibili.com/video/BV1aybY6pE7k/?t=328)
+**答**　五十个？谁让你这么吃了？鸡蛋好，也不能一下吃几十个。 [回放 05:28](https://www.bilibili.com/video/BV1aybY6pE7k/?t=328)
 
 <a name="q-aug-398"></a>
 
 **010　红糖水算不算好饮品？**
 
-他让提问者把它当糖水看。颜色和名字变了，喝进去的还是糖，他不赞成把它当日常补品。 [回放 06:38](https://www.bilibili.com/video/BV1aybY6pE7k/?t=398)
+**答**　先把它当糖水。换个红颜色，你喝下去的还是糖，没必要当补品喝。 [回放 06:38](https://www.bilibili.com/video/BV1aybY6pE7k/?t=398)
 
 <a name="q-aug-415"></a>
 
 **011　牛奶和豆浆选哪一个？**
 
-两样他都认可。说到牛奶，他提的是钙。说到豆浆，他提的是大豆蛋白。 [回放 06:55](https://www.bilibili.com/video/BV1aybY6pE7k/?t=415)
+**答**　牛奶可以，豆浆也可以。你问钙，我会提牛奶。你问大豆蛋白，我会提豆浆。 [回放 06:55](https://www.bilibili.com/video/BV1aybY6pE7k/?t=415)
 
 <a name="q-aug-429"></a>
 
 **012　高中生备考，安神补脑液值不值得喝？**
 
-他不建议为了考试买。喝了不会替你学会课本。家里想给孩子加点营养，他建议吃点鱼或鸡蛋，再把精力放回学习。 [回放 07:09](https://www.bilibili.com/video/BV1aybY6pE7k/?t=429) · [08:05–08:09](https://www.bilibili.com/video/BV1aybY6pE7k/?t=485)
+**答**　这钱省下。它能替你把课本学会吗？家里想给你加点营养，吃点鱼、吃个鸡蛋，该学的还得自己学。 [回放 07:09](https://www.bilibili.com/video/BV1aybY6pE7k/?t=429) · [08:05–08:09](https://www.bilibili.com/video/BV1aybY6pE7k/?t=485)
 
 <a name="q-aug-491"></a>
 
 **013　方便面能吃吗？实在想吃，怎么改一碗？**
 
-他劝少吃。实在想煮一碗，就选非油炸的面，料包放一半，再加菜、打个蛋。 [回放 08:11](https://www.bilibili.com/video/BV1aybY6pE7k/?t=491)
+**答**　少吃。真就馋这一碗，挑非油炸的面，料包放一半，放点菜，再打个蛋。 [回放 08:11](https://www.bilibili.com/video/BV1aybY6pE7k/?t=491)
 
 <a name="q-aug-526"></a>
 
 **014　胶原蛋白肽是不是智商税？**
 
-他在白板上划掉“氨基酸”和“肽”，说不管国产还是进口，别只凭这些字花钱。讲到补蛋白，他拿一枚便宜的鸡蛋来比。这是他挑日常保健品的态度，不含临床营养制剂。 [回放 08:46](https://www.bilibili.com/video/BV1aybY6pE7k/?t=526)
+**答**　你看包装上写氨基酸、写肽，国产的、进口的，先别急着掏钱。你买它是为了补蛋白？算算一个鸡蛋才多少钱。 [回放 08:46](https://www.bilibili.com/video/BV1aybY6pE7k/?t=526)
+
+**编注**　这里讨论的是日常保健品。
 
 <a name="q-aug-599"></a>
 
-**015　汉堡放到平常一餐里，他嫌弃的是什么？**
+**015　汉堡放到平常一餐里，你嫌弃的是什么？**
 
-他点出的是白面包和里面热量高的酱。给这类汉堡的评价很低，原片里没有比较每家店、每一种配方。 [回放 09:59](https://www.bilibili.com/video/BV1aybY6pE7k/?t=599)
+**答**　我嫌的是白面包，还有里面挤的那些热量高的酱。说的就是眼前这类汉堡。 [回放 09:59](https://www.bilibili.com/video/BV1aybY6pE7k/?t=599)
 
 <a name="q-aug-612"></a>
 
 **016　虾壳能吃吗，值得专门吃壳吗？**
 
-他答可以吃，但没必要专门吃壳，谈的是其中成分的利用率。这道题里他没有给出某种营养素的吸收比例。 [回放 10:12](https://www.bilibili.com/video/BV1aybY6pE7k/?t=612)
+**答**　能吃，可你图什么呢？壳里有成分，吃下去能用上多少又是另一回事。我不会为了这个特意吃虾壳。 [回放 10:12](https://www.bilibili.com/video/BV1aybY6pE7k/?t=612)
 
 <a name="q-aug-624"></a>
 
 **017　白肉和红肉怎么选，是不是只吃一种？**
 
-他提到红肉含铁较多，给的日常取舍是多选些白肉，红肉适当吃，没有说彻底戒掉红肉。 [回放 10:24](https://www.bilibili.com/video/BV1aybY6pE7k/?t=624)
+**答**　我会多选些白肉，红肉也适当吃，红肉里铁比较多。用不着只留一样。 [回放 10:24](https://www.bilibili.com/video/BV1aybY6pE7k/?t=624)
 
 <a name="q-aug-690"></a>
 
 **018　孕妇平时多吃点什么？**
 
-他一连重复“肉蛋奶”。这条回答说的是把日常饭菜安排好。他没有在这个问题里给出每种吃多少，也没有讨论孕期是否需要按医嘱补充营养素。 [回放 11:30](https://www.bilibili.com/video/BV1aybY6pE7k/?t=690)
+**答**　肉、蛋、奶，先把平常这几样安排好。 [回放 11:30](https://www.bilibili.com/video/BV1aybY6pE7k/?t=690)
+
+**编注**　此处没有讨论不同孕期的需要量或医嘱补充方案。
 
 <a name="q-aug-708"></a>
 
 **019　家里有孩子，去阳台、楼道或者楼下抽，就不影响家里人了？**
 
-他不认同。人抽完回家，衣服身上还有烟味，小孩子一样闻得到。后面有人问口罩能不能隔开二手烟，他也没把戴口罩当成继续抽的解决方案。 [回放 11:48](https://www.bilibili.com/video/BV1aybY6pE7k/?t=708) · [13:35–13:46](https://www.bilibili.com/video/BV1aybY6pE7k/?t=815) · [16:19–16:23](https://www.bilibili.com/video/BV1aybY6pE7k/?t=979)
+**答**　你从楼下抽完回来，衣服上、身上是不是还有烟味？孩子一样能闻到。戴个口罩也别当成继续抽的理由。 [回放 11:48](https://www.bilibili.com/video/BV1aybY6pE7k/?t=708) · [13:35–13:46](https://www.bilibili.com/video/BV1aybY6pE7k/?t=815) · [16:19–16:23](https://www.bilibili.com/video/BV1aybY6pE7k/?t=979)
 
 ### 14:14 起　日常选择，红肠、凉茶、脱发和生食
 
@@ -152,109 +174,113 @@
 
 **020　麦角硫因火了，有必要专门买吗？**
 
-他的回答是没必要。听见一个新养生名词，不等于得买一瓶。他举的家常替代是蘑菇，让想吃的人直接吃蘑菇。白板也写了“麦角硫因”。 [回放 14:14](https://www.bilibili.com/video/BV1aybY6pE7k/?t=854)
+**答**　我不会专门买一瓶。你想吃，蘑菇里就有，吃蘑菇呗。 [回放 14:14](https://www.bilibili.com/video/BV1aybY6pE7k/?t=854)
 
 <a name="q-aug-879"></a>
 
 **021　东北红肠呢？自己爱吃也不能吃？**
 
-他先说自己很爱吃哈尔滨红肠，不过也劝人少吃。他把它和熏肉、腊肉放在一起，味道合自己胃口，这层考虑还在。 [回放 14:39](https://www.bilibili.com/video/BV1aybY6pE7k/?t=879)
+**答**　我还爱吃哈尔滨红肠呢。爱吃归爱吃，跟熏肉、腊肉一样，我也劝你少吃点。 [回放 14:39](https://www.bilibili.com/video/BV1aybY6pE7k/?t=879)
 
 <a name="q-aug-917"></a>
 
 **022　老人肉吃得不多，喝蛋白粉怎么样？**
 
-他先想到鸡蛋。平时肉吃得少，可以把蛋作为另一种蛋白质来源。这是日常吃饭的简答，没有评估吞咽困难或营养不良。 [回放 15:17](https://www.bilibili.com/video/BV1aybY6pE7k/?t=917)
+**答**　平常肉吃得少，还可以吃鸡蛋。先看看饭桌上能不能把蛋白质补上。 [回放 15:17](https://www.bilibili.com/video/BV1aybY6pE7k/?t=917)
+
+**编注**　原问没有提供吞咽状况或营养评估。
 
 <a name="q-aug-920"></a>
 
 **023　吃“美白丸”能不能变白？**
 
-他不建议买。观众后来又问，他让人先做好防晒，别指望吃一丸改变自己的肤色。 [回放 15:20](https://www.bilibili.com/video/BV1aybY6pE7k/?t=920) · [16:23–16:35](https://www.bilibili.com/video/BV1aybY6pE7k/?t=983)
+**答**　我不买。想在这上面花心思，先把防晒做好，别指望吃个丸子就能换肤色。 [回放 15:20](https://www.bilibili.com/video/BV1aybY6pE7k/?t=920) · [16:23–16:35](https://www.bilibili.com/video/BV1aybY6pE7k/?t=983)
 
 <a name="q-aug-950"></a>
 
 **024　广东凉茶好不好？换成加多宝呢？**
 
-他欣赏粤菜里海鲜、蔬菜多。说到用药材煮的凉茶，却回答少喝，不赞成当成普通水天天喝。又有人问加多宝，他把这类罐装甜凉茶当作含糖饮料看。 [回放 15:50](https://www.bilibili.com/video/BV1aybY6pE7k/?t=950) · [16:58–17:08](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1018)
+**答**　广东菜里海鲜、蔬菜多，我挺喜欢。你问药材煮的凉茶，我劝少喝，别天天当水喝。加多宝？那我按含糖饮料算。 [回放 15:50](https://www.bilibili.com/video/BV1aybY6pE7k/?t=950) · [16:58–17:08](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1018)
 
 <a name="q-aug-999"></a>
 
 **025　总觉得自己“湿气重”，先买点什么祛湿？**
 
-他不接受这个自我诊断，也没给“祛湿”的产品。他反复让人别在家给自己下诊断。真担心身体情况，去正规医院问。 [回放 16:39](https://www.bilibili.com/video/BV1aybY6pE7k/?t=999) · [18:34–18:43](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1114)
+**答**　你怎么知道自己“湿气重”？先别在家给自己下诊断，也别照这个说法买东西。真有不舒服，去正规医院问。 [回放 16:39](https://www.bilibili.com/video/BV1aybY6pE7k/?t=999) · [18:34–18:43](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1114)
 
 <a name="q-aug-1143"></a>
 
 **026　孩子一直瘦，怎么把他喂胖？**
 
-他先反问为什么一定要把孩子喂胖，不赞成为了看起来壮就使劲喂。直播里没有孩子的身高、体重和生长记录，无法据此判断这个孩子有没有生长问题。 [回放 19:03](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1143)
+**答**　为什么一定要把孩子喂胖？就为了看着壮，使劲往里喂，我不赞成。 [回放 19:03](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1143)
+
+**编注**　当时没有孩子的身高、体重或生长记录。
 
 <a name="q-aug-1271"></a>
 
 **027　小儿推拿提倡吗？**
 
-他不主张用躺在床上挨按代替活动。给出的替代不是另一种项目。他提到可以出去打球、走走、晒晒太阳。后面谈到孩子缺锻炼又回到了这点。 [回放 21:11](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1271) · [23:07–23:25](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1387)
+**答**　我更愿意让孩子出去打打球、走一走、晒晒太阳。你想让孩子动起来，让他躺着让人按，哪儿动了？ [回放 21:11](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1271) · [23:07–23:25](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1387)
 
 <a name="q-aug-1429"></a>
 
 **028　每天拿蔬菜干代替新鲜蔬菜，行不行？**
 
-他直接答不能，强调平常饭菜里还是应当有新鲜蔬菜。他答的是每天都替代，不是问偶尔吃几片蔬菜干。 [回放 23:49](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1429)
+**答**　每天都指着蔬菜干顶上？我不赞成。饭桌上还是得有新鲜蔬菜。 [回放 23:49](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1429)
 
 <a name="q-aug-1553"></a>
 
 **029　红薯生吃比蒸熟营养更高吗？**
 
-这次他没有给营养比较下结论。他先反问地瓜怎么生吃，在观众解释之后又承认自己没这么吃过。他说自己平常见的是烤、煮的。 [回放 25:53](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1553) · [27:01–27:19](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1621)
+**答**　地瓜还能生吃？你这么一说，我还真没这么吃过。我平时见的是烤的、煮的，要比较生熟哪个营养高，我答不上来。 [回放 25:53](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1553) · [27:01–27:19](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1621)
 
 <a name="q-aug-1629"></a>
 
 **030　学校食堂饭菜太油，想控制体重该怎么吃？**
 
-他给学生一个就在餐盘边能做的办法，把油沥一沥，再吃。回答完这句，弹幕又把话题带回了红薯。 [回放 27:09](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1629)
+**答**　食堂已经做好了，你先把菜上的油沥一沥再吃。端着盘子也能做这一步。 [回放 27:09](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1629)
 
 <a name="q-aug-1645"></a>
 
 **031　脱发是不是因为“气血不足”？**
 
-他先问是哪种脱发，在板上写了“雄脱”，再拿自己和父亲都有脱发举例。和营养缺乏又是两种情况。他没凭一句留言就让人进补。 [回放 27:25](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1645) · [27:54–28:09](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1674)
+**答**　先说是哪一种脱发。比如雄脱，我爸脱，我也脱。如果是营养缺乏，又得另说。光凭掉头发就认定该进补，怎么认定的？ [回放 27:25](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1645) · [27:54–28:09](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1674)
 
 <a name="q-aug-1699"></a>
 
 **032　把苹果、红枣一起煮水，能“养胃”吗？**
 
-他直接否了靠这碗水养胃的说法。后面再比生吃和煮苹果，他倾向直接吃苹果。没把煮出的水当补品。 [回放 28:19](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1699) · [29:09–29:16](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1749)
+**答**　我不指望这碗水养胃。要我在煮水和吃苹果之间选，我直接吃苹果。 [回放 28:19](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1699) · [29:09–29:16](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1749)
 
 <a name="q-aug-1794"></a>
 
 **033　生虾能吃吗？换成常拿来做刺身的三文鱼呢？**
 
-他建议把肉、鱼、虾做熟。三文鱼被单独拿出来追问，他仍然主张可以蒸、煮、烤，提到运输中处理条件未必清楚。这里记录的是他的选择。 [回放 29:54](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1794) · [31:39–32:28](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1899)
+**答**　虾我会做熟。你换成三文鱼，我也会蒸、煮或者烤。运到你手里，中间怎么处理的，你都知道吗？ [回放 29:54](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1794) · [31:39–32:28](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1899)
 
 <a name="q-aug-1809"></a>
 
 **034　平常想提高免疫力，从哪件事做起？**
 
-他一口气列的是出去运动、练肌肉、吃些蛋白质、早点睡。没有推荐哪一瓶补剂。 [回放 30:09](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1809)
+**答**　出去运动，练点肌肉，吃些蛋白质，该睡就早点睡。先把这几件事做好。 [回放 30:09](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1809)
 
 <a name="q-aug-1893"></a>
 
 **035　网上说这样会“折损阳气”，还能天天洗澡、洗头吗？**
 
-他回答能，说自己就这样做。稍后弹幕搬出“专家”，他仍然不同意仅凭网上这个头衔就认定日常洗头有害。 [回放 31:33](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1893) · [32:49–33:11](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1969)
+**答**　能啊，我自己就洗。网上有人挂个“专家”的名头，说洗头就折损什么，你就真不洗了？ [回放 31:33](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1893) · [32:49–33:11](https://www.bilibili.com/video/BV1aybY6pE7k/?t=1969)
 
 <a name="q-aug-2049"></a>
 
 **036　读复旦时，你到底有没有出过门诊？**
 
-他举自己出国前的经历，说他在国内三甲医院工作过、出过门诊，后来还翻出照片给直播间看。 [回放 34:09](https://www.bilibili.com/video/BV1aybY6pE7k/?t=2049) · [34:49–35:21](https://www.bilibili.com/video/BV1aybY6pE7k/?t=2089)
+**答**　我出国以前在国内三甲医院上过班，也出过门诊。刚才给大家翻的就是那时候的照片。 [回放 34:09](https://www.bilibili.com/video/BV1aybY6pE7k/?t=2049) · [34:49–35:21](https://www.bilibili.com/video/BV1aybY6pE7k/?t=2089)
 
 <a name="q-aug-2183"></a>
 
 **037　直播时怎么不开空调？欧洲没空调是不是受不了？**
 
-他答自己住在北欧，当地热到需要开冷气的日子很少，夜里还会盖被子。他拿自己的居住经验反驳把欧洲一概说成热得受不了。不能据此推断整个欧洲的天气。 [回放 36:23](https://www.bilibili.com/video/BV1aybY6pE7k/?t=2183) · [37:14–37:47](https://www.bilibili.com/video/BV1aybY6pE7k/?t=2234)
+**答**　我住北欧，我们这儿热到得开冷气的日子少，夜里我还盖被子呢。你问我住得怎么样，我只能说我这儿。 [回放 36:23](https://www.bilibili.com/video/BV1aybY6pE7k/?t=2183) · [37:14–37:47](https://www.bilibili.com/video/BV1aybY6pE7k/?t=2234)
 
 ### 43:55 起　卖鱼油时，观众也在问背书、鸡蛋和学医
 
@@ -262,73 +288,77 @@
 
 **038　宿舍没地方冷藏，直播间两种鱼油有什么区别？**
 
-就当场卖的两款，他说液体款开瓶后尽量冷藏，另一个链接是胶囊。后来有人说学生没法冷藏，他指向胶囊款。这是售卖现场的产品说明，不能当作学生普遍需要补鱼油的依据。 [回放 43:55](https://www.bilibili.com/video/BV1aybY6pE7k/?t=2635) · [44:50–44:56](https://www.bilibili.com/video/BV1aybY6pE7k/?t=2690) · [同款再次谈储存 52:27](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3147)
+**答**　我这场卖的液体款，开了瓶我会尽量冷藏。你宿舍没地方冷藏，另一个链接是胶囊。 [回放 43:55](https://www.bilibili.com/video/BV1aybY6pE7k/?t=2635) · [44:50–44:56](https://www.bilibili.com/video/BV1aybY6pE7k/?t=2690) · [同款再次谈储存 52:27](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3147)
+
+**编注**　此处是两款商品的售卖说明。
 
 <a name="q-aug-3088"></a>
 
 **039　《出师表》背得出来，那你知道是什么意思吗？**
 
-要先知道古文在说什么。他刚背了《出师表》的开头，听见有人问懂不懂意思，就反问，连意思都不知道，怎么把文章背下来？ [回放 51:28](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3088)
+**答**　先把意思弄明白。你连人家在说什么都不知道，怎么把这么一篇背下来？ [回放 51:28](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3088)
 
 <a name="q-aug-3240"></a>
 
 **040　鱼油和鸡蛋哪个更有用？**
 
-想补蛋白质，他仍推鸡蛋。他把鱼油放在补脂肪酸的问题里讨论，这两个用途不能直接排个高低。后面又拿水和鸡蛋举例说明为什么不好硬比。 [回放 54:00](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3240)
+**答**　你要补蛋白质，我选鸡蛋。聊鱼油是在说脂肪酸。非让我排个第一，那水和鸡蛋你又怎么排？ [回放 54:00](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3240)
 
 <a name="q-aug-3458"></a>
 
 **041　你卖的鱼油和别的牌子比，哪款更好？**
 
-他没有替不同牌子排高低，只讲自己为什么挑手里这款。他在瑞典住处附近的超市见得到，也吃过。这是他在带货时说的选品理由。 [回放 57:38](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3458)
+**答**　别的牌子我不给你排。我说说我自己为什么挑手里这款，在瑞典我家附近的超市见得到，我也吃过。 [回放 57:38](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3458)
+
+**编注**　这段发生在带货时。
 
 <a name="q-aug-3602"></a>
 
 **042　饼干能当常吃的零食吗？**
 
-他答少吃。理由是他看到的这类饼干有精制面粉，还常搭上油、盐或糖。这段没有评价某一包饼干的实测成分。 [回放 1:00:02](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3602)
+**答**　我劝少吃。你看看这类饼干，精制面粉配上油，有的再添盐或糖，天天拿它当零嘴干什么？ [回放 1:00:02](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3602)
 
 <a name="q-aug-3719"></a>
 
 **043　你现在还去实验室做实验吗？**
 
-他说当时已有一段时间没做实验，把更多精力放在了自媒体上。说的是他在这场直播里对自己近况的回忆。 [回放 1:01:59](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3719)
+**答**　我有一阵子没去做实验了，最近更多时间在做自媒体。 [回放 1:01:59](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3719)
 
 <a name="q-aug-3758"></a>
 
 **044　自媒体有起色时，你为什么决定把精力移过来？**
 
-他回忆，做自媒体刚见到起色时，就判断这是自己应该抓住的机会。他决定多研究怎样把内容做好。这是他顺着实验室问题继续讲自己的取舍。 [回放 1:02:38](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3758)
+**答**　当时自媒体刚有点起色，我觉得这个机会得抓。把精力挪过来，我就能多琢磨琢磨内容到底怎么做。 [回放 1:02:38](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3758)
 
 <a name="q-aug-3842"></a>
 
 **045　你为什么不去医院？家里孩子想学医，要先想什么？**
 
-先考虑学历要求、找工作的难度和以后的工作强度。他说起自己与在医院工作的同学、老师聊过的经历，给出的提醒是家里先把这些代价想清楚。 [回放 1:04:02](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3842)
+**答**　先想想读到什么学历、毕业找工作难不难、真进医院以后能不能吃得消。我和在医院的同学、老师都聊过，这几笔账得先算。 [回放 1:04:02](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3842)
 
 <a name="q-aug-3937"></a>
 
 **046　做医生救死扶伤，难道没有价值？**
 
-有，他认可那种价值。他回忆穿白大褂上班时，尽管值夜班很累，帮助病人带来的成就感确实不一样。这段是他回应上一个职业选择问题的补充。 [回放 1:05:37](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3937)
+**答**　当然有价值。我穿白大褂上班那会儿，夜班是真累，能帮到病人，那份成就感也是真的。 [回放 1:05:37](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3937)
 
 <a name="q-aug-3995"></a>
 
 **047　做自媒体以后，跟以前上班比怎么样？**
 
-他拿自己的收入和过去上班作对比，说收入差不多，做自媒体相对轻松些。他讲的是自己的感受。 [回放 1:06:35](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3995)
+**答**　就我自己，收入跟以前上班差不多，做自媒体我觉得相对轻松一点。 [回放 1:06:35](https://www.bilibili.com/video/BV1aybY6pE7k/?t=3995)
 
 <a name="q-aug-4071"></a>
 
 **048　在瑞典读博，日常花销扛得住吗？**
 
-他觉得自己的日常花销还可以，特意解释自己在读的博士岗位按月领工资。他据此说明自己怎样负担生活费。 [回放 1:07:51](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4071)
+**答**　我这份博士岗位每个月领工资，靠这笔钱付生活费，日常花销我觉得还扛得住。 [回放 1:07:51](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4071)
 
 <a name="q-aug-4131"></a>
 
 **049　瑞典水果贵，你平常自己吃得多吗？**
 
-他说自己平时吃水果少，办公室有免费苹果就吃。这里是在聊他个人怎样吃。 [回放 1:08:51](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4131)
+**答**　我平常水果吃得少。办公室有免费的苹果，我就拿一个吃。 [回放 1:08:51](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4131)
 
 ### 1:10:49 起　全麦麦片、直播这份工作和品牌合作
 
@@ -336,85 +366,95 @@
 
 **050　你推的全麦麦片，挑它看中了包装上的什么？**
 
-他当场翻到配料，指给观众看这款用全麦小麦，也反复强调没有油炸。这是他介绍手里这一款时的依据。 [回放 1:10:49](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4249)
+**答**　你看我手里这盒的配料，用的是全麦小麦，也没油炸。我挑它看的是这两样。 [回放 1:10:49](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4249)
+
+**编注**　正在介绍直播间商品。
 
 <a name="q-aug-4309"></a>
 
 **051　你拿什么酸奶配这一盒麦片？**
 
-他答酸奶是自己随便买的，没有指定品牌。他把麦片和酸奶配在一起，后来还举了泡牛奶的吃法。 [回放 1:11:49](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4309)
+**答**　酸奶是我随手买的，没指定哪一牌。想换换吃法，拿牛奶泡麦片也行。 [回放 1:11:49](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4309)
 
 <a name="q-aug-4336"></a>
 
 **052　这种麦片可以当早餐，换到晚餐还能吃吗？**
 
-他觉得早上给上学的孩子当主食很方便，又明确回答晚上也可以吃。 [回放 1:12:16](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4336)
+**答**　早上孩子赶着上学，拿它当主食挺方便。晚上就不能吃了？晚上也能吃。 [回放 1:12:16](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4336)
 
 <a name="q-aug-4374"></a>
 
 **053　怎么不找份正经工作？**
 
-他当场反问，做主播、带货为什么不能算一份工作？接着提到自己开始带货以后，妈妈也很高兴。 [回放 1:12:54](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4374)
+**答**　我做主播、带货，怎么就不算工作了？我开始带货以后，我妈还挺高兴。 [回放 1:12:54](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4374)
 
 <a name="q-aug-4427"></a>
 
 **054　你已经博士毕业了吗？**
 
-这场播于 8 月，他说预计下个月毕业，父母也快来了。到 9 月 30 日，他在主号短视频里才正式向观众宣布毕业。 [回放 1:13:47](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4427) · [9 月主号视频](https://www.douyin.com/video/7691157794469680825) · [当晚再次回答 1:43:29](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6209)
+**答**　还没，我预计下个月毕业，我爸我妈也快来了。 [回放 1:13:47](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4427) · [9 月主号视频](https://www.douyin.com/video/7691157794469680825) · [当晚再次回答 1:43:29](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6209)
+
+**编注**　这场是 8 月。9 月 30 日他才在主号宣布毕业。
 
 <a name="q-aug-4687"></a>
 
 **055　成人买复合维生素，一定得找“男士专用”或“女士专用”吗？**
 
-他个人不太看重这个名字，也不爱用男女区分来卖产品。这个回答是在谈营销标签，具体配方和个人营养需要要另看。 [回放 1:18:07](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4687)
+**答**　我不看重包装上“男士”“女士”这几个字，也不喜欢拿这个来卖东西。 [回放 1:18:07](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4687)
+
+**编注**　两款产品的具体配方仍需分别看。
 
 <a name="q-aug-4857"></a>
 
 **056　你现在吃的麦片算一顿饭，还是吃完还要吃饭？**
 
-他当时把它当主食，表示自己吃了两块，觉得饱了，接下来不再吃饭。这只是他当天的分量。 [回放 1:20:57](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4857)
+**答**　我今天把它当主食，吃了两块，已经饱了，待会儿就不再吃一顿。说的是我这顿吃了多少。 [回放 1:20:57](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4857)
 
 <a name="q-aug-4876"></a>
 
 **057　你为什么愿意用全麦替换一部分白米白面？**
 
-他看重全麦中的膳食纤维，也说自己吃这种麦片觉得顶饱。不太容易越吃越多，是他在这场强调的理由。 [回放 1:21:16](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4876)
+**答**　我看中的是全麦里的膳食纤维。我自己吃这种麦片觉得顶饱，也不太容易一直往下吃。 [回放 1:21:16](https://www.bilibili.com/video/BV1aybY6pE7k/?t=4876)
 
 <a name="q-aug-5028"></a>
 
 **058　全麦麦片吃了会不会胖？**
 
-吃多了照样可能胖。他把它当主食，意思是可以替换原来一部分精制主食，吃了一餐后额外多加一份仍要算进去。 [回放 1:23:48](https://www.bilibili.com/video/BV1aybY6pE7k/?t=5028)
+**答**　你吃多了照样可能胖。我拿它换掉一部分白米白面，你要是饭照吃，吃完再加一份麦片，那就多了一份。 [回放 1:23:48](https://www.bilibili.com/video/BV1aybY6pE7k/?t=5028)
 
 <a name="q-aug-5092"></a>
 
 **059　能推荐一款牙膏吗？为什么你这儿还没上架？**
 
-他说还在跟牙膏品牌谈，想谈到自己愿意在直播间卖的价格。谈不下来，目前就没有这款可推荐。 [回放 1:24:52](https://www.bilibili.com/video/BV1aybY6pE7k/?t=5092)
+**答**　我在跟品牌谈，想谈到一个我愿意拿来卖的价格。现在还没谈下来，就还没有。 [回放 1:24:52](https://www.bilibili.com/video/BV1aybY6pE7k/?t=5092)
 
 <a name="q-aug-5259"></a>
 
 **060　你自己用过的洗发水，怎么没在直播间卖？**
 
-他说大学时用过这款，也联系了品牌，但品牌与他对直播销售费用没有谈拢。这段区分了他个人用过、想合作和真正能卖三个阶段。 [回放 1:27:39](https://www.bilibili.com/video/BV1aybY6pE7k/?t=5259)
+**答**　我大学时用过，也联系了品牌。可我用过是一回事，合作费用谈不拢，直播间就卖不了。 [回放 1:27:39](https://www.bilibili.com/video/BV1aybY6pE7k/?t=5259)
 
 <a name="q-aug-5444"></a>
 
 **061　你回头看自己的高中，会再选同一所吗？**
 
-他自己有过后悔。回忆高中时，他说学校给学生的自由比较多，他自己当年爱玩，觉得换个环境也许能考得更好。 [回放 1:30:44](https://www.bilibili.com/video/BV1aybY6pE7k/?t=5444)
+**答**　我还真有点后悔。学校给的自由多，我那时候又爱玩。换个环境，也许我能考得好点。 [回放 1:30:44](https://www.bilibili.com/video/BV1aybY6pE7k/?t=5444)
 
 <a name="q-aug-5912"></a>
 
 **062　专业重要还是学校重要？**
 
-他先接了个谐音梗，回“家业重要”。稍后观众又问专业和学校，他还是这样回。这一轮他没有认真替人二选一。 [回放 1:38:32](https://www.bilibili.com/video/BV1aybY6pE7k/?t=5912)
+**答**　家业重要。 [回放 1:38:32](https://www.bilibili.com/video/BV1aybY6pE7k/?t=5912)
+
+**编注**　专业和学校被问了两次，这两次他都拿谐音逗乐，没有给出择校排序。
 
 <a name="q-aug-5988"></a>
 
 **063　为什么不在快手直播？**
 
-他在这场说，自己当时没有快手号，提醒观众别在快手上把其他账号当成自己。 [回放 1:39:48](https://www.bilibili.com/video/BV1aybY6pE7k/?t=5988)
+**答**　我现在没有快手号。你们在快手看见别的账号，别认成我。 [回放 1:39:48](https://www.bilibili.com/video/BV1aybY6pE7k/?t=5988)
+
+**编注**　“现在”指这场直播时。
 
 ### 1:41:22 起　家庭、产后休息和回国的打算
 
@@ -422,43 +462,49 @@
 
 **064　你在上海买房了？**
 
-他故意把话越说越夸张，从买一栋楼讲到买整个小区，借这个玩笑岔开私人提问。片段能看出他怎样接话，确认不了房产情况。 [回放 1:41:22](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6082)
+**答**　买一栋楼？要不干脆说我把整个小区都买了？ [回放 1:41:22](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6082)
+
+**编注**　他顺着问题开了个玩笑，房产情况没有得到证实。
 
 <a name="q-aug-6173"></a>
 
 **065　麻辣烫为什么被你说成不健康？**
 
-他嫌的是重油、重盐，还把糖也一并提了。把这个答复用到眼前的一碗，要看汤底、蘸料和选的食材。他没有分析某家店的配方。 [回放 1:42:53](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6173)
+**答**　我嫌它油重、盐重，有的又放糖。 [回放 1:42:53](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6173)
+
+**编注**　原答没有分析具体店家的汤底或食材。
 
 <a name="q-aug-6177"></a>
 
 **066　学医考研要考数学吗？**
 
-他当场按他熟悉的医学考研经历答“不考”。具体到某年、某校和学科方向，要查当年招生目录中列出的科目。 [回放 1:42:57](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6177)
+**答**　按我自己熟悉的医学考研经历，不考数学。 [回放 1:42:57](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6177)
+
+**编注**　报考时应查对应年份、院校和专业的招生目录。
 
 <a name="q-aug-6250"></a>
 
 **067　生了孩子，到底该不该坐月子？**
 
-鱼博赞成让产妇安心休息，反问家人为什么连产后休息的时间都不肯留。稍后有人追问外国人，他又把各地习俗和产后休息这件事分开。 [回放 1:44:10](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6250) · [同场追问 1:45:15](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6315)
+**答**　让刚生完孩子的人好好休息，我赞成。为什么连这段休息时间都舍不得给她？至于各地的习俗，那可以另聊。 [回放 1:44:10](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6250) · [同场追问 1:45:15](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6315)
 
 <a name="q-aug-6443"></a>
 
 **068　读完会留在瑞典生活吗？**
 
-他想回国。让他挑能长期住的地方，他先说上海、深圳，接着补上杭州。夏天去北欧避暑、短住度假，他也乐意。他觉得适合旅游和自己愿意久住是两个问题。 [回放 1:47:23](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6443)
+**答**　我想回国。让我挑长期住的地方，我会想上海、深圳，还有杭州。夏天来北欧避暑我也愿意，度假和长住我选得不一样。 [回放 1:47:23](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6443)
 
 <a name="q-aug-6738"></a>
 
-**069　有人说山东胶东气候好，他自己更喜欢哪里？**
+**069　有人说山东胶东气候好，你自己更喜欢哪里？**
 
-论个人舒适度，他偏向云南，也说到广东。他用北方冬天的风雪和自己的过冬体验解释，家乡认同和喜欢哪种气候可以分开。 [回放 1:52:18](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6738)
+**答**　讲我自己住着舒不舒服，我偏云南，广东我也提过。北方过冬那风雪我经历过。喜欢家乡，跟喜欢哪种天气可以分开说。 [回放 1:52:18](https://www.bilibili.com/video/BV1aybY6pE7k/?t=6738)
 
 <a name="q-aug-7032"></a>
 
 **070　既然不打算去医院，为什么还接着读博？**
 
-他答当时离毕业只剩大约一个月，打算把已经接近完成的博士读完。准备拿学位和毕业后选什么工作，在他这里是两件事。 [回放 1:57:12](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7032)
+**答**　我离毕业大概就一个月了，先把学位读完。毕业后去哪儿工作，那是接下来再选的事。 [回放 1:57:12](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7032)
 
 ### 2:00:07 起　从医院转向直播，读博和选专业怎样取舍
 
@@ -466,103 +512,111 @@
 
 **071　以后不去医院，这么多年学是不是白上了？**
 
-他并不这样算。他回忆自己主要在升学和备考阶段用功，校园生活里也花时间玩。讲到英语，他另外强调这是自己还会长期学下去的一门。 [回放 2:00:07](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7207)
+**答**　我没觉得白上了。升学备考那阵子我确实用功，在学校我也没少玩。英语倒是我以后还打算一直学的。 [回放 2:00:07](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7207)
 
 <a name="q-aug-7269"></a>
 
 **072　你觉得朋友多重要，要交很多朋友吗？**
 
-鱼博觉得自己有一两个谈得来的就够。说到婚后，他觉得日常相处更多的是伴侣。这是在回答自己的交友偏好。 [回放 2:01:09](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7269)
+**答**　对我来说，一两个聊得来的就够。结了婚，平常跟你朝夕相处的更多还是伴侣。 [回放 2:01:09](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7269)
 
 <a name="q-aug-7318"></a>
 
 **073　你在学校的时候都玩些什么？**
 
-他一口气举了打牌、打麻将、踢球，读博以后又说起旅行。读书时就能踢球，条件变了才有更多出门玩的方式。 [回放 2:01:58](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7318)
+**答**　打牌、打麻将、踢球，我都玩。到读博以后我又出去旅行。在学校就能踢球，后来条件变了，玩的方式也多些。 [回放 2:01:58](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7318)
 
 <a name="q-aug-7620"></a>
 
 **074　蓝色那款漱口水效果更好吗？**
 
-他拿入口的刺激感来区分。前面选绿色是因为自己用着不辣口，不喜欢很冲的香味。这里说的是个人口感，现场没做疗效对比。 [回放 2:07:00](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7620)
+**答**　我挑绿色是因为入口不辣，我不喜欢香味太冲。 [回放 2:07:00](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7620)
+
+**编注**　当时比较的是使用感受。
 
 <a name="q-aug-7669"></a>
 
 **075　你回国以后还会开直播吗？**
 
-会。他把直播说成自己的主要工作，所以回国还有继续做的理由。 [回放 2:07:49](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7669)
+**答**　会啊。直播是我现在的主要工作，我回国也打算接着做。 [回放 2:07:49](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7669)
 
 <a name="q-aug-7682"></a>
 
 **076　留在瑞典工作不好吗？回头看，去那里读博值不值？**
 
-说到长住，他坦言来瑞典不久就想回国，也说过留学选择有让他遗憾的地方。接着又承认在这里做起了自媒体，这一份收获他算进了自己的账。 [回放 2:08:02](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7682)
+**答**　我来瑞典没多久就想回国，回头看这趟留学有遗憾。可我也是在这里把自媒体做起来的，算值不值，这笔也得算。 [回放 2:08:02](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7682)
 
 <a name="q-aug-7766"></a>
 
 **077　去瑞典留学，是德语教学吗？**
 
-按他自己的读博经历，用英语就行。直播里他还提到自己主要做研究。申请某个具体项目仍要看那个项目的教学语言和课程要求。 [回放 2:09:26](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7766)
+**答**　按我自己的读博经历，用英语就行，我主要做研究。 [回放 2:09:26](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7766)
+
+**编注**　不同项目的教学语言和课程要求要分别查。
 
 <a name="q-aug-7940"></a>
 
 **078　毕业后为什么不准备进医院上班？**
 
-他把顾虑落在自己不愿承担的工作压力、待遇和医患关系上。这是他当时的职业取舍。 [回放 2:12:20](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7940)
+**答**　压力、待遇，还有医患关系，这些我都考虑过。我自己不想再去承担那样的工作。 [回放 2:12:20](https://www.bilibili.com/video/BV1aybY6pE7k/?t=7940)
 
 <a name="q-aug-8092"></a>
 
 **079　如果能重选一次，还会学医吗？**
 
-他答还是学医，随后开玩笑说学完还可以做直播带货。这个答复和他不想长期去医院上班并不冲突。 [回放 2:14:52](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8092)
+**答**　还会学医。学完没准也能跟我一样，做直播带货呀。 [回放 2:14:52](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8092)
 
 <a name="q-aug-8111"></a>
 
 **080　当年为什么决定出国读博？**
 
-就他当时的处境，在国内找工作并不顺利，海外博士岗位却带薪。他把能接着读书、每个月有收入两件事放在一起考虑。与九月毕业自述可对读。 [回放 2:15:11](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8111)
+**答**　我那时在国内找工作不太顺利，国外这个博士岗位带薪。我还能接着读书，每个月又有收入，当时我是这么选的。 [回放 2:15:11](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8111)
 
 <a name="q-aug-8446"></a>
 
 **081　你说不爱上班，现在直播不也是上班吗？**
 
-他认为区别在自主性。直播内容和商品可以自己选，也没有直属领导安排他做什么，所以他的感受与受雇上班不同。 [回放 2:20:46](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8446)
+**答**　我做直播，讲什么、卖什么可以自己选，也没有直属领导给我派活儿。这份自主权，我挺看重。 [回放 2:20:46](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8446)
 
 <a name="q-aug-8715"></a>
 
 **082　复旦的金融专业，你建议学吗？**
 
-鱼博先问家庭经济条件。他对家里经济资源有限的人读金融持保留态度。说的是他做选择时看的条件，片段里没有就业统计。 [回放 2:25:15](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8715)
+**答**　先说说家里的经济条件。家里资源有限的话，单凭复旦这名字就去读金融，我会犹豫。 [回放 2:25:15](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8715)
+
+**编注**　此处是个人择业意见。
 
 <a name="q-aug-8750"></a>
 
 **083　有雅思七分，找工作就有出路了吗？**
 
-他认为只凭一个语言分数，说明不了能找到什么工作。拿自己和身边读研的人作例子，提醒观众把语言成绩与职业选择分开看。 [回放 2:25:50](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8750)
+**答**　七分说明你的英语考到这个分数。你具体想找什么工作？我和身边读研的人也学英语，光靠一个分数，可说不出谁的工作就有着落。 [回放 2:25:50](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8750)
 
 <a name="q-aug-8796"></a>
 
-**084　环境工程和基础医学，他当时怎么比较？**
+**084　环境工程和基础医学，你当时怎么比较？**
 
-他更不看好环境工程，并拿基础医学毕业可以去药厂举例。他是按自己眼里看得见的工作去向在排，现场没有专业去向统计。 [回放 2:26:36](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8796)
+**答**　我更不看好环境工程。学基础医学，至少我能想得到药厂这样的去向。 [回放 2:26:36](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8796)
+
+**编注**　这是当场的个人比较，没有就业统计。
 
 <a name="q-aug-8810"></a>
 
-**085　教育学怎么样？如果更在意就业，他偏向什么方向？**
+**085　教育学怎么样？如果更在意就业，你偏向什么方向？**
 
-他不看好单凭教育学这个专业名字作决定，提醒教育学和师范培养要分清。他个人更偏向工科，现场举了计算机、电气、微电子。 [回放 2:26:50](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8810)
+**答**　先分清教育学和师范培养。你更在意毕业后的出路，我自己偏工科，比如计算机、电气、微电子。 [回放 2:26:50](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8810)
 
 <a name="q-aug-8862"></a>
 
 **086　文科里法学还行吗？**
 
-在他当时比较的文科方向里，他把法学放在相对靠前的位置。这是他的选择偏好，现场没有给职业或薪资保证。 [回放 2:27:42](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8862)
+**答**　就刚才聊的这些文科方向，我会把法学放得靠前一点。 [回放 2:27:42](https://www.bilibili.com/video/BV1aybY6pE7k/?t=8862)
 
 <a name="q-aug-9150"></a>
 
 **087　听了你那两个同学的经历，是不是出国就一定更好？**
 
-他直接否认这种推法，说明自己刚才挑的是两个发展得好的朋友，也见过回国后工作并不顺利的同学。下结论前，得把例子是怎么挑的也算进去。 [回放 2:32:30](https://www.bilibili.com/video/BV1aybY6pE7k/?t=9150)
+**答**　我刚讲的两个朋友，是挑了发展得好的来讲。我也见过回国以后工作不顺利的同学。你不能只听了前两个，就断定出国一定更好。 [回放 2:32:30](https://www.bilibili.com/video/BV1aybY6pE7k/?t=9150)
 
 [回本页目录](#直播问答)
 
@@ -578,85 +632,87 @@
 
 **088　每天吃一个苹果行不行？**
 
-他说一个也行，想控制体重也可以只吃半个。接着他把苹果和甜饮料放在一起算，别吃过水果又喝一大杯甜饮料。 [回放 00:36](https://www.bilibili.com/video/BV1uscmzvEn4/?t=36)
+**答**　一个也行。你要控制体重，也可以先吃半个。还有，你苹果吃了，一转身再喝一大杯甜饮料，得把这笔也算上。 [回放 00:36](https://www.bilibili.com/video/BV1uscmzvEn4/?t=36)
 
 <a name="q-m13-104"></a>
 
 **089　偶尔不吃晚饭，会比吃晚饭健康吗？**
 
-他没给省晚饭加上健康分。偶尔错过一顿他不介意，但如果饿得晚上再找宵夜，原来的打算就落空了。 [回放 01:44](https://www.bilibili.com/video/BV1uscmzvEn4/?t=104)
+**答**　偶尔错过一顿，我没什么意见。可你晚上饿得受不了，又爬起来找宵夜，那前面省这顿图什么？ [回放 01:44](https://www.bilibili.com/video/BV1uscmzvEn4/?t=104)
 
 <a name="q-m13-185"></a>
 
 **090　大学生在学校怎么搭一盘饭？**
 
-他让人把盘子分四份，蔬菜占两份，另外两份留给主食和提供蛋白质的食物。下次打完菜就能对着自己的盘子看少了哪一块。 [回放 03:05](https://www.bilibili.com/video/BV1uscmzvEn4/?t=185)
+**答**　你就看眼前这个盘子，划成四份。蔬菜放两份，剩下两份，一份主食，一份放能提供蛋白质的东西。 [回放 03:05](https://www.bilibili.com/video/BV1uscmzvEn4/?t=185)
 
 <a name="q-m13-208"></a>
 
 **091　盐既然是身体必需的，为什么还劝人少吃？**
 
-必需只说明要有，并不说明越多越好。他提醒现在吃饭得算上调味料。他在前面点过酱油和蚝油，盐罐少了多少只是其中一部分。 [回放 03:28](https://www.bilibili.com/video/BV1uscmzvEn4/?t=208) · [同场讲调味品 02:12](https://www.bilibili.com/video/BV1uscmzvEn4/?t=132)
+**答**　要吃盐和越多越好，是一回事吗？刚说的酱油、蚝油里也有盐，不能只盯着你家那个盐罐。 [回放 03:28](https://www.bilibili.com/video/BV1uscmzvEn4/?t=208) · [同场讲调味品 02:12](https://www.bilibili.com/video/BV1uscmzvEn4/?t=132)
 
 <a name="q-m13-255"></a>
 
 **092　芹菜汁可以当降压的办法吗？**
 
-他喜欢芹菜作为一道菜，但没有把喝芹菜汁当降压办法。谈到这一点时，他还追问，如果喝菜汁真有那样的效果，为什么还需要临床治疗。 [回放 04:15](https://www.bilibili.com/video/BV1uscmzvEn4/?t=255)
+**答**　我爱吃芹菜，炒一盘挺好。你想靠一杯芹菜汁降血压？要真有这本事，还用得着去医院治疗吗？ [回放 04:15](https://www.bilibili.com/video/BV1uscmzvEn4/?t=255)
 
 <a name="q-m13-304"></a>
 
 **093　买蔬菜挑深颜色，有哪些具体选择？**
 
-他建议留一些深色蔬菜，举了紫甘蓝和紫洋葱两个例子。观众下次买菜可以直接认这两样。 [回放 05:04](https://www.bilibili.com/video/BV1uscmzvEn4/?t=304)
+**答**　买菜时留点深颜色的。紫甘蓝、紫洋葱，菜摊上就能找到。 [回放 05:04](https://www.bilibili.com/video/BV1uscmzvEn4/?t=304)
 
 <a name="q-m13-359"></a>
 
 **094　饭量到底是大点好，还是小点好？**
 
-他先看问的人是什么情况。想控制体重和本来就偏瘦，不能套用同一份饭量。运动量大的人的需要也不同。 [回放 05:59](https://www.bilibili.com/video/BV1uscmzvEn4/?t=359)
+**答**　先说你是哪种情况。你本来就瘦，还是想控制体重？运动量大不大？这几个人怎么可能用同一碗饭作标准。 [回放 05:59](https://www.bilibili.com/video/BV1uscmzvEn4/?t=359)
 
 <a name="q-m13-383"></a>
 
 **095　平时想补蛋白，牛奶和豆浆是不是只能留一种？**
 
-可以轮换。他给了一个简单吃法，今天喝牛奶，另一天喝豆浆，日常食物可以换着吃。 [回放 06:23](https://www.bilibili.com/video/BV1uscmzvEn4/?t=383)
+**答**　轮着喝就行，今天牛奶，改天豆浆。不用把哪一样永远从桌上撤掉。 [回放 06:23](https://www.bilibili.com/video/BV1uscmzvEn4/?t=383)
 
 <a name="q-m13-550"></a>
 
 **096　萝卜能生吃吗？**
 
-他答能，还拿自己的父母举例，说爸妈就爱生吃萝卜。 [回放 09:10](https://www.bilibili.com/video/BV1uscmzvEn4/?t=550)
+**答**　能啊，我爸我妈就爱生吃萝卜。 [回放 09:10](https://www.bilibili.com/video/BV1uscmzvEn4/?t=550)
 
 <a name="q-m13-557"></a>
 
-**097　想吃汤面，鱼博会挑哪种面？**
+**097　想吃汤面，你会挑哪种面？**
 
-他会挑些荞麦面，少吃精白面煮得很烂的那种。后面有人只问荞麦面行不行，他又直接答可以。 [回放 09:17](https://www.bilibili.com/video/BV1uscmzvEn4/?t=557) · [同场 14:07](https://www.bilibili.com/video/BV1uscmzvEn4/?t=847)
+**答**　我会选荞麦面。平时少吃点精白面煮得软烂的那种。 [回放 09:17](https://www.bilibili.com/video/BV1uscmzvEn4/?t=557) · [同场 14:07](https://www.bilibili.com/video/BV1uscmzvEn4/?t=847)
 
 <a name="q-m13-587"></a>
 
 **098　牛奶是不是只能早晨喝、晚上不能喝？**
 
-晚上也可以。他说到的是没必要在后半夜特意起来喝一杯，没给喝奶定死一个钟点。 [回放 09:47](https://www.bilibili.com/video/BV1uscmzvEn4/?t=587)
+**答**　晚上也能喝。总不至于后半夜特意爬起来喝杯牛奶吧？不用把时间卡得那么死。 [回放 09:47](https://www.bilibili.com/video/BV1uscmzvEn4/?t=587)
 
 <a name="q-m13-621"></a>
 
 **099　菠菜和西兰花能经常吃吗？**
 
-他两样都认可，聊做法时特别提醒菠菜可以先焯水。这里保留他对两种菜的选择，个人结石风险不能凭这句直播判断。 [回放 10:21](https://www.bilibili.com/video/BV1uscmzvEn4/?t=621)
+**答**　菠菜、西兰花我都认可。做菠菜的时候，我会先焯一下水。 [回放 10:21](https://www.bilibili.com/video/BV1uscmzvEn4/?t=621)
+
+**编注**　这一问没有评估个人的结石风险。
 
 <a name="q-m13-694"></a>
 
 **100　想自己出去挖野菜、采蘑菇，最该注意什么？**
 
-别靠猜认品种，更别随手采来就吃。他讲了在瑞典听到的采蘑菇中毒故事，想提醒的就是认错要付的代价。 [回放 11:34](https://www.bilibili.com/video/BV1uscmzvEn4/?t=694)
+**答**　你认得准吗？不认识的野菜、蘑菇，别采回来尝。我在瑞典就听过采错蘑菇中毒的事。 [回放 11:34](https://www.bilibili.com/video/BV1uscmzvEn4/?t=694)
 
 <a name="q-m13-869"></a>
 
 **101　买了藜麦，平时怎么吃得上？**
 
-做米饭时掺进去就行。他还顺带提到豆子，不需要为了吃一点杂粮另起一顿饭。 [回放 14:29](https://www.bilibili.com/video/BV1uscmzvEn4/?t=869)
+**答**　做米饭的时候往里掺点藜麦，豆子也可以放。用不着专门为这点杂粮另做一餐。 [回放 14:29](https://www.bilibili.com/video/BV1uscmzvEn4/?t=869)
 
 ### 16:32 起　喝酒、燕麦、奶片和不吃肉的孩子
 
@@ -664,61 +720,71 @@
 
 **102　实在非喝酒不可，高度和低度选哪一种？**
 
-他先拦住“非喝不可”这个前提，没有拿度数替提问者选出一种健康酒。这和他另一场聊过节陪家人喝酒时的口气有差别。 [回放 16:32](https://www.bilibili.com/video/BV1uscmzvEn4/?t=992) · [3 月 4 日的问法](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=147)
+**答**　为什么就非喝不可呢？我没打算在高度和低度里给你挑出一种健康酒。 [回放 16:32](https://www.bilibili.com/video/BV1uscmzvEn4/?t=992) · [3 月 4 日的问法](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=147)
+
+**编注**　另一次谈的是过年陪父亲喝酒，场合不同。
 
 <a name="q-m13-1026"></a>
 
 **103　蘸酱菜里的蔬菜还有营养吗？**
 
-菜仍然是菜。他让人少蘸点酱，担心的是随着酱吃进去的盐。把菜留下、酱少盛一些，就是他的回答。 [回放 17:06](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1026)
+**答**　菜当然还是菜。你喜欢蘸酱，那就少蘸点，盐主要跟着那一口酱进来了。 [回放 17:06](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1026)
 
 <a name="q-m13-1055"></a>
 
 **104　能讲讲燕麦怎么吃吗？**
 
-他喜欢燕麦，但更愿意吃还留着一点形状的，反复叮嘱别整锅煮成烂糊。口感需要特别软的人，这一问没有谈到。 [回放 17:35](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1055)
+**答**　燕麦我挺喜欢，煮好还能看出颗粒就行，别熬到最后整锅成糊了。 [回放 17:35](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1055)
+
+**编注**　这道题没有涉及咀嚼或吞咽有困难的人。
 
 <a name="q-m13-1072"></a>
 
 **105　平常肉蛋奶、蔬菜和粗粮都吃，还要再买锌、硒吗？**
 
-他不主张只凭担心就把各种微量元素分开买。他在问题里接受的前提是日常食物充足，已经查出缺乏的人要另作判断。 [回放 17:52](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1072) · [稍后再问微量元素 26:38](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1598)
+**答**　你说肉蛋奶、蔬菜、粗粮平时都吃，那我不会因为担心，就把锌、硒一个个买回来。 [回放 17:52](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1072) · [稍后再问微量元素 26:38](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1598)
+
+**编注**　已查出缺乏时需另行评估。
 
 <a name="q-m13-1289"></a>
 
 **106　吃奶片行不行？**
 
-他没有推荐奶片，反问不少奶片吃起来和糖有什么区别。想解决乳糖耐受的问题，得看实际产品的乳糖和配料，而不是看名字里有个“奶”字。 [回放 21:29](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1289) · [相关奶制品问答](knowledge/food.md)
+**答**　我不特意买奶片。有些奶片吃着跟糖有什么两样？ [回放 21:29](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1289)
+
+**编注**　需要判断乳糖含量时，应看具体产品的配料。 [相关奶制品问答](knowledge/food.md)
 
 <a name="q-m13-1295"></a>
 
 **107　东北酸菜就一口都吃不得吗？**
 
-可以少量吃。他把它归在要留意盐分的腌制菜里，没有让喜欢这口的人一次都别碰。 [回放 21:35](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1295)
+**答**　喜欢那一口，少吃点可以。它是腌出来的，你得把盐算进去。 [回放 21:35](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1295)
 
 <a name="q-m13-1323"></a>
 
 **108　孩子不爱吃肉，只吃鸡蛋、喝奶，还能添点什么？**
 
-他建议给孩子加点鱼。回答的落点是饭桌上还能添哪样，而不只是再买一种补剂。 [回放 22:03](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1323) · [同场再问不吃畜肉 28:45](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1725)
+**答**　已经吃蛋、喝奶了，还可以给孩子添点鱼。 [回放 22:03](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1323) · [同场再问不吃畜肉 28:45](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1725)
 
 <a name="q-m13-1340"></a>
 
 **109　瓶装苹果醋饮料也能当健康饮料吗？**
 
-他想到的是市售的甜苹果醋饮料，让观众留意喝下去的糖。和自己拿少量果醋拌菜，是两种用法。 [回放 22:20](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1340)
+**答**　瓶装苹果醋喝着甜不甜？你把它当饮料喝，里面的糖也都喝进去了。跟拿一点果醋拌菜不是一回事。 [回放 22:20](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1340)
 
 <a name="q-m13-1383"></a>
 
 **110　不爱吃菜，拿水果补齐行吗？**
 
-他不建议这么换，强调三餐要给蔬菜留位置。至于他如何看水果，和一般成人膳食指南给出的建议，见[水果章节](knowledge/habits.md)。 [回放 23:03](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1383)
+**答**　我不会这么换。三顿饭该给菜留的位置，还是得留给菜。 [回放 23:03](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1383)
+
+**编注**　水果和蔬菜在膳食指南里的位置见链接。 [水果章节](knowledge/habits.md)
 
 <a name="q-m13-1484"></a>
 
 **111　黑芝麻糊能天天喝吗？**
 
-他不建议天天喝，先提醒芝麻本身的能量不低，有的糊还额外加糖。他又补了一句，别指望喝了能长头发。这和喜欢它的味道、偶尔当点心，是两回事。 [回放 24:44](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1484)
+**答**　偶尔喜欢那口味另说。想天天喝，你先看看芝麻本身有多少能量，买的糊里还加没加糖。要靠它长头发，我可不指望。 [回放 24:44](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1484)
 
 ### 25:14 起　叶酸、窝头、红糖和普通鸡蛋
 
@@ -726,135 +792,147 @@
 
 **112　备孕时吃叶酸有用吗？**
 
-有。鱼博把叶酸与胎儿神经管发育联系起来。这是他明确支持补充的例子。备孕及孕早期补充叶酸可帮助预防神经管缺陷，具体安排可以和产科医生商量。 [回放 25:14](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1514) · [CDC 叶酸与神经管缺陷](https://www.cdc.gov/birth-defects/about/neural-tube-defects.html)
+**答**　有用。叶酸和胎儿神经管发育有关，备孕这件事我支持补。 [回放 25:14](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1514)
+
+**编注**　备孕及孕早期补充叶酸有助于预防神经管缺陷，个人安排可向产科医生确认。 [CDC 叶酸与神经管缺陷](https://www.cdc.gov/birth-defects/about/neural-tube-defects.html)
 
 <a name="q-m13-1543"></a>
 
 **113　年轻人就可以放心多吃精米精面吗？**
 
-鱼博还是建议把一部分主食换成粗粮。他举的是自己的吃法，说自己平时已经很少吃大碗白米饭。 [回放 25:43](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1543)
+**答**　年轻也可以把一部分主食换成粗粮。我自己现在就很少一大碗一大碗地吃白米饭。 [回放 25:43](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1543)
 
 <a name="q-m13-1562"></a>
 
 **114　不爱吃动物肝脏，想从食物里补铁，可以吃什么？**
 
-他给的替代是牛排这类红肉。观众说不吃肝，他没有坚持一定得吃肝。 [回放 26:02](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1562)
+**答**　不喜欢肝，那就吃点牛肉，比如牛排。不用非逼着自己吃肝。 [回放 26:02](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1562)
 
 <a name="q-m13-1573"></a>
 
 **115　哪种蔬菜最好？**
 
-他没有排一个冠军。能把蔬菜端上桌吃进去，选哪一种都行。 [回放 26:13](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1573)
+**答**　非挑出第一名干什么？你爱吃哪样，先把菜端上桌、吃进去。 [回放 26:13](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1573)
 
 <a name="q-m13-1613"></a>
 
 **116　鸡蛋可以直接生吃吗？**
 
-他劝普通家庭把蛋弄熟了吃，想吃鸡蛋不必专门追求生吃。 [回放 26:53](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1613)
+**答**　我会把蛋做熟了吃。想吃鸡蛋，不用去追求生吃。 [回放 26:53](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1613)
 
 <a name="q-m13-1626"></a>
 
 **117　煎饼和窝头看起来像粗粮，都能算吗？**
 
-看拿什么做。鱼博举白面做的窝头作反例，形状没变，里面用的仍是白面。拿杂粮做的煎饼，他就会算进去。 [回放 27:06](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1626)
+**答**　得看拿什么做的。白面捏成窝头，它还是白面。杂粮做的煎饼，那我就算杂粮。 [回放 27:06](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1626)
 
 <a name="q-m13-1686"></a>
 
 **118　黑枸杞泡水，有必要为了保健专门喝吗？**
 
-按这场的回答，把它当水喝就好。他没有为这杯水背书额外功效。 [回放 28:06](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1686)
+**答**　你喜欢泡水就当水喝。要我为它额外的保健效果专门去买，我不会。 [回放 28:06](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1686)
 
 <a name="q-m13-1727"></a>
 
 **119　为了补气血专门喝红糖，有用吗？**
 
-他不建议为补铁买红糖。按这次回答，红糖水主要买到甜味，换成红色并不能当作补铁办法。 [回放 28:47](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1727)
+**答**　为了补铁，我不买红糖。一碗红糖水甜是甜，这颜色可不能拿来当补铁的凭据。 [回放 28:47](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1727)
 
 <a name="q-m13-1792"></a>
 
 **120　弱碱水、过滤水、矿泉水，喝水要花大价钱吗？**
 
-不用。他挑日常饮水首先看干净卫生，反对凭包装上的水种名称为保健加价。 [回放 29:52](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1792)
+**答**　我喝日常用水先看干净、卫生。包装上多写了“弱碱”还是“矿泉”，我不会靠这几个字给它加保健费。 [回放 29:52](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1792)
 
 <a name="q-m13-1902"></a>
 
 **121　几毛钱一个的“工业鸡蛋”能吃吗？**
 
-他先反问，哪里来的工厂凭空造鸡蛋？他的意思是，集中饲养、价格便宜，也仍然是鸡下的蛋。单看便宜，不能推出这是人工造的。 [回放 31:42](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1902)
+**答**　哪家工厂能凭空给你造出鸡蛋来？鸡集中养、蛋卖得便宜，那也是鸡下的蛋。 [回放 31:42](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1902)
 
 <a name="q-m13-1959"></a>
 
 **122　那鸡是吃饲料长大的，家里要不要改买贵的有机蛋？**
 
-鱼博给普通家庭的建议是买日常菜场的鸡蛋，把余下的预算用来添点牛肉或排骨。他又说，预算充裕的人愿意为偏好花钱也行。 [回放 32:39](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1959)
+**答**　要是我替普通家庭买，就买菜场的普通蛋。省下的钱添点牛肉、排骨。你预算宽裕，就喜欢有机蛋，也行。 [回放 32:39](https://www.bilibili.com/video/BV1uscmzvEn4/?t=1959)
 
 ### 34:49 起　补铁商品之间穿插的家常题和校园生活
 
 <a name="q-m13-2089"></a>
 
-**123　讲到补铁，鱼博更偏向菠菜、枸杞，还是牛肉、猪肝？**
+**123　讲到补铁，你更偏向菠菜、枸杞，还是牛肉、猪肝？**
 
-他选牛肉、猪肝这类动物性食物，理由是其中的铁有一部分更容易被人体利用。接下来的话题是含铁软糖销售，不能从他的商品推介得出某个人需要补铁。 到售卖中段，他又说平时能从饮食安排的人不必就此另买这款产品。 [回放 34:49](https://www.bilibili.com/video/BV1uscmzvEn4/?t=2089) · [看后续答复 51:22](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3082) · [NIH 铁资料](https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/)
+**答**　要从饭菜里补铁，我会选牛肉、猪肝，这里面有些铁身体更容易用上。平常吃饭能安排好，我卖的这款软糖你也不用额外买。 [回放 34:49](https://www.bilibili.com/video/BV1uscmzvEn4/?t=2089) · [看后续答复 51:22](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3082)
+
+**编注**　后半句出自同场商品讲解，不能用来判断个人是否缺铁。 [NIH 铁资料](https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/)
 
 <a name="q-m13-2467"></a>
 
 **124　脱水蔬菜值得专门买吗？**
 
-鱼博觉得平时能买到新鲜蔬菜，直接买鲜菜就行。这个意见讲的是日常采购优先顺序。 [回放 41:07](https://www.bilibili.com/video/BV1uscmzvEn4/?t=2467)
+**答**　平时菜场买得到鲜菜，我就买鲜菜。没必要为了吃菜再专门去买一包脱水的。 [回放 41:07](https://www.bilibili.com/video/BV1uscmzvEn4/?t=2467)
 
 <a name="q-m13-2499"></a>
 
 **125　为什么你看起来牙齿那么白？**
 
-他先说自己并没有观众想的那么白，随后解释天然牙色也可以是象牙色，没把纯白当作正常牙齿的门槛。 [回放 41:39](https://www.bilibili.com/video/BV1uscmzvEn4/?t=2499)
+**答**　我牙也没你们说的那么白。天然牙齿可以带点象牙色，不用把纯白当成标准。 [回放 41:39](https://www.bilibili.com/video/BV1uscmzvEn4/?t=2499)
 
 <a name="q-m13-2709"></a>
 
 **126　能看看你身上挂的是什么卡吗？**
 
-他拿起来给观众看，说是大学的门禁卡，自己进实验室要用。 [回放 45:09](https://www.bilibili.com/video/BV1uscmzvEn4/?t=2709)
+**答**　大学的门禁卡。我进实验室要刷这个。 [回放 45:09](https://www.bilibili.com/video/BV1uscmzvEn4/?t=2709)
 
 <a name="q-m13-2871"></a>
 
 **127　校外的人能进去参观吗？**
 
-他把校园和实验室分开答。在他所在的学校，访客可以进校园，实验室有门禁。 [回放 47:51](https://www.bilibili.com/video/BV1uscmzvEn4/?t=2871)
+**答**　我们学校的校园你可以进，实验室可有门禁，得刷卡。 [回放 47:51](https://www.bilibili.com/video/BV1uscmzvEn4/?t=2871)
 
 <a name="q-m13-2901"></a>
 
 **128　你直播的地方是家里吗？**
 
-他说这是教室，还把镜头转向外面给人看校园。稍后发现对面还在上课，又把声音放低、转了回来。 [回放 48:21](https://www.bilibili.com/video/BV1uscmzvEn4/?t=2901)
+**答**　这是教室，我把镜头转过去你能看见校园。对面还在上课，我小声点。 [回放 48:21](https://www.bilibili.com/video/BV1uscmzvEn4/?t=2901)
 
 <a name="q-m13-3242"></a>
 
 **129　牛奶非要热了再喝吗？**
 
-他对凉牛奶的答复是别冰到自己喝着难受。这里说的是喝时的温度。 [回放 54:02](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3242)
+**答**　凉着喝也行，别冰到自己喝着都难受。不用非得热了才喝。 [回放 54:02](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3242)
 
 <a name="q-m13-3304"></a>
 
 **130　一岁宝宝天天喝熬粥上面的米油、米汤，好不好？**
 
-他不主张用这种汤水给孩子补营养，特别提到蛋白质少。卫健委的婴幼儿喂养建议提倡随月龄逐渐增加食物种类和质地，包括富铁食物。 [回放 55:04](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3304) · [卫健委婴幼儿喂养核心信息](https://www.nhc.gov.cn/wjw/c100175/202008/49d47853b0884f829fd55773b7297f01.shtml)
+**答**　不建议天天靠这层米油、米汤给宝宝补营养，蛋白质就没多少。 [回放 55:04](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3304)
+
+**编注**　卫健委的喂养建议包括随月龄增加食物种类和质地，注意富铁食物。 [卫健委婴幼儿喂养核心信息](https://www.nhc.gov.cn/wjw/c100175/202008/49d47853b0884f829fd55773b7297f01.shtml)
 
 <a name="q-m13-3319"></a>
 
 **131　土豆用空气炸锅烤可以吗？**
 
-他说蒸或烤都行，个人喜欢熟了晾一晾再吃。后来有人担心中毒，他回应的是发芽土豆。他对晾凉的解释不能用来推算个人血糖变化。 [回放 55:19](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3319)
+**答**　蒸也行，用空气炸锅烤也行。我个人喜欢做好放一放再吃。 [回放 55:19](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3319)
+
+**编注**　不能用直播里的估算预测个人餐后血糖。
 
 <a name="q-m13-3341"></a>
 
 **132　喝牛奶不舒服，还得硬喝吗？**
 
-不用勉强。他在这段里举了豆浆和鸡蛋作可选食物。这回答解决的是日常吃什么，几种食物提供的钙和其他营养并不完全一样。 [回放 55:41](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3341)
+**答**　不用硬喝。你可以喝豆浆，也可以吃鸡蛋。 [回放 55:41](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3341)
+
+**编注**　这是换食物的建议，几样食物的钙和其他营养并不完全相同。
 
 <a name="q-m13-3432"></a>
 
 **133　本来为了控糖吃杂粮饭，能不能再添点白米？**
 
-按鱼博给这位观众的答复，既然目的就是控糖，他会省掉额外加的白米。这几秒没有给出适用于每个人的碳水分量。 [回放 57:12](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3432)
+**答**　你专门为了控糖改吃杂粮饭，那我就不再往里面额外添白米了。 [回放 57:12](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3432)
+
+**编注**　原答没有给出每个人适用的碳水分量。
 
 ### 1:02:29 起　从大碴粥、发芽土豆聊到午睡和老人喝茶
 
@@ -862,55 +940,61 @@
 
 **134　东北大碴子挺好，那大碴粥呢？**
 
-他喜欢大碴子本身，对煮成一碗黏糊的粥评价一般，特意又说别煮成糊。这一场的回答保留了他对做法的挑剔。 在另一条短切片里，他认可保留颗粒的大碴粥，3 月 28 日又明确说自己更愿意直接吃玉米。做法和比较对象变了，回答的口气也跟着变。 [回放 1:02:29](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3749) · [大碴粥短片](https://www.douyin.com/video/7643014016936464315) · [白粥问题](https://www.douyin.com/video/7642544390585598629) · [3 月 28 日再问 04:45](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=285)
+**答**　大碴子我挺喜欢，煮一碗我也得看你煮成什么样。我不喜欢那种一锅全是黏糊的。 [回放 1:02:29](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3749) · [大碴粥短片](https://www.douyin.com/video/7643014016936464315) · [白粥问题](https://www.douyin.com/video/7642544390585598629) · [3 月 28 日再问 04:45](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=285)
+
+**编注**　另一条切片认可保留颗粒的大碴粥。3 月 28 日问直接吃玉米还是煮粥，他更愿意吃玉米。
 
 <a name="q-m13-3759"></a>
 
 **135　紫薯和土豆哪个营养更好？**
 
-他觉得两者差别没大到需要争出一个冠军。他拿两样的蛋白质来举例，认为都算不上突出。这是他当场选择的比较角度。 [回放 1:02:39](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3759)
+**答**　我觉得不用争这个第一。比如拿蛋白质来比，这两样都算不上突出。 [回放 1:02:39](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3759)
 
 <a name="q-m13-3784"></a>
 
 **136　发芽土豆吃多少才会中毒？**
 
-他没给一个能放心吃的量，反复劝看到土豆长芽就扔掉。他同时提到自己在国外见过别人吃，但没有把别人的做法推荐给观众。 [回放 1:03:04](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3784)
+**答**　你要问我多少能放心吃，我不给这个数。家里土豆发芽了，我就扔。哪怕我在国外见过有人吃，我也不推荐你照着来。 [回放 1:03:04](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3784)
 
 <a name="q-m13-3840"></a>
 
 **137　那发了芽的绿豆、黄豆，甚至大蒜也得扔？**
 
-他认可豆芽和蒜苗是可吃的食材。绿豆、黄豆发芽就是平时吃的豆芽，大蒜长出来的是蒜苗。紧接土豆这道题，他让大家先看究竟是哪种食物。 [回放 1:04:00](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3840)
+**答**　你先看是什么发芽呀。绿豆、黄豆发出来的就是平常吃的豆芽，大蒜还长蒜苗呢。刚才让你扔的是发芽的土豆。 [回放 1:04:00](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3840)
 
 <a name="q-m13-3906"></a>
 
 **138　猪肉皮爱吃，可以吃吗？**
 
-喜欢可以吃。他对特意靠猪皮补营养的价值评价很低，这里是他给食材的评价，不能把口头上的“没营养”照作营养成分表。 [回放 1:05:06](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3906)
+**答**　你喜欢吃这口，可以吃。为了专门补营养去吃猪皮，我觉得不值。 [回放 1:05:06](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3906)
+
+**编注**　当场给食材的评价不能当作营养成分表。
 
 <a name="q-m13-3965"></a>
 
 **139　螺蛳粉容易发胖吗？**
 
-鱼博不把它当成有利于控重的选择。他说的是精制米粉加油的搭配，单吃某一顿会不会让体重上升，录播并不能替人算出来。 [回放 1:06:05](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3965)
+**答**　你想控体重，我不会先推荐它。看看这一碗，精制米粉，再加上油。 [回放 1:06:05](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3965)
+
+**编注**　单凭一道菜无法推算个人体重变化。
 
 <a name="q-m13-3993"></a>
 
 **140　午觉睡多久？怎么有时醒来反而头昏？**
 
-他赞成睡个短午觉，举约二三十分钟后把自己叫醒的例子。他说自己有时睡过一小时，醒来反而不舒服。时长是他的当场建议和个人体会。 [回放 1:06:33](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3993)
+**答**　我自己有时候一睡超过一小时，醒来反而不舒服。我宁愿睡个短的，比如二三十分钟就叫醒自己。 [回放 1:06:33](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3993)
 
 <a name="q-m13-4129"></a>
 
 **141　土豆切片蒸着吃，这顿还要盛一碗米饭吗？**
 
-可以蒸。他说蒸好晾一晾，把这份土豆当主食，米饭就不用照常再添一碗。这和前面问能不能烤土豆，是同场两个不同的问题。 [回放 1:08:49](https://www.bilibili.com/video/BV1uscmzvEn4/?t=4129)
+**答**　可以切片蒸。蒸好了我喜欢晾一晾，这顿就拿它当主食，别土豆吃一份，米饭又照常盛一大碗。 [回放 1:08:49](https://www.bilibili.com/video/BV1uscmzvEn4/?t=4129)
 
 <a name="q-m13-4191"></a>
 
 **142　家里 85 岁的老人喜欢喝茶，要不要天天管着？**
 
-如果老人本来状态好、自己也喜欢，鱼博的态度是尊重这个习惯。他反问家里人，为什么非要连这一口茶也替老人决定。这是对家人相处的回应。 [回放 1:09:51](https://www.bilibili.com/video/BV1uscmzvEn4/?t=4191)
+**答**　老人都八十五了，平常状态好，自己又喜欢这口茶，你为什么非得替他决定连茶也不许喝？ [回放 1:09:51](https://www.bilibili.com/video/BV1uscmzvEn4/?t=4191)
 
 [回本页目录](#直播问答)
 
@@ -926,73 +1010,73 @@
 
 **143　燕窝到底值不值这个价？**
 
-他觉得不值。直播里算的是家用这笔钱。一盒燕窝的价格可以买许多鸡蛋。他没有给燕窝列出值得专门花钱买的营养优势。 [回放 00:25](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=25)
+**答**　买一盒燕窝的钱，你算算能买多少鸡蛋。让我拿家里的预算专门去补这一口，我觉得不值。 [回放 00:25](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=25)
 
 <a name="q-m04-41"></a>
 
 **144　买哪种牛奶好？**
 
-他答日常喝哪种差别不大，不用在这件事上花太多钱。 [回放 00:41](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=41) · [追问国产和进口 15:19](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=919) · [3 月 13 日再问 1:05:03](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3903)
+**答**　平时喝的牛奶，我觉得不用在这上面纠结，更用不着专门买贵的。 [回放 00:41](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=41) · [追问国产和进口 15:19](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=919) · [3 月 13 日再问 1:05:03](https://www.bilibili.com/video/BV1uscmzvEn4/?t=3903)
 
 <a name="q-m04-73"></a>
 
 **145　想减肥，补一瓶维生素 B 族有用吗？**
 
-他不会为减重买这瓶。弹幕报的是一种补充剂，他给的做法仍是调整平常吃的量、增加活动。 [回放 01:13](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=73)
+**答**　我不会为减重买一瓶维生素 B。先看看平时吃多少，再增加点活动。 [回放 01:13](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=73)
 
 <a name="q-m04-82"></a>
 
 **146　生蔬菜拌沙拉，酱要怎么选？**
 
-他会调油醋汁，用一点果醋配橄榄油。观众已经选了蔬菜，他接着算的是上面那层酱，因此没有让人把一整盘好端端的菜换掉。 [回放 01:22](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=82)
+**答**　蔬菜留着，酱我会换。拿一点果醋配橄榄油，调个油醋汁就行。 [回放 01:22](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=82)
 
 <a name="q-m04-117"></a>
 
 **147　人参有什么特殊作用吗？**
 
-他不愿把话说成一点作用都没有。随后他拿东北人参的价格给观众算账，对想在家日常进补的人，他的判断是不值那个价。 [回放 01:57](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=117)
+**答**　我不说人参一点作用都没有。可你说花那么多钱，买东北人参回来当日常补品，我觉得不值那个价。 [回放 01:57](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=117)
 
 <a name="q-m04-147"></a>
 
 **148　过年和爸爸喝杯啤酒，跟平常爱喝啤酒一样吗？**
 
-他不鼓励日常喝。接着说到过年过节陪爸爸少喝一点，他的口气放宽了，特别反对为了拼输赢一杯接一杯。这里记录的是他对两种场合的态度。 [回放 02:27](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=147)
+**答**　平常我不鼓励喝。过年陪爸爸少喝一点，跟坐那儿拼谁能喝、一下接一下地灌，我会分开看。 [回放 02:27](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=147)
 
 <a name="q-m04-168"></a>
 
 **149　孩子天天吃面食，还要给他搭什么？**
 
-在这一餐里加点粗粮，也把肉、蛋、奶搭上。他没有让家长因为孩子爱吃面，就把面食撤掉。 [回放 02:48](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=168)
+**答**　孩子爱吃面就吃面。这一餐添点粗粮，再把肉、蛋、奶搭上。 [回放 02:48](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=168)
 
 <a name="q-m04-242"></a>
 
 **150　喝西芹汁好吗？**
 
-他觉得芹菜是好菜，喝一杯汁却抵不掉多吃的饭。他举了两个吃法，一个人照样吃很多饭再喝芹菜汁，另一个人少吃些、还出去动一动。两个人过的不是同样的一天。 [回放 04:02](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=242)
+**答**　芹菜挺好。可你饭照样吃那么多，再喝一杯芹菜汁，能替你把饭抵掉吗？少吃些又出去走走的人，过的可不是同样的一天。 [回放 04:02](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=242)
 
 <a name="q-m04-291"></a>
 
 **151　艾灸能不能“去湿气”？**
 
-这个功效他答不知道。紧接着他提的是一件能做到的事，别关着门窗在小房间里熏，留意通风。 [回放 04:51](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=291)
+**答**　能不能“去湿气”，我不知道。我倒想提醒一句，别关着门窗在小屋里熏，注意通风。 [回放 04:51](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=291)
 
 <a name="q-m04-306"></a>
 
 **152　瓜氨酸有“提升”作用，值得自己买吗？**
 
-他不主张听到某一种氨基酸的保健宣传就买。说到日常补蛋白质，他拿鸡蛋举例，觉得没必要把各种氨基酸拆开买。医院按具体情况开的，他另作区分。 [回放 05:06](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=306)
+**答**　平常想补蛋白质，鸡蛋就行。听到一个氨基酸的名字买一瓶，得买到什么时候？医院看过具体情况开的，那另说。 [回放 05:06](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=306)
 
 <a name="q-m04-374"></a>
 
 **153　平时喝白开水，凉的和温的选哪种？**
 
-他都接受。白水就行，温度喝起来舒服、别烫嘴，比为了养生专挑冷或热更实际。 [回放 06:14](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=374) · [3 月 28 日问四季喝凉水 05:28](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=328)
+**答**　凉的温的我都行。白水喝着舒服，别烫嘴就好。 [回放 06:14](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=374) · [3 月 28 日问四季喝凉水 05:28](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=328)
 
 <a name="q-m04-419"></a>
 
 **154　你这么夸鸡蛋，是不是自己卖鸡蛋？**
 
-他说这场没有卖鸡蛋，反问卖鸡蛋挣什么钱。他在这里讲的是为什么愿意推荐这种便宜食材。 [回放 06:59](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=419)
+**答**　我这场没卖鸡蛋。一个鸡蛋才几个钱？我推荐它，因为便宜又能吃到蛋白质。 [回放 06:59](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=419)
 
 ### 07:45 起　从考复旦、选鸡蛋聊到带饭和喝奶
 
@@ -1000,61 +1084,67 @@
 
 **155　怎么才能考上复旦？**
 
-他先劝提问者放下手机去学，回忆自己备考那年连手机都尽量不碰。后来有人担心这样就不能看鱼博，他说考上自己想去的学校更要紧。 [回放 07:45](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=465) · [同场追问 09:02](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=542)
+**答**　先把手机放下去学。我当年备考就尽量不碰手机。你说那不就看不成我直播了？考上你想去的学校要紧。 [回放 07:45](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=465) · [同场追问 09:02](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=542)
 
 <a name="q-m04-526"></a>
 
 **156　苹果醋能不能靠酸味降血糖？**
 
-他不认可这个推理，还拿老陈醋和苦瓜打比方。味道能尝出来，从酸或苦推不出降糖效果。 [回放 08:46](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=526)
+**答**　嘴里尝着酸，就能降血糖？那老陈醋怎么算，苦瓜尝着苦又怎么算？光凭味道推不出这事。 [回放 08:46](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=526)
 
 <a name="q-m04-562"></a>
 
-**157　煮蛋、蒸蛋和煎蛋，他平时怎么选？**
+**157　煮蛋、蒸蛋和煎蛋，你平时怎么选？**
 
-水煮蛋、蒸鸡蛋他都认可。想煎也行，锅里少放油。他给的是做法上的取舍。 [回放 09:22](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=562)
+**答**　水煮蛋、蒸蛋我都吃。想煎一个也行，锅里少放点油。 [回放 09:22](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=562)
 
 <a name="q-m04-579"></a>
 
 **158　鸡蛋包装写着“无抗”，预算有限还要加钱吗？**
 
-他的选择是普通鸡蛋。家庭预算充足，愿意为自己的偏好多花钱，他不拦。对专门来问性价比的人，他说这笔钱没必要。 [回放 09:39](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=579)
+**答**　预算有限就买普通蛋。你有闲钱，喜欢包装上那个卖点，我不拦你。要问我值不值得为了那两个字多花钱，我说不用。 [回放 09:39](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=579)
 
 <a name="q-m04-634"></a>
 
 **159　中午带饭，一定得早上起来现做吗？**
 
-愿意早起就现做，嫌累也可以前一晚准备。他回答的是作息怎么安排。前一晚做的熟食要及时冷藏，带饭的储存和复热条件见[食品安全说明](knowledge/claims.md)。 [回放 10:34](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=634)
+**答**　愿意早起就早上做，嫌累也可以头一天晚上准备。 [回放 10:34](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=634)
+
+**编注**　前一晚做的熟食需及时冷藏，带饭还涉及储存和复热条件。 [食品安全说明](knowledge/claims.md)
 
 <a name="q-m04-642"></a>
 
 **160　不吃早餐伤不伤身体？**
 
-他自己仍建议吃早餐。讲到“少一顿就会得胆结石”，他提起上学时老师这样说过，后来自己对这个因果说法有所保留。 [回放 10:42](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=642)
+**答**　我还是建议吃早餐。上学时老师说少吃早餐容易得胆结石，可要说少一顿就能推出这个结果，我现在对这种讲法有保留。 [回放 10:42](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=642)
 
 <a name="q-m04-662"></a>
 
 **161　燕麦奶和牛奶，想补蛋白更偏向哪种？**
 
-这次他选牛奶，理由是他看重的是蛋白质。实际挑饮品可以比较手中两款标签上的每份蛋白质，不同植物饮配方会有差别。 [回放 11:02](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=662) · [美国 FDA 对乳制品与植物饮的比较](https://www.fda.gov/food/nutrition-education-resources-materials/milk-and-plant-based-milk-alternatives-know-nutrient-difference)
+**答**　你冲着蛋白质来问，我这次选牛奶。 [回放 11:02](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=662)
+
+**编注**　两款饮品可以直接比较标签上每份的蛋白质，植物饮的配方有差别。 [美国 FDA 对乳制品与植物饮的比较](https://www.fda.gov/food/nutrition-education-resources-materials/milk-and-plant-based-milk-alternatives-know-nutrient-difference)
 
 <a name="q-m04-773"></a>
 
 **162　牛奶原本是给牛喝的，人就不该喝吗？**
 
-他不同意，拿鸡蛋也是鸡下的来反问，随后提到牛奶里的乳清蛋白。他判断一种食物的理由落在了它有什么成分。 [回放 12:53](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=773)
+**答**　那鸡蛋也是鸡下的，人就不能吃啦？得看看牛奶里面有什么，比如乳清蛋白。我不按它原先给谁喝来做这个判断。 [回放 12:53](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=773)
 
 <a name="q-m04-835"></a>
 
 **163　你自己也喝牛奶，还是只推荐别人喝？**
 
-他答自己喝牛奶，也喝酸奶，随后聊起住在瑞典时常见的奶制品。这里是他对自己饮食习惯的回答。 [回放 13:55](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=835)
+**答**　我自己喝，牛奶、酸奶我都喝。在瑞典这边也常见到各种奶制品。 [回放 13:55](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=835)
 
 <a name="q-m04-880"></a>
 
 **164　头发白了，买“白转黑”的营养品值得吗？**
 
-他劝观众别为这个许诺花钱。问的是市面上卖的补充品，片中没有判断这位观众白发的成因。 [回放 14:40](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=880)
+**答**　我劝你别为“白转黑”这个许诺掏钱。 [回放 14:40](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=880)
+
+**编注**　片中没有判断提问者白发的成因。
 
 ### 17:18 起　考研、烤地瓜、用眼和个人习惯
 
@@ -1062,67 +1152,69 @@
 
 **165　考研期间想补一补，该买什么？**
 
-他给的建议是回去学习。这个答复和前面谈自己备考的故事是一条线，他没有为考试列营养品购物单。 [回放 17:18](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1038)
+**答**　回去学习。你是要考研，眼下该把时间花在书上。 [回放 17:18](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1038)
 
 <a name="q-m04-1044"></a>
 
 **166　空气炸锅烤的地瓜，减脂时能吃吗？**
 
-能。他拿吃一个和一口气吃好几个作比较，提醒分量会改变这顿饭的结果。空气炸锅这几个字不能替你决定能吃多少。 [回放 17:24](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1044)
+**答**　能吃。烤一个跟一口气吃好几个，那是一个量吗？不能看见“空气炸锅”四个字就把分量忘了。 [回放 17:24](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1044)
 
 <a name="q-m04-1063"></a>
 
 **167　咖啡能每天喝吗？**
 
-按他的回答，可以少喝一些。他随即举了一天喝很多杯的例子，提醒观众别把“每天喝”理解成杯数随便。 [回放 17:43](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1063)
+**答**　可以少喝点。每天喝一杯和一天喝好多杯，都是“每天喝”，差别可大了。 [回放 17:43](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1063)
 
 <a name="q-m04-1103"></a>
 
 **168　有人劝痛风的人买碱性水，要挑这种水吗？**
 
-鱼博没让提问者为“碱性”加钱，给出的日常饮水选择是普通水。这段只回答买哪种水，疾病处理还要看临床评估。 [回放 18:23](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1103)
+**答**　日常喝水，我选普通水，不会为了“碱性”多付钱。 [回放 18:23](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1103)
+
+**编注**　这一问只涉及买水。痛风的处理需要临床评估。
 
 <a name="q-m04-1126"></a>
 
 **169　夜店上班，总熬夜喝酒，吃什么补回来？**
 
-他先劝少喝酒、设法减少熬夜，没有推荐一样能兜底的补品。先看工作里能调整哪件事，是他当场的回答。 [回放 18:46](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1126)
+**答**　先想办法少喝些酒，能少熬一会儿就少熬一会儿。前面一直熬、一直喝，靠后面再吃点什么补回来，我可没这个东西推荐。 [回放 18:46](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1126)
 
 <a name="q-m04-1220"></a>
 
 **170　想护眼，要吃蓝莓还是该做点别的？**
 
-蓝莓他不反对，接着提醒别总在黑暗里盯手机，可以看看远处。他把日常用眼习惯放在食物前面。 [回放 20:20](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1220)
+**答**　蓝莓想吃可以吃。你还得看看自己平时怎么用眼，别老在黑暗里盯手机，抬头看看远处。 [回放 20:20](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1220)
 
 <a name="q-m04-1273"></a>
 
 **171　你戴眼镜是近视吗？**
 
-他答自己没有近视，这副是看弹幕时戴的平光镜。这里说的是他自己的眼镜。 [回放 21:13](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1273)
+**答**　我没近视。这副是看弹幕的时候戴的平光镜。 [回放 21:13](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1273)
 
 <a name="q-m04-1307"></a>
 
 **172　中医说的“湿气”究竟指什么？**
 
-他说自己不学中医、不懂这个概念，也明说自己不认同人据此断定体内有某种东西。这里保留的是他的立场。 [回放 21:47](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1307)
+**答**　我没学中医，这概念我不懂。我也不认同就凭“湿气”两个字，断定你体内一定有什么东西。 [回放 21:47](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1307)
 
 <a name="q-m04-1416"></a>
 
 **173　你自己还抽烟喝酒吗？**
 
-他说这时已经不抽烟，也不喝酒了，又提到以前在医院上班、值夜班时压力大。是他在这次直播里的个人近况。 [回放 23:36](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1416)
+**答**　我现在不抽也不喝了。以前在医院上班、值夜班，那时候压力挺大。 [回放 23:36](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1416)
 
 <a name="q-m04-1443"></a>
 
 **174　指望咖啡提高代谢，值不值得专门喝？**
 
-他觉得作用有限。真想动一动、增加活动，他会把时间留给运动。 [回放 24:03](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1443)
+**答**　指望咖啡把代谢提起来，我觉得作用有限。你真想多活动一些，这工夫拿去运动。 [回放 24:03](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1443)
 
 <a name="q-m04-1453"></a>
 
 **175　天天改用黄油炒菜行不行？**
 
-他不建议拿黄油当日常主力，又把猪油放进同一组。家常炒菜他说到的是菜籽油等植物油。 [回放 24:13](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1453)
+**答**　我不拿黄油、猪油天天炒。我家常炒菜会选菜籽油这些植物油。 [回放 24:13](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1453)
 
 ### 25:05 起　炒菜用油、芹菜、特例和紫外线灯
 
@@ -1130,31 +1222,33 @@
 
 **176　芹菜能降血脂吗？**
 
-他不认同靠吃一口芹菜降血脂。拿它替掉原来餐盘里一部分肥肉或主食，整顿饭才变了。原来那份饭、肉和奶茶都照旧，只在最后再加芹菜，是另一回事。 [回放 25:05](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1505)
+**答**　你这口芹菜，把原先餐盘里一部分肥肉换下来了？那一餐确实变了。饭、肉、奶茶一样没少，最后再吃口芹菜，指望它降血脂，我不认这个账。 [回放 25:05](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1505)
 
 <a name="q-m04-1663"></a>
 
 **177　少盛点米饭，就一定能瘦吗？**
 
-有可能，但少吃米饭不能保证体重就会降。这一问他特意把“可能”和“一定”分开说。 [回放 27:43](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1663)
+**答**　有可能。可能跟一定是两码事，光告诉我少盛点饭，不能保证你就瘦。 [回放 27:43](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1663)
 
 <a name="q-m04-1701"></a>
 
 **178　熬夜就一定会得痛风吗？**
 
-他答要看多种因素，又反对单拿一个人的经历替所有人判断。他举长寿的吸烟者、看似没怎么学就考上好大学的人为例，问听众能否据此劝人都不学习。这里记录的是他的举例方式。 [回放 28:21](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1701)
+**答**　得看好些因素。有人抽烟也长寿，有人看着没怎么学也考上好大学，难道你就照这一个人去劝大家都别学习？ [回放 28:21](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1701)
 
 <a name="q-m04-1746"></a>
 
 **179　不给孩子买 DHA 就觉得亏待他，这笔钱必须花吗？**
 
-他没要求咬牙买。家庭宽裕，他说可以考虑。买完会心疼，他让家长把钱留给别处，也没把吃了就聪明当成保证。 [回放 29:06](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1746)
+**答**　买起来宽裕，可以考虑。要是买完还心疼，就把钱留给别的事。别因为没买一瓶 DHA 就觉得亏待了孩子。 [回放 29:06](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1746)
 
 <a name="q-m04-1978"></a>
 
 **180　可以买紫外线消毒灯，放家里照着除螨吗？**
 
-他马上反对让人在家里被灯照到，还拿医院消毒时人要避开来说明。紫外线灯照射可能损伤眼睛和皮肤。 [回放 32:58](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1978) · [FDA 紫外线资料](https://www.fda.gov/radiation-emitting-products/tanning/ultraviolet-uv-radiation)
+**答**　别让人在屋里被那盏灯直接照着。医院用紫外线消毒的时候，人都得避开。 [回放 32:58](https://www.bilibili.com/video/BV1nVP6z6ExR/?t=1978)
+
+**编注**　紫外线照射可能损伤眼睛和皮肤。 [FDA 紫外线资料](https://www.fda.gov/radiation-emitting-products/tanning/ultraviolet-uv-radiation)
 
 [回本页目录](#直播问答)
 
@@ -1170,43 +1264,47 @@
 
 **181　我连三公里都跑不下，换什么运动？**
 
-换成走。鱼博让人从走得动的路开始，体力允许就加快些。观众紧接着提到散步，他给的区别也是步子可以稍快，而非必须跑够多少公里。 [回放 00:27](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=27)
+**答**　跑不下来就走，先走你走得动的。体力允许就把步子加快些，谁说非得跑满三公里？ [回放 00:27](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=27)
 
 <a name="q-m28-92"></a>
 
 **182　都不吃晚饭了，怎么还没瘦？**
 
-少一顿，全天吃进去的未必少。先把早饭、午饭的分量和中间那杯奶茶、那袋薯片一起算上。要是减到饿得心慌，鱼博的建议是正常吃饭，选能吃饱的食物，主食也可以留着。 [回放 01:32](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=92) · [晚饭问答](https://www.douyin.com/video/7621495986569267066) · [饿到心慌](https://www.douyin.com/video/7621384986914337402)
+**答**　先算早饭、午饭吃多少，中间那杯奶茶、那袋薯片算了没有？你少一顿，全天可不一定少。要是饿得心慌，就正常吃饭，选些能吃饱的，主食也可以留。 [回放 01:32](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=92) · [晚饭问答](https://www.douyin.com/video/7621495986569267066) · [饿到心慌](https://www.douyin.com/video/7621384986914337402)
 
 <a name="q-m28-137"></a>
 
 **183　现在的玉米吃起来很甜，还值得吃整根吗？**
 
-他仍然选整根的。弹幕强调的是甜味，他回答时拿整粒玉米和磨成面的玉米比较，想保留的是原来的颗粒和口感。 [回放 02:17](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=137)
+**答**　我还是选整根的。你说的是甜不甜，我刚才比的是啃一根玉米，还是把颗粒都磨成面。 [回放 02:17](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=137)
 
 <a name="q-m28-159"></a>
 
 **184　彩椒带点甜，血糖高的人也得避开吗？**
 
-他没有让人把彩椒划掉，还提到它可以给这顿饭添蔬菜。后来有人具体问生吃还是炒熟，他答两样都行。 [回放 02:39](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=159) · [做法追问 08:49](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=529)
+**答**　彩椒可以吃，也算你这顿的一份菜。生吃、炒熟，我都可以。 [回放 02:39](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=159) · [做法追问 08:49](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=529)
 
 <a name="q-m28-207"></a>
 
 **185　喝咖啡就头疼，还喝不喝？**
 
-既然每次喝完都不舒服，他的回答是先别喝，没必要硬撑。至于为什么头疼，这场没有替留言的人作诊断。 [回放 03:27](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=207)
+**答**　你一喝就头疼，那先别喝了，为什么还非得喝？ [回放 03:27](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=207)
+
+**编注**　直播中没有诊断头疼的病因。
 
 <a name="q-m28-223"></a>
 
 **186　水果能吃吗？一天两斤呢？**
 
-多数水果可以吃。一天两斤，鱼博嫌多。他还说，蔬菜吃够了，水果少吃些也行。要找一般成人每天的参照量，中国居民膳食指南给的是 200–350 克新鲜水果。 [回放 03:43](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=223) · [水果种类](https://www.douyin.com/video/7619537623274491199) · [膳食指南](https://sfncc.caas.cn/xyyw/79c86454ef84437eb3e0df055deffd56.htm)
+**答**　水果大多都能吃。你一天来两斤，我觉得多。我的看法是菜吃够了，水果可以少吃些。 [回放 03:43](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=223) · [水果种类](https://www.douyin.com/video/7619537623274491199)
+
+**编注**　中国居民膳食指南给一般成人的参照量为每天 200–350 克新鲜水果。 [膳食指南](https://sfncc.caas.cn/xyyw/79c86454ef84437eb3e0df055deffd56.htm)
 
 <a name="q-m28-256"></a>
 
 **187　你怎么举杯又放下，是假喝水吗？**
 
-他说手里是刚泡的茶，太烫才没往下喝。热水用来泡，等茶凉一点再喝，这就解释了镜头里的动作。 [回放 04:16](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=256)
+**答**　刚泡的茶，太烫，到嘴边就得放下呀。泡的时候用热水，喝的时候等它凉点。 [回放 04:16](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=256)
 
 ### 04:59 起　豆浆、蒸蛋、青团和晚些时候的追问
 
@@ -1214,55 +1312,59 @@
 
 **188　孩子偶尔喝杯豆浆，你怎么看？**
 
-他接受平常喝一杯，怕的是把“可以喝”理解成一天灌许多杯。提问没报年龄，他也没有在这里给婴儿定喂养方案。 [回放 04:59](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=299)
+**答**　平常喝一杯可以。别把“能喝”听成一天灌好多杯。 [回放 04:59](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=299)
+
+**编注**　观众没有报孩子年龄，本题不能用作婴儿喂养方案。
 
 <a name="q-m28-360"></a>
 
-**189　做成鸡蛋糕，还算他推荐的鸡蛋吃法吗？**
+**189　做成鸡蛋糕，还算你推荐的鸡蛋吃法吗？**
 
-算。他直接肯定了这种吃法，提到用油时又说煎蛋少放点油。这里的鸡蛋糕指的是蒸蛋这类鸡蛋做法。 [回放 06:00](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=360)
+**答**　你说蒸鸡蛋糕呀？可以。煎蛋也可以，少放点油。 [回放 06:00](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=360)
 
 <a name="q-m28-392"></a>
 
 **190　青团能吃几个？**
 
-他没报一个适合所有人的数，而是举了端午吃粽子、中秋吃月饼的例子。过节尝一尝可以，他会劝少的是平时天天当零嘴吃。 [回放 06:32](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=392)
+**答**　你端午吃粽子、中秋吃月饼，过节尝尝我觉得行。要是平时天天拿青团当零嘴，那我劝你少吃。我没给所有人定几个。 [回放 06:32](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=392)
 
 <a name="q-m28-422"></a>
 
 **191　爱吃土豆泥，要换个做法吗？**
 
-他自己会直接吃土豆，少把它压成细泥。他还在直播里随口估了一个血糖生成指数，不能用来代表所有土豆泥。 [回放 07:02](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=422) · [关于做法和分量](knowledge/habits.md)
+**答**　换我就直接吃土豆，不专门压成细泥。 [回放 07:02](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=422)
+
+**编注**　直播随口估的血糖生成指数不能代表所有土豆泥。 [关于做法和分量](knowledge/habits.md)
 
 <a name="q-m28-455"></a>
 
-**192　如果这顿的主食是面包，他选哪种？**
+**192　如果这顿的主食是面包，你选哪种？**
 
-全麦面包，他连说了两遍。观众问的是一餐能不能吃面包，这段没有给某个品牌或型号背书。 [回放 07:35](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=455)
+**答**　我选全麦面包。你问能不能拿面包当这一餐的主食，我的选择就是全麦。 [回放 07:35](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=455)
 
 <a name="q-m28-467"></a>
 
 **193　黑芝麻能让孩子长个吗？**
 
-别指望靠黑芝麻长高。要是想补钙，鱼博更推荐日常喝的牛奶。芝麻含钙，还得看一顿能吃多少、身体能用多少。从这些条件，可以比较哪样更适合补钙，推不出孩子能长几厘米。 [回放 07:47](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=467)
+**答**　靠黑芝麻让孩子长高，我不指望。想补钙我更愿意选牛奶。芝麻里有钙，你也得看一顿吃得下多少、身体用得上多少。 [回放 07:47](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=467)
 
 <a name="q-m28-520"></a>
 
 **194　羊肉能不能吃？**
 
-可以，牛肉、羊肉都可以适量轮着吃。他把它们放回平常的肉蛋奶里，没有给羊肉安一个额外的进补功效。 [回放 08:40](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=520)
+**答**　可以，羊肉、牛肉平常换着吃，适量就行。 [回放 08:40](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=520)
 
 <a name="q-m28-533"></a>
 
 **195　羊奶比牛奶更值得买来喝吗？**
 
-爱喝羊奶可以喝，他自己更愿意选价格合适的牛奶。说到喝牛奶就闹肚子的人，他又提醒要看个人耐受。 [回放 08:53](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=533)
+**答**　你爱喝羊奶就喝。我自己喜欢选价格合适的牛奶。一喝牛奶就闹肚子的人，得按自己喝着舒不舒服来选。 [回放 08:53](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=533)
 
 <a name="q-m28-556"></a>
 
 **196　泡脚真是最好的养生吗？**
 
-图舒服，他赞成。说是“最好的养生”，他觉得夸大了。给爷爷端盆温水洗洗脚，老人舒服，自己也愿意，这就是理由，水别烫。 [回放 09:16](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=556) · [特殊情况与足部护理](knowledge/habits.md)
+**答**　你给爷爷端盆温水，他觉得舒服，你也乐意，这就挺好了，水别烫。要管它叫“最好的养生”，我觉得说过了。 [回放 09:16](https://www.bilibili.com/video/BV1q2XjB6EB9/?t=556) · [特殊情况与足部护理](knowledge/habits.md)
 
 [回本页目录](#直播问答)
 
@@ -1274,51 +1376,57 @@
 
 **197　不吃肉，想补蛋白，吃什么？**
 
-能吃蛋，就选鸡蛋。它有蛋白质，便宜，也好买。单为补蛋白，没必要花海参的钱。鱼博把海参比作颜良文丑，把鸡蛋比作关羽，举这个例子时还专门说海参也有营养。[鸡蛋与海参](https://www.douyin.com/video/7624116410029914515)
+**答**　你能吃蛋的话就买鸡蛋，便宜、好买，还能补蛋白。海参也有营养，拿三国打个比方，海参算颜良文丑，鸡蛋可是关羽。单为这件事，何必花海参的钱？ [鸡蛋与海参](https://www.douyin.com/video/7624116410029914515)
 
 **198　榴莲是不是水果之王？**
 
-让鱼博选，他选苹果。他给榴莲起的绰号是“水果之粑粑”（原片字幕）。玩笑过后，他开始比价钱、纤维和热量。这个排名说的是他自己怎么买水果。[榴莲与苹果 00:01](https://www.bilibili.com/video/BV1UDKm6NES3/?t=1)
+**答**　我给它起个名，叫“水果之粑粑”。让我自己买，我选苹果。我会看价钱，也会比纤维和热量。 [榴莲与苹果 00:01](https://www.bilibili.com/video/BV1UDKm6NES3/?t=1)
+
+**编注**　绰号可在原片字幕核对，这个排序是个人偏好。
 
 **199　绿豆汤当饮料，能加黄冰糖吗？**
 
-平时拿来当饮料喝，鱼博建议不放糖。绿豆煮出点味道就行，黄冰糖也得算在添加糖里。[绿豆水与黄冰糖](https://www.douyin.com/video/7661258884758019968)
+**答**　我不加。绿豆煮出点味就能当饮料了。你换黄冰糖，加进去的就不是糖了吗？ [绿豆水与黄冰糖](https://www.douyin.com/video/7661258884758019968)
 
 **200　吃什么能养肺？**
 
-不用专门买“养肺”的食物。鱼博给的做法是，抽烟就从戒烟着手，常吸二手烟就尽量避开。哪怕吃的是他爱夸的鸡蛋，也不能靠它专门改善肺功能。[养肺问答](https://www.douyin.com/video/7663443810148171658)
+**答**　先看你家有没有人抽烟。自己抽就从戒烟着手，老吸二手烟就尽量避开。就算是我喜欢的鸡蛋，它也不能吃下去就只管你的肺。 [养肺问答](https://www.douyin.com/video/7663443810148171658)
 
-**201　高考生能吃他直播间的鱼油吗？**
+**201　高考生能吃你直播间的鱼油吗？**
 
-鱼博在带货时向高考生推荐过商品。至于某个考生该不该吃、吃了能不能提分，录屏给不出依据。连具体是哪款都没法凭编号认定，画面字幕和平台自动章节写的编号不一样，配方和适用剂量也没核实。[带货录屏 00:04–00:13](https://www.douyin.com/video/7693784743971753243) · [鱼油推荐的上下文](knowledge/claims.md)
+**答**　高考生我也推荐过这场卖的鱼油。 [带货录屏 00:04–00:13](https://www.douyin.com/video/7693784743971753243)
+
+**编注**　这是带货答复。字幕与自动章节中的商品编号不一致，配方、剂量和提分效果都无法据这段确认。 [鱼油推荐的上下文](knowledge/claims.md)
 
 **202　睡前喝点红酒，很快就困，算睡得更好吗？**
 
-不算，别为了助眠喝酒。觉得困了只能说明当时容易入睡，睡得怎么样还要看夜里和第二天醒来后的状态。[睡眠专题 05:02](https://www.bilibili.com/video/BV1ftkYBhEgr/?t=302)
+**答**　睡前喝完倒是困了，可后半夜睡得怎么样，第二天醒来有没有精神？我不建议拿红酒助眠。 [睡眠专题 05:02](https://www.bilibili.com/video/BV1ftkYBhEgr/?t=302)
 
 **203　博士还上课吗？**
 
-鱼博自己上过。刚读博时，他集中上过大约三个月的课，包括统计和表达，之后主要自己做研究。他回答的是自己的培养经历。[读博问答后半段](https://www.douyin.com/video/7632984440238993103)
+**答**　我上过。刚读博那会儿集中上了大约三个月，有统计，有表达。后来主要是自己做研究。 [读博问答后半段](https://www.douyin.com/video/7632984440238993103)
 
 **204　每天都背六级单词，怎么还是记不住？**
 
-每天给忘掉的旧词留时间，再排新词。背一个动词，除了认得中文意思，还要看它的过去式、过去分词，换到例句里能不能认出来。这比记下今天坐了几小时，更容易找出哪部分没学会。[安排新旧词 01:23](https://www.bilibili.com/video/BV1S7B5BDEtQ/?t=83) · [学动词 03:36](https://www.bilibili.com/video/BV1S7B5BDEtQ/?t=216)
+**答**　你今天忘了的词，明天还给不给它留时间？旧词先排进去，再背新的。一个动词，换成过去式、过去分词，放回句子里还认不认得？先试这一项，别光报坐了几个小时。 [安排新旧词 01:23](https://www.bilibili.com/video/BV1S7B5BDEtQ/?t=83) · [学动词 03:36](https://www.bilibili.com/video/BV1S7B5BDEtQ/?t=216)
 
 **205　我只想让家里长辈多吃点东西，直接买蛋白粉吗？**
 
-鱼博讲自家姥爷时，选了可以补充能量和多种营养素的配方。吃饭少的时候，要先弄清一天下来少了什么。他在同一段里专门把健身练肌肉另列为一个目标。[蛋白粉切片 00:04–00:23](https://www.bilibili.com/video/BV1xB6dBKE32/?t=4) · [长辈吃得少这一节](knowledge/food.md)
+**答**　我姥爷饭量小，我买的是能把能量和几样营养一起补上的配方。健身想练肌肉，那是另一个目标，别上来一律买蛋白粉。 [蛋白粉切片 00:04–00:23](https://www.bilibili.com/video/BV1xB6dBKE32/?t=4) · [长辈吃得少这一节](knowledge/food.md)
 
 **206　已经买普通鸡蛋，要换土鸡蛋吗？**
 
-为了日常补蛋白，鱼博这次没让人换。弹幕问土鸡蛋会不会更好，他当即答了“不会”。[鸡蛋快问快答 00:29–00:32](https://www.bilibili.com/video/BV16nV16YEoo/?t=29)
+**答**　为了日常补蛋白，普通鸡蛋就行。你问换成土鸡蛋是不是就更好，我的回答是不用换。 [鸡蛋快问快答 00:29–00:32](https://www.bilibili.com/video/BV16nV16YEoo/?t=29)
 
 **207　天天练无氧还长胖，是练错了吗？**
 
-单凭这句话找不出原因。鱼博让人同时看训练量和吃了多少。同一条视频里，问到怎样练肌肉，他给出的具体动作是俯卧撑。[阻力训练 00:00](https://www.bilibili.com/video/BV1hVTU6VE1E/?t=0) · [体重追问 00:21](https://www.bilibili.com/video/BV1hVTU6VE1E/?t=21)
+**答**　光听你这句话，我说不出为什么长胖。练了多少、吃了多少，两边都得看。要问我练肌肉可以做什么，俯卧撑就可以。 [阻力训练 00:00](https://www.bilibili.com/video/BV1hVTU6VE1E/?t=0) · [体重追问 00:21](https://www.bilibili.com/video/BV1hVTU6VE1E/?t=21)
 
 **208　单词认得，整段英语课文背不下来，今晚怎么练？**
 
-拿支笔，把卡住的那句先弄懂是什么意思，再试着从中文写回英文。这是他在小学生连麦里给的练法，和六级那段算一天背多少新词，是两次不同的对话。[小学生连麦 05:59–06:33](https://www.bilibili.com/video/BV1b86dBrErQ/?t=359)
+**答**　今晚先拿支笔，找出卡住的那一句。把意思弄明白，再试着看中文把英文写回来。 [小学生连麦 05:59–06:33](https://www.bilibili.com/video/BV1b86dBrErQ/?t=359)
+
+**编注**　这段是小学生连麦，和六级词表是两次对话。
 
 ## 主号短视频补充 · 2 组
 
@@ -1326,11 +1434,13 @@
 
 **209　乳糖不耐受，又想喝奶，选哪种？**
 
-可以试试零乳糖牛奶。鱼博也提过无糖酸奶。买酸奶时留意标签。“无糖”不能保证“零乳糖”，自己能耐受多少也因人而异。[主号原片 02:24–02:28](https://www.douyin.com/video/7673409464128771697) · [NIDDK 饮食资料](https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/eating-diet-nutrition)
+**主号讲解**　可以试零乳糖牛奶。无糖酸奶是我提的另一个选择。 [主号原片 02:24–02:28](https://www.douyin.com/video/7673409464128771697)
+
+**编注**　“无糖”不保证“零乳糖”，应看标签和个人耐受情况。 [NIDDK 饮食资料](https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/eating-diet-nutrition)
 
 **210　超市里一盒沙拉当午饭，除了菜叶要夹什么？**
 
-把主食和蛋白质来源也装进盒子。鱼博在瑞典超市夹了螺旋意面、鸡蛋、奶酪和虾，再用洋葱、番茄干调味。能在原片里看见他的选择，也能看见哪些东西他因为自己的口味没拿。[主号实拍 00:18–01:21](https://www.douyin.com/video/7683801575421184689) · [直播怎样分餐盘](knowledge/shopping.md)
+**主号实拍**　拿我在超市夹的这盒说，我拿了螺旋意面，再加鸡蛋、奶酪和虾，用洋葱、番茄干调味。你想拿它当午饭，主食和蛋白质的位子都得留。 [主号实拍 00:18–01:21](https://www.douyin.com/video/7683801575421184689) · [直播怎样分餐盘](knowledge/shopping.md)
 
 <a name="show-jan04"></a>
 
@@ -1342,61 +1452,69 @@
 
 **211　点亮灯牌了，为什么还是没看到我的问题？**
 
-他说自己会挑问题看。接下来的几分钟，他还点名说这一段不答考研、考公和医院编制。有没有被念到，也和他这场想聊什么有关。 [回放 0:38](https://www.bilibili.com/video/BV1JeinB7EYM/?t=38)
+**答**　问题我会挑着看。我现在这段就不答考研、考公、医院编制这一类，灯牌亮了也不一定念到。 [回放 0:38](https://www.bilibili.com/video/BV1JeinB7EYM/?t=38)
 
 <a name="new-BV1JeinB7EYM-84"></a>
 
 **212　因为担心矿泉水里的微塑料，普通家庭要花大钱换水吗？**
 
-他不建议为了躲开一种到处都可能接触的东西，把日常喝水变成一笔很贵的开支。他拿收入开了个夸张的玩笑，现场没有检测任何一瓶水。 [回放 1:24](https://www.bilibili.com/video/BV1JeinB7EYM/?t=84)
+**答**　为了躲一个到处可能遇到的东西，把家里喝水搞得特别贵，我自己不这么花钱。 [回放 1:24](https://www.bilibili.com/video/BV1JeinB7EYM/?t=84)
+
+**编注**　现场没有检测某一瓶水。
 
 <a name="new-BV1JeinB7EYM-130"></a>
 
 **213　这顿吃得太咸，事后狂喝水能补救吗？**
 
-他的回答落在下一顿怎么做。先看蚝油、酱油、味精和腌菜加起来有多少盐，别把吃完猛喝水当成抵消盐分的办法。 [回放 2:10](https://www.bilibili.com/video/BV1JeinB7EYM/?t=130)
+**答**　下顿做菜的时候先算算，蚝油、酱油、味精、腌菜里加起来有多少盐。别指望这顿吃重了，喝一大堆水就能抵掉。 [回放 2:10](https://www.bilibili.com/video/BV1JeinB7EYM/?t=130)
 
 <a name="new-BV1JeinB7EYM-203"></a>
 
 **214　我明天就做 ERCP，今晚能不能请你讲讲我的手术？**
 
-他让这位观众去问实际负责操作的医生。马上要做的那一次操作，有自己的病情和方案，直播间没法替治疗团队讲清楚。 [回放 3:23](https://www.bilibili.com/video/BV1JeinB7EYM/?t=203)
+**答**　明天给你做的那位医生，最清楚你为什么做、准备怎么做。你这个问题去问实际给你操作的人。 [回放 3:23](https://www.bilibili.com/video/BV1JeinB7EYM/?t=203)
 
 <a name="new-BV1JeinB7EYM-214"></a>
 
-**215　口臭怎么护理，他会先看哪里？**
+**215　口臭怎么护理，你会先看哪里？**
 
-他先想到牙有没有清洁好，以及牙菌斑、牙石这些口腔因素。这里保留他先从刷牙和口腔护理看起的思路，口播里随口报的比例没有用来判断个人病因。 [回放 3:34](https://www.bilibili.com/video/BV1JeinB7EYM/?t=214)
+**答**　我先看牙刷干净了没有，再看有没有牙菌斑、牙石这些口腔问题。 [回放 3:34](https://www.bilibili.com/video/BV1JeinB7EYM/?t=214)
+
+**编注**　不能据此判断某个人口臭的病因。
 
 <a name="new-BV1JeinB7EYM-235"></a>
 
 **216　“抗炎饮食”最近这么火，是噱头吗？**
 
-他先说有些宣传确实像噱头，再拿自己的餐桌解释。平时吃得到粗粮和蔬菜，他觉得就不用专门花钱买一套叫“抗炎”的东西。 [回放 3:55](https://www.bilibili.com/video/BV1JeinB7EYM/?t=235)
+**答**　有些宣传我就觉得是噱头。我平常有粗粮吃、有蔬菜吃，还要为了“抗炎”两个字专门花一笔钱吗？ [回放 3:55](https://www.bilibili.com/video/BV1JeinB7EYM/?t=235)
 
 <a name="new-BV1JeinB7EYM-291"></a>
 
 **217　孩子才长出第一颗牙，已经要刷了吗？**
 
-鱼博当时觉得只有一颗牙，先擦一擦就行。这一项与口腔护理指南有差别。**美国牙科协会建议从第一颗牙萌出就开始刷**，由照护者用儿童牙刷清洁，三岁以下使用米粒大小的含氟牙膏。[美国牙科协会的儿童刷牙说明](https://www.ada.org/resources/ada-library/oral-health-topics/toothbrushes) [回放 4:51](https://www.bilibili.com/video/BV1JeinB7EYM/?t=291)
+**答**　才一颗牙，我觉得先擦一擦就行。 [回放 4:51](https://www.bilibili.com/video/BV1JeinB7EYM/?t=291)
+
+**编注**　**美国牙科协会建议从第一颗牙萌出就开始刷**，由照护者用儿童牙刷清洁，三岁以下使用米粒大小的含氟牙膏。这一点与直播回答有差别。 [美国牙科协会的儿童刷牙说明](https://www.ada.org/resources/ada-library/oral-health-topics/toothbrushes)
 
 <a name="new-BV1JeinB7EYM-2075"></a>
 
 **218　外面都下雨了，为什么还站在那里直播？**
 
-他说这是自己正在做的工作，听人劝回家当然轻松，但他也要靠工作生活。那几分钟的现场背景是他在上海户外播，雨又下起来了。 [回放 34:35](https://www.bilibili.com/video/BV1JeinB7EYM/?t=2075)
+**答**　我这是在工作呀。上海这会儿又下雨了，听你的回家当然轻松，可我也得靠工作生活。 [回放 34:35](https://www.bilibili.com/video/BV1JeinB7EYM/?t=2075)
 
 <a name="new-BV1JeinB7EYM-6321"></a>
 
 **219　你不是说过护肝片是“智商税”吗，怎么这一场又在卖？**
 
-他当场否认自己这样概括过，又把戒酒、规律作息排到前面。这是在推销商品时对观众质疑的回应。片段没有检验产品能否抵消熬夜或饮酒的影响。 [回放 1:45:21](https://www.bilibili.com/video/BV1JeinB7EYM/?t=6321)
+**答**　我没把护肝片一概这么说过。你真在意这件事，先把酒戒一戒，作息规律一点。 [回放 1:45:21](https://www.bilibili.com/video/BV1JeinB7EYM/?t=6321)
+
+**编注**　这是销售商品时回应质疑。录屏没有检验产品能否抵消熬夜或饮酒的影响。
 
 <a name="new-BV1JeinB7EYM-6500"></a>
 
 **220　你在欧洲读书，知道瑞士今天多少度吗？**
 
-他说自己平时在瑞典，这天人在上海。去过几次瑞士，也回答不了当地此刻的气温。 [回放 1:48:20](https://www.bilibili.com/video/BV1JeinB7EYM/?t=6500)
+**答**　我在瑞典生活，今天人还在上海。瑞士我是去过几次，它此刻多少度我哪知道？ [回放 1:48:20](https://www.bilibili.com/video/BV1JeinB7EYM/?t=6500)
 
 [回本页目录](#直播问答)
 
@@ -1410,145 +1528,151 @@
 
 **221　甜菜根要买成粉，才吃得到它的好处吗？**
 
-他建议上市场买甜菜根，直接吃就行。想吃这种菜，用不着先买瓶粉。 [回放 5:38](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=338)
+**答**　想吃甜菜根，市场上就有，买来吃就行，干什么非把它买成一瓶粉？ [回放 5:38](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=338)
 
 <a name="new-BV1sKfuBjEvy-396"></a>
 
 **222　吃了复合维生素 B，尿变黄，是不是没吸收？**
 
-他解释，B 族里有维生素 B₂，也叫核黄素，吃后尿液可能变黄。单凭这种颜色变化，不能得出「白吃了」的结论。 [回放 6:36](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=396)
+**答**　B 族里有维生素 B₂，也叫核黄素，吃了尿液可能变黄。光凭颜色，你就能断定白吃了？ [回放 6:36](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=396)
 
 <a name="new-BV1sKfuBjEvy-424"></a>
 
 **223　蚕蛹能不能算一份蛋白质？**
 
-他认可蚕蛹能提供蛋白质，劝的是别一顿吃太多，尤其别把油炸蚕蛹吃得太多。 [回放 7:04](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=424)
+**答**　蚕蛹有蛋白质。别一顿吃太多，尤其是油炸的，别端着盘子一个接一个地吃。 [回放 7:04](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=424)
 
 <a name="new-BV1sKfuBjEvy-431"></a>
 
 **224　火鸡面的问题是辣，还是面饼和料包也要算？**
 
-他说自己吃过，让他嫌弃的是油炸面饼又配了重油、重盐、重辣的料。辣并不是他劝少吃的唯一理由。 [回放 7:11](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=431)
+**答**　火鸡面我吃过。面饼是炸的，料又油又咸又辣，我嫌的是这一整套，不单单是那个辣字。 [回放 7:11](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=431)
 
 <a name="new-BV1sKfuBjEvy-471"></a>
 
 **225　以前爱吃凉的，现在手脚冰凉，是当时吃出来的吗？**
 
-他不赞成把手脚凉直接归到以前喝冰水上。给这位观众的生活建议是多活动、跑跑步。 [回放 7:51](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=471)
+**答**　我不会看到手脚凉，就倒推是你以前喝冰水喝出来的。平常可以多活动，出去跑跑步。 [回放 7:51](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=471)
+
+**编注**　当场没有检查手脚冰凉的原因。
 
 <a name="new-BV1sKfuBjEvy-518"></a>
 
 **226　普通人运动完，是不是应该特意把饭做咸一点？**
 
-他先看运动量。问的人并非超大运动量，平时饭菜往往已经够咸，没必要一运动就额外吃咸的。 [回放 8:38](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=518)
+**答**　看你活动量有多大。你说的就是普通运动，平常的菜已经挺咸，别每次动一动就特意多加盐。 [回放 8:38](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=518)
 
 <a name="new-BV1sKfuBjEvy-640"></a>
 
 **227　爱喝橘皮水，有必要买好几百块钱的陈皮吗？**
 
-自己买橘子、留点皮泡着喝，他不反对。让他不赞成的是为了这杯水花几百块，还指望多出一份保健效果。 [回放 10:40](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=640)
+**答**　自己买橘子，留点皮泡水，喜欢这个味道我没意见。可要我为一杯水花几百块买陈皮，再指望有什么特别效果，我不买。 [回放 10:40](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=640)
 
 <a name="new-BV1sKfuBjEvy-659"></a>
 
 **228　一边备考一边减肥，已经饿到头昏、写字手抖，还要扛吗？**
 
-别这么减。对这位正要高考的学生，他说学习已经够累，饿到这个地步还硬节食，会耽误眼前的事。 [回放 10:59](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=659)
+**答**　别硬扛。你还要高考，学习已经够累了。现在饿到头昏、写字手都在抖，这样减下去你拿什么备考？ [回放 10:59](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=659)
 
 <a name="new-BV1sKfuBjEvy-747"></a>
 
 **229　一天喝四升水还是口干，下一步是继续灌水吗？**
 
-他让这位观众去查一查血糖，还说明这不等于已经诊断了糖尿病。别光靠继续加水量来猜。 [回放 12:27](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=747)
+**答**　先去查查血糖。让你去查，不等于我说你已经有糖尿病。已经喝了这么多还口干，别只想着往下灌水。 [回放 12:27](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=747)
 
 <a name="new-BV1sKfuBjEvy-808"></a>
 
 **230　高中功课紧，一直坐在教室里，体育活动能先省下吗？**
 
-他劝学生留出活动时间，去走走、跑跑步，别把天天不动当成认真学习的条件。 [回放 13:28](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=808)
+**答**　给自己留点活动时间，走走也好、跑跑也好。不是说你一天都黏在教室椅子上才算认真学。 [回放 13:28](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=808)
 
 <a name="new-BV1sKfuBjEvy-917"></a>
 
 **231　无糖茶配一块糕点，会让这顿更有减肥效果吗？**
 
-他不认这个搭配有特殊作用。要减重，先看整天吃了多少、动了多少，不是把茶和某一种糕点凑成一对。 [回放 15:17](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=917)
+**答**　茶没糖，不会给旁边的糕点变个戏法。你要减重，还是得算一天一共吃多少、动多少。 [回放 15:17](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=917)
 
 <a name="new-BV1sKfuBjEvy-988"></a>
 
 **232　鹿血听起来稀罕，营养上要专门买它吗？**
 
-他觉得没必要，还拿猪血作替代例子。东西少见、卖得贵，不是他认同的购买理由。 [回放 16:28](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=988)
+**答**　我没必要为了它少见、价格高就去买。要说这个吃法，猪血也可以拿来比。 [回放 16:28](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=988)
 
 <a name="new-BV1sKfuBjEvy-1044"></a>
 
-**233　冬虫夏草这么贵，按他的买法会用什么替？**
+**233　冬虫夏草这么贵，按你的买法会用什么替？**
 
-他把「虫」和「草」拆开讲成虫体加真菌，给出的家常比方是「蘑菇炒蚕蛹」。这是他劝人别为虫草买单的玩笑，并不是两道食物有相同药效。 [回放 17:24](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1044)
+**答**　我给你打个比方，虫体加真菌，家常一点不就是“蘑菇炒蚕蛹”？我主要是嫌它贵。 [回放 17:24](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1044)
+
+**编注**　这是玩笑，没有证据说明两者有相同药效。
 
 <a name="new-BV1sKfuBjEvy-1241"></a>
 
-**234　有人说吃穿山甲对怀孕有用，他赞成吗？**
+**234　有人说吃穿山甲对怀孕有用，你赞成吗？**
 
-不赞成。他直接否定这个说法，还提醒穿山甲是保护动物，不要吃。后面特意把这句劝阻又讲了一遍。 [回放 20:41](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1241)
+**答**　我不赞成。穿山甲是保护动物，别吃，也别指望靠它怀孕。 [回放 20:41](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1241)
 
 <a name="new-BV1sKfuBjEvy-1322"></a>
 
 **235　从有名的高中毕业，同学们年薪百万就很常见吗？**
 
-他不同意把少数人的收入当成整届学生的常态，拿自己的母校和清华北大作了比较。这是他对「很常见」的反驳，直播里没有提供毕业生薪资统计。 [回放 22:02](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1322)
+**答**　你说的是少数几个人，还是整个年级？就我母校的同学来说，我不认同把年薪百万讲成家常便饭。清华北大也不能这么算。 [回放 22:02](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1322)
+
+**编注**　现场没有毕业生薪资统计。
 
 <a name="new-BV1sKfuBjEvy-1355"></a>
 
 **236　说自己吃纯素，还能把鸡蛋算进去吗？**
 
-吃鸡蛋就不算纯素。他先把这个词掰扯清楚，再答提问的后半句。这次他给这位观众举的量是一天两个鸡蛋。 [回放 22:35](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1355)
+**答**　你都吃鸡蛋了，就先别叫“纯素”。你接着问吃几个，我举个数，一天两个。 [回放 22:35](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1355)
 
 <a name="new-BV1sKfuBjEvy-1374"></a>
 
 **237　无糖饮料是完全不能喝，还是可以偶尔喝？**
 
-他的表态是少喝，并且特意补了一句，没有说完全不能喝。 [回放 22:54](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1374)
+**答**　少喝。我说的是少，没说一口也不许喝。 [回放 22:54](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1374)
 
 <a name="new-BV1sKfuBjEvy-1385"></a>
 
 **238　家人老劝我喝鱼胶，为了滋补一定要喝吗？**
 
-他说可以喝点，但别指望有多大的额外作用。没有把鱼胶列成必须完成的滋补任务。 [回放 23:05](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1385)
+**答**　你想喝点可以，别太指望还有什么额外作用。我不觉得非得给自己安排上。 [回放 23:05](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1385)
 
 <a name="new-BV1sKfuBjEvy-1393"></a>
 
 **239　你说少吃干果，是连核桃、榛子这些坚果也不让吃吗？**
 
-他前面说的是蜜饯一类。核桃、榛子可以吃一些。含的脂肪有可取之处，量大了热量也会跟着上去。 [回放 23:13](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1393)
+**答**　我前面说的是蜜饯那一类。核桃、榛子可以吃一些，里面有些脂肪是好的。可你吃一大把，热量也跟着上去了。 [回放 23:13](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1393)
 
 <a name="new-BV1sKfuBjEvy-1433"></a>
 
 **240　牛肉要专门等到来月经的时候再吃吗？**
 
-不用等。牛肉是日常就可以吃的食物，想吃就吃。他没把它当成经期必须额外补的一样东西。 [回放 23:53](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1433)
+**答**　想吃就吃，平常就能吃牛肉。为什么非得看日子，等来月经才买？ [回放 23:53](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1433)
 
 <a name="new-BV1sKfuBjEvy-1502"></a>
 
 **241　啃甘蔗看着吃进去一大根，最后到底吃进去了什么？**
 
-他说先看你吐掉什么。渣和丝吐掉，咽下的是带糖的汁。所以别把嚼了很久等同于吃进去很多纤维。 [回放 25:02](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1502)
+**答**　先看你吐的是什么。渣和丝都吐了，咽下去的是带糖的汁。嚼半天，不等于把那么多纤维吃进去了。 [回放 25:02](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1502)
 
 <a name="new-BV1sKfuBjEvy-1621"></a>
 
 **242　听你讲做饭用油要按克算，可 25 克在厨房里怎么估？**
 
-拿秤实际称一回。他举的三顿饭分别是早餐 5 克、午晚餐各 10 克，让人知道自己倒油时的手感。这是示例分法。 [回放 27:01](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1621)
+**答**　拿秤称一次，你下次倒的时候心里就有数。我举个例子，早餐 5 克，午晚餐各 10 克，加起来 25 克。称完一回，倒油就有个手感了。 [回放 27:01](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1621)
 
 <a name="new-BV1sKfuBjEvy-1697"></a>
 
 **243　拿一包辣条当早餐行吗？**
 
-他明确说不行，辣条平常也劝少吃。他没把它当成一顿正经早餐。 [回放 28:17](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1697)
+**答**　拿辣条当早餐，我不赞成。它平时就该少吃，怎么还拿一包顶一餐？ [回放 28:17](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1697)
 
 <a name="new-BV1sKfuBjEvy-1731"></a>
 
 **244　孩子想长高，什么时候该打生长激素？**
 
-这题他让家长问医生，没给一个年龄或身高数字当打针门槛。激素不能自己看着办。 [回放 28:51](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1731)
+**答**　这个得带孩子问医生。不能听我给你报个岁数、报个身高，就回家决定要打生长激素。 [回放 28:51](https://www.bilibili.com/video/BV1sKfuBjEvy/?t=1731)
 
 [回本页目录](#直播问答)
 
@@ -1556,121 +1680,127 @@
 
 ## 2 月 28 日直播 · 19 组
 
-这一段既讲考前该不该临时换食谱，也有观众问他介不介意说东北话。本次核对 05:00–30:00。作品全长 1:01:47。[录播](https://www.bilibili.com/video/BV1NGABz6E7p/)
+**[从录屏开头读到收播 · 169 组问答和追问](sessions/2026-02-28.md)**　下列是最早编入索引的几题，保留原编号和时间点。
 
 <a name="new-BV1NGABz6E7p-315"></a>
 
 **245　阴天看不见太阳，皮肤还要防晒吗？**
 
-他把防晒放在日常护肤的第一位。阴天、多云也有紫外线，别光看太阳亮不亮来决定。 [回放 5:15](https://www.bilibili.com/video/BV1NGABz6E7p/?t=315)
+**答**　我平常护肤会先顾防晒。阴天、多云一样有紫外线，别只看今天太阳亮不亮。 [回放 5:15](https://www.bilibili.com/video/BV1NGABz6E7p/?t=315)
 
 <a name="new-BV1NGABz6E7p-352"></a>
 
 **246　以前不吃早饭，怀孕以后还照旧吗？**
 
-对这位孕期观众，他劝早上还是吃点，鸡蛋、牛奶都是平常的选择。也别借着「为了孩子」放开了吃。 [回放 5:52](https://www.bilibili.com/video/BV1NGABz6E7p/?t=352)
+**答**　你现在怀孕了，早上还是吃点，鸡蛋、牛奶都行。也别把“为了孩子”当成放开吃的理由。 [回放 5:52](https://www.bilibili.com/video/BV1NGABz6E7p/?t=352)
 
 <a name="new-BV1NGABz6E7p-512"></a>
 
 **247　指甲上的月牙又出来了，这代表身体比以前好吗？**
 
-他没拿月牙给身体打分。单看月牙的有无，他不据此判断健康状况。 [回放 8:32](https://www.bilibili.com/video/BV1NGABz6E7p/?t=512)
+**答**　我不根据这个判断。指甲上有没有月牙，不能用来给身体打分。 [回放 8:32](https://www.bilibili.com/video/BV1NGABz6E7p/?t=512)
 
 <a name="new-BV1NGABz6E7p-528"></a>
 
 **248　快高考了，这几天要不要给孩子换一套进补食谱？**
 
-别到考前突然换习惯。平常吃什么就照常吃，注意干净，尤其别临考头一次尝新东西，吃坏肚子反而耽误事。 [回放 8:48](https://www.bilibili.com/video/BV1NGABz6E7p/?t=528)
+**答**　到临考前别突然变。平时怎么吃就怎么吃，弄干净些。非得这几天第一次尝个新东西，万一吃坏肚子，耽误的是什么？ [回放 8:48](https://www.bilibili.com/video/BV1NGABz6E7p/?t=528)
 
 <a name="new-BV1NGABz6E7p-581"></a>
 
 **249　自己觉得一喝奶就长痘，还非得坚持喝牛奶吗？**
 
-他建议这位观众换豆浆。不必因为别人推荐牛奶，就坚持喝同一种。 [回放 9:41](https://www.bilibili.com/video/BV1NGABz6E7p/?t=581)
+**答**　你自己觉得一喝奶就不舒服，那换豆浆好了。我推荐牛奶，也没说人人都得照着喝。 [回放 9:41](https://www.bilibili.com/video/BV1NGABz6E7p/?t=581)
+
+**编注**　观众怀疑喝奶和长痘有关，直播未判断因果。
 
 <a name="new-BV1NGABz6E7p-646"></a>
 
 **250　喝味噌汤能助消化吗？**
 
-他不把这碗汤当助消化的办法，先提醒的是汤里放的盐和调味料。 [回放 10:46](https://www.bilibili.com/video/BV1NGABz6E7p/?t=646)
+**答**　我不把味噌汤当助消化的东西。这碗汤里放了多少盐、多少调味料，你先看看。 [回放 10:46](https://www.bilibili.com/video/BV1NGABz6E7p/?t=646)
 
 <a name="new-BV1NGABz6E7p-665"></a>
 
 **251　妈妈有糖尿病，自己体重也高，生活里先改什么？**
 
-他回答这位观众时提醒要重视风险，点名从少喝奶茶、酒和多活动做起。没有据此下诊断。 [回放 11:05](https://www.bilibili.com/video/BV1NGABz6E7p/?t=665)
+**答**　你提到家族情况，又说自己体重高，这个风险得重视。平时能动手改的，奶茶和酒少喝点，人多动一动。 [回放 11:05](https://www.bilibili.com/video/BV1NGABz6E7p/?t=665)
+
+**编注**　不能据留言诊断糖尿病。
 
 <a name="new-BV1NGABz6E7p-854"></a>
 
 **252　想从日常饮食里吃点锌，一定得买锌片或口服液吗？**
 
-他对只问日常补充的观众说不用买，举的食物例子是海产品，尤其是生蚝，还能吃到蛋白质。 [回放 14:14](https://www.bilibili.com/video/BV1NGABz6E7p/?t=854)
+**答**　只想在平常饭里吃点锌，那就吃点海产品。像生蚝，也能吃到蛋白质，不必一上来就买锌片、口服液。 [回放 14:14](https://www.bilibili.com/video/BV1NGABz6E7p/?t=854)
 
 <a name="new-BV1NGABz6E7p-1008"></a>
 
 **253　D₃ 和 K₂ 总被打包卖，一定得成套买吗？**
 
-他把两样拆开看。觉得维生素 D 有时用得上，但对另外为 K₂ 花大价钱没有那么认同。这是他谈一般消费时的取舍。 [回放 16:48](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1008)
+**答**　我分开看，维生素 D 有时候用得上，为了配套再花大价钱买 K₂，我就没那么认同。 [回放 16:48](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1008)
+
+**编注**　这是在谈普通消费者买补充剂。
 
 <a name="new-BV1NGABz6E7p-1039"></a>
 
-**254　有人嫌直播里的东北口音重，他自己介意吗？**
+**254　有人嫌直播里的东北口音重，你自己介意吗？**
 
-他说自己就是东北人，讲家乡话没什么丢人的。换成广东人讲粤语，他也这么看。 [回放 17:19](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1039)
+**答**　我就是东北人，说家乡话有什么丢人的？换个广东人说粤语，我也这么看。 [回放 17:19](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1039)
 
 <a name="new-BV1NGABz6E7p-1066"></a>
 
 **255　选维生素 D，瓶上写的单位数越大越好吗？**
 
-他让人优先看剂量。维生素 D 是脂溶性的，别把高剂量当成卖点、自己随意加量。 [回放 17:46](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1066)
+**答**　先看剂量。维生素 D 是脂溶性的，包装上写个很大的数，你别把它当成可以随手加量的理由。 [回放 17:46](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1066)
 
 <a name="new-BV1NGABz6E7p-1171"></a>
 
 **256　老一辈没吃这些补充剂也挺精神，就说明以前的人更健康吗？**
 
-他提醒，以前有人没去检查，也有人没能活到被后人拿来举例。两代人的生活条件也不同。光看眼前几位长辈，下不了这个结论。 [回放 19:31](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1171)
+**答**　你眼前看见的是哪几位长辈？以前有人没去查，有人没能活到今天给你举例，两代人的日子也不一样。光靠这几个人怎么比？ [回放 19:31](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1171)
 
 <a name="new-BV1NGABz6E7p-1371"></a>
 
-**257　他说的用药「窗口」是什么意思，宽点还是窄点好？**
+**257　你说的用药「窗口」是什么意思，宽点还是窄点好？**
 
-讲到硒时，他反问观众，起效的剂量和出现毒性的剂量隔得有多远？两头离得远些，剂量比较好掌握。他借这个比方提醒人不要随意补。 [回放 22:51](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1371)
+**答**　我给你举个例子，从起效的量到出现毒性的量，中间隔多远？隔得宽一些，剂量就比较好掌握。说到硒，我不赞成自己随意加。 [回放 22:51](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1371)
 
 <a name="new-BV1NGABz6E7p-1432"></a>
 
 **258　蛋盒上写着「富硒」，是值得多花钱的理由吗？**
 
-他不认同光凭「富硒」二字就给鸡蛋加价。接着谈的是健康人有没有专门补硒的需要，不是说普通鸡蛋不能吃。 [回放 23:52](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1432)
+**答**　光为了“富硒”这两个字，我不给一盒鸡蛋加钱。先想想自己究竟有没有单独补硒的需要。 [回放 23:52](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1432)
 
 <a name="new-BV1NGABz6E7p-1456"></a>
 
 **259　吃了一顿特别油的，再赶紧喝茶能补救吗？**
 
-他没把茶当解法，还顺着「油加茶」开了个酥油茶的玩笑。意思是茶喝下去，那顿饭里的油并不会被撤回。 [回放 24:16](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1456)
+**答**　油吃进去了，喝茶还能把那顿饭撤回来？油配茶，我还给你说出个酥油茶呢。 [回放 24:16](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1456)
 
 <a name="new-BV1NGABz6E7p-1533"></a>
 
 **260　吃什么能「补牙齿」？**
 
-他把问题落到一件具体事上，先刷牙。与其指望某样食物「补」牙，他点的是每天要做的清洁。 [回放 25:33](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1533)
+**答**　先刷牙。每天能做的清洁你做了吗？别把希望全放在哪样吃的能给你“补牙齿”。 [回放 25:33](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1533)
 
 <a name="new-BV1NGABz6E7p-1556"></a>
 
 **261　卖硒的说自家产品能抗癌，可以按这个理由买吗？**
 
-他反对这种销售说法，指出证据不够就把「抗癌」挂在商品上，不能当成可信的购买理由。 [回放 25:56](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1556)
+**答**　商家说自家硒产品能抗癌，依据拿得出来吗？光把“抗癌”挂在商品上，我不凭这个掏钱。 [回放 25:56](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1556)
 
 <a name="new-BV1NGABz6E7p-1678"></a>
 
 **262　孩子睡得挺好，为了长高还要买 γ-氨基丁酸（GABA）吗？**
 
-他不认同把它当增高产品。商家把睡眠和生长连起来，并不能推出「买来吃就长高」。孩子已经睡得好，他认为没必要为此买。 [回放 27:58](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1678)
+**答**　孩子已经睡得挺好，你还想为长高给他买这个？把睡眠、生长这两件事连起来讲，不能说明吃一瓶 GABA 就能长高。 [回放 27:58](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1678)
 
 <a name="new-BV1NGABz6E7p-1758"></a>
 
 **263　不想先买镁片，平常餐桌上从哪类食物吃到镁？**
 
-他让观众猜了一圈，给的答案是绿叶蔬菜，还顺势拿中学学过的光合作用来提问。 [回放 29:18](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1758)
+**答**　绿叶蔬菜。我刚让大家猜，还记不记得中学讲光合作用那一课？ [回放 29:18](https://www.bilibili.com/video/BV1NGABz6E7p/?t=1758)
 
 [回本页目录](#直播问答)
 
@@ -1684,67 +1814,73 @@
 
 **264　青菜给孩子打碎了，还有营养吗？**
 
-他说还有，先反问孩子多大。能正常嚼菜的孩子，他更倾向直接吃菜。问答里没有给婴幼儿规定食物的质地。 [回放 0:39](https://www.bilibili.com/video/BV1rS97BnEFu/?t=39)
+**答**　还有营养。可你先说孩子多大？已经能自己嚼菜，我更愿意让他直接吃。 [回放 0:39](https://www.bilibili.com/video/BV1rS97BnEFu/?t=39)
+
+**编注**　这里没有给婴儿规定质地。
 
 <a name="new-BV1rS97BnEFu-48"></a>
 
-**265　绿豆芽还是黄豆芽？鱼博自己买哪种？**
+**265　绿豆芽还是黄豆芽？你自己买哪种？**
 
-两种他都接受，真让他选，他喜欢绿豆芽，图的是清爽、脆。他在这里给的是口味答案。 [回放 0:48](https://www.bilibili.com/video/BV1rS97BnEFu/?t=48)
+**答**　两种都能吃。非让我在菜摊上挑，我喜欢绿豆芽，清清爽爽的，还脆。 [回放 0:48](https://www.bilibili.com/video/BV1rS97BnEFu/?t=48)
 
 <a name="new-BV1rS97BnEFu-64"></a>
 
 **266　那菜市场里的豆芽，到底打没打药？**
 
-他连续说不知道。他能说自己爱吃豆芽，却没去调查观众家旁边那个摊子。有人再说外面卖的都不好，他也没顺着下结论。 [回放 1:04](https://www.bilibili.com/video/BV1rS97BnEFu/?t=64)
+**答**　不知道。你家菜市场那个摊子，我也没去查过。爱吃豆芽我说得准，你问那个人到底打没打药，我就说不准。 [回放 1:04](https://www.bilibili.com/video/BV1rS97BnEFu/?t=64)
 
 <a name="new-BV1rS97BnEFu-134"></a>
 
 **267　黑豆泡的水能不能喝，还是有别的吃法？**
 
-对泡出来的水，他没给特殊功效。真想吃黑豆，他说直接吃豆子，或用黑豆打豆浆都可以。 [回放 2:14](https://www.bilibili.com/video/BV1rS97BnEFu/?t=134)
+**答**　泡的水，我没什么特别功效好说。你想吃黑豆，吃豆子啊，或者打一杯黑豆豆浆。 [回放 2:14](https://www.bilibili.com/video/BV1rS97BnEFu/?t=134)
 
 <a name="new-BV1rS97BnEFu-183"></a>
 
-**268　鱼博自己爱怎么炒一盘绿叶菜？**
+**268　你自己爱怎么炒一盘绿叶菜？**
 
-这是他接着豆芽话题主动讲的做法。拍点蒜、清炒芥兰或菜心，油麦菜他也喜欢。蚝油、味精和盐少放些，是他自己乐意吃的口味。 [回放 3:03](https://www.bilibili.com/video/BV1rS97BnEFu/?t=183)
+**主动讲解**　我会拍点蒜，清炒芥兰或者菜心，油麦菜也行。蚝油、味精、盐都少放点，我就喜欢这么炒。 [回放 3:03](https://www.bilibili.com/video/BV1rS97BnEFu/?t=183)
+
+**编注**　这是他顺着豆芽话题主动讲的做法。
 
 <a name="new-BV1rS97BnEFu-932"></a>
 
 **269　酸菜也是发酵食品，是不是就值得多吃？**
 
-他承认酸菜是发酵食品，把酸奶、豆腐乳、霉豆腐并排举出来。它们都发酵过，不能光凭“发酵”两个字就得出样样都该多吃的结论。 [回放 15:32](https://www.bilibili.com/video/BV1rS97BnEFu/?t=932)
+**答**　酸菜是发酵的，酸奶、豆腐乳、霉豆腐也都是发酵的。难不成只要叫“发酵”，几样都让你使劲多吃？ [回放 15:32](https://www.bilibili.com/video/BV1rS97BnEFu/?t=932)
 
 <a name="new-BV1rS97BnEFu-996"></a>
 
-**270　天天让人吃菜，鱼博自己在瑞典平常吃什么？**
+**270　天天让人吃菜，你自己在瑞典平常吃什么？**
 
-他在直播里拿自己的饭给观众看，说到菜叶、胡萝卜和面包。这里记录的是他拿来举例的一餐。 [回放 16:36](https://www.bilibili.com/video/BV1rS97BnEFu/?t=996)
+**答**　看看我这顿，有菜叶、有胡萝卜，还有面包。我就是拿眼前这顿给你们看。 [回放 16:36](https://www.bilibili.com/video/BV1rS97BnEFu/?t=996)
 
 <a name="new-BV1rS97BnEFu-1095"></a>
 
-**271　运动和睡觉只能先顾一样，他把哪个放前面？**
+**271　运动和睡觉只能先顾一样，你把哪个放前面？**
 
-他选睡觉，反复说休息要够。问的是两件事冲突时怎么排先后，这一句没有给运动量或睡眠时长定数字。 [回放 18:15](https://www.bilibili.com/video/BV1rS97BnEFu/?t=1095)
+**答**　要是真撞在一块儿，先把觉睡够。我会先顾休息。 [回放 18:15](https://www.bilibili.com/video/BV1rS97BnEFu/?t=1095)
 
 <a name="new-BV1rS97BnEFu-1224"></a>
 
 **272　常年喝酒的人，靠护肝片有用吗？**
 
-他用反复伤到身体再往伤口贴东西的比方回答，劝这位观众先减少饮酒。可以和一月那次带货中的答复一起听。[1 月 4 日的说法](https://www.bilibili.com/video/BV1JeinB7EYM/?t=6321) [回放 20:24](https://www.bilibili.com/video/BV1rS97BnEFu/?t=1224)
+**答**　一边反复伤着，一边又想着往伤口贴点东西，你猜管哪头有用？常年喝酒，先从少喝做起。 [1 月 4 日的说法](https://www.bilibili.com/video/BV1JeinB7EYM/?t=6321) · [回放 20:24](https://www.bilibili.com/video/BV1rS97BnEFu/?t=1224)
+
+**编注**　一月那场卖护肝片时，也有人当面追问过他。
 
 <a name="new-BV1rS97BnEFu-1883"></a>
 
 **273　潮汕菜怎么样？你在各地都吃过吗？**
 
-他承认潮汕菜自己没怎么吃过，接下来聊的是另一个地方的洛阳水席，提醒上桌太烫可以等一等。不要把这个提醒移到一道他没吃过的菜上。 [回放 31:23](https://www.bilibili.com/video/BV1rS97BnEFu/?t=1883)
+**答**　潮汕菜我没怎么吃过，说不上来。我吃过的是洛阳水席，那边有的菜端上来烫，可以晾晾再吃。 [回放 31:23](https://www.bilibili.com/video/BV1rS97BnEFu/?t=1883)
 
 <a name="new-BV1rS97BnEFu-2048"></a>
 
 **274　既然老推荐鸡蛋、牛奶，为什么不干脆直播卖？**
 
-在这段收播前的选品自述里，他说过担心质量出了问题，宁愿少挣点。这是他当时解释怎样挑选直播商品的一个例子。 [回放 34:08](https://www.bilibili.com/video/BV1rS97BnEFu/?t=2048)
+**答**　我当然推荐鸡蛋、牛奶。可自己拿来卖，万一质量出了问题怎么办？我宁愿少挣点。 [回放 34:08](https://www.bilibili.com/video/BV1rS97BnEFu/?t=2048)
 
 [回本页目录](#直播问答)
 
@@ -1758,55 +1894,59 @@
 
 **275　你今天中午吃了什么？盘子里是不是只有菜？**
 
-这是他在直播里主动展示的一餐。他指给观众看胡萝卜、紫甘蓝、土豆和一块鸡肉，后面又讲土豆在这里当主食，底下还有鸡肉。 [回放 0:04](https://www.bilibili.com/video/BV1KGGD6nECD/?t=4)
+**主动展示**　我把盘子给你们看，胡萝卜、紫甘蓝、土豆，底下还有一块鸡肉。这份土豆我拿来当主食。 [回放 0:04](https://www.bilibili.com/video/BV1KGGD6nECD/?t=4)
+
+**编注**　这是他主动展示午餐。
 
 <a name="new-BV1KGGD6nECD-23"></a>
 
-**276　想做医美，鱼博先看什么条件？**
+**276　想做医美，你先看什么条件？**
 
-他先看机构是否正规，劝别因为就在家门口就随便选。在这场里他谈的是去哪儿评估，没有替提问者决定做哪种治疗。 [回放 0:23](https://www.bilibili.com/video/BV1KGGD6nECD/?t=23)
+**答**　先看机构正不正规。别光图离家近，就随便找个地方做。 [回放 0:23](https://www.bilibili.com/video/BV1KGGD6nECD/?t=23)
+
+**编注**　这一问没有给提问者选择具体治疗。
 
 <a name="new-BV1KGGD6nECD-77"></a>
 
 **277　每天跑三公里锻炼，可以直接照这个距离练吗？**
 
-他没拦着跑步，但让提问者先看体重、膝盖和能承受的运动量，不赞成开始就硬跑。三公里是观众自己的安排。 [回放 1:17](https://www.bilibili.com/video/BV1KGGD6nECD/?t=77)
+**答**　先看自己的体重、膝盖扛不扛得住、现在能跑多少。别一开始就跟三公里较劲。 [回放 1:17](https://www.bilibili.com/video/BV1KGGD6nECD/?t=77)
 
 <a name="new-BV1KGGD6nECD-225"></a>
 
 **278　想照常吃很多饭，再用“抗糖丸”挡住吸收，值不值？**
 
-他不愿意花这笔钱。如果介意的就是这顿饭吃多了，他给的选择是少盛一点，省得吃完再买样东西弥补。 [回放 3:45](https://www.bilibili.com/video/BV1KGGD6nECD/?t=225)
+**答**　我不会花这钱。你介意的是饭吃多了，那就少盛一点，何必吃多了再买个丸子想把它挡住？ [回放 3:45](https://www.bilibili.com/video/BV1KGGD6nECD/?t=225)
 
 <a name="new-BV1KGGD6nECD-313"></a>
 
-**279　鱼博怎样看不用额外加糖的泡水饮品？**
+**279　你怎样看不用额外加糖的泡水饮品？**
 
-按他接下来的说明，如果这杯饮料让人更愿意喝水，又没有另外加糖，他觉得可以。举的例子有柠檬泡水、茶和黑咖啡。 [回放 5:13](https://www.bilibili.com/video/BV1KGGD6nECD/?t=313)
+**答**　你喝柠檬水、茶、黑咖啡，不另外加糖，又能让你愿意多喝点水，我觉得可以。 [回放 5:13](https://www.bilibili.com/video/BV1KGGD6nECD/?t=313)
 
 <a name="new-BV1KGGD6nECD-1419"></a>
 
 **280　鸽子蛋卖得贵，营养就比鸡蛋好吗？**
 
-他的答复是不用因为贵就选鸽子蛋。说起家里怎么买，他把常见的鸡蛋也放在同一组比较。 [回放 23:39](https://www.bilibili.com/video/BV1KGGD6nECD/?t=1419)
+**答**　卖得贵就说明鸽子蛋更好？我们家平常买的鸡蛋也能选，不用为了这个换贵的。 [回放 23:39](https://www.bilibili.com/video/BV1KGGD6nECD/?t=1419)
 
 <a name="new-BV1KGGD6nECD-1587"></a>
 
-**281　燕麦算粗粮，即食和钢切他买哪种？**
+**281　燕麦算粗粮，即食和钢切你买哪种？**
 
-他选钢切或保留颗粒的燕麦。弹幕只问燕麦是不是粗粮，他补充说加工方式也重要，自己不喜欢一泡就成糊的口感。 [回放 26:27](https://www.bilibili.com/video/BV1KGGD6nECD/?t=1587)
+**答**　我会挑钢切的，或者还能看得出颗粒的。燕麦算粗粮，加工成什么样也得看。我自己不喜欢一泡就糊的口感。 [回放 26:27](https://www.bilibili.com/video/BV1KGGD6nECD/?t=1587)
 
 <a name="new-BV1KGGD6nECD-3961"></a>
 
 **282　有了孩子，家里必须给孩子配一台洗衣机吗？**
 
-他把它当家庭预算和偏好的选择。有条件想分开洗可以，不能只靠“儿童专用”几个字就说家家都得添机器。 [回放 1:06:01](https://www.bilibili.com/video/BV1KGGD6nECD/?t=3961)
+**答**　家里有条件，又想分开洗，可以另买一台。就凭“儿童专用”这几个字，你说每家都得再添一台？我不这么看。 [回放 1:06:01](https://www.bilibili.com/video/BV1KGGD6nECD/?t=3961)
 
 <a name="new-BV1KGGD6nECD-4167"></a>
 
-**283　鱼博自己也去吃火锅吗？会点什么口味？**
+**283　你自己也去吃火锅吗？会点什么口味？**
 
-他吃，还点名老北京火锅。四川、重庆那种他自己觉得太辣、太油，吃不惯。他在这里比较的是自己的口味。 [回放 1:09:27](https://www.bilibili.com/video/BV1KGGD6nECD/?t=4167)
+**答**　我也吃啊，比如老北京火锅。四川、重庆那种我自己觉得又辣又油，吃不太惯。 [回放 1:09:27](https://www.bilibili.com/video/BV1KGGD6nECD/?t=4167)
 
 [回本页目录](#直播问答)
 
@@ -1814,79 +1954,83 @@
 
 ## 9 月 30 日直播 · 12 组
 
-同一种小米、同一锅汤，换个做法或问法，答案就变了。豆腐题另附十月被再次问到时的原片。本次核对 00:00–25:00、30:00–35:00、1:05:00–1:10:00。作品全长 1:20:48。[录播](https://www.bilibili.com/video/BV1Ukaf6hEdM/)
+**[从录屏开头读到收播 · 246 组问答和追问](sessions/2026-09-30.md)**　下列是最早编入索引的几题，保留原编号和时间点。
 
 <a name="new-BV1Ukaf6hEdM-21"></a>
 
 **284　小米粥不推荐，那同样的小米做成饭呢？**
 
-做成饭，他认可。弹幕只换了一个字，鱼博的回答就变了，他在意的是米还能不能保留颗粒、有没有被煮成很稀的粥。[同场再问小米饭 00:37](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=37) [回放 0:21](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=21)
+**答**　小米做成饭，可以啊。你问粥和问饭差了一个字，我看的是米还有没有颗粒、有没有煮得稀稀的。 [同场再问小米饭 00:37](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=37) · [回放 0:21](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=21)
 
 <a name="new-BV1Ukaf6hEdM-75"></a>
 
 **285　重庆火锅为什么要少吃，是因为辣吗？**
 
-他先承认牛油锅好吃，再把红油锅底、另蘸的油碟和咸味分别点出来。后来有人问一年能吃几次，他只说少吃，没有定一个次数。 [回放 1:15](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=75)
+**答**　牛油火锅好吃。可你看看红油锅底，再看看另蘸的油碟，还有咸味。要问一年能吃几次，我没给次数，只说少吃点。 [回放 1:15](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=75)
 
 <a name="new-BV1Ukaf6hEdM-403"></a>
 
 **286　包装叫“每日坚果”，就要每天额外吃一包吗？**
 
-先看当天怎么吃。如果前面已经吃了很多油，他不会再为这个名字特意加一包。平常油脂吃得少，他觉得吃点坚果可以。 [回放 6:43](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=403)
+**答**　你今天已经吃了好多油，还非得为“每日”两个字额外开一包？平时油脂吃得少，吃点坚果可以。 [回放 6:43](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=403)
 
 <a name="new-BV1Ukaf6hEdM-447"></a>
 
 **287　豆腐可以当主食吗？**
 
-这次他先答可以，随即交代要搭配其他食物，反复提的是大豆蛋白。10 月 31 日再遇同题时，他把分类讲得更明确，豆腐算蛋白质来源，这顿还可以有土豆、藕等主食。[10 月 31 日的追问](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=3176) [回放 7:27](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=447)
+**答**　可以，还得搭配着吃。说豆腐，我看中的是大豆蛋白。 [10 月 31 日的追问](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=3176) · [回放 7:27](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=447)
+
+**编注**　10 月 31 日再问时，他把豆腐算在蛋白质这一项，另举土豆、藕作主食。
 
 <a name="new-BV1Ukaf6hEdM-468"></a>
 
 **288　如果喝肉汤不顶吃肉，实验室为什么有“肉汤培养基”？**
 
-培养基要养的是细菌，他反问为什么拿细菌的生长来判断一个人怎样吃饭。观众随即换成番茄鸡蛋汤，他答少放油、少放盐可以喝。[番茄鸡蛋汤追问 08:32](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=512) [回放 7:48](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=468)
+**答**　培养基养的是细菌，你拿细菌长得好不好，来判断人这一顿怎么吃？你接着问番茄鸡蛋汤，那少油少盐可以喝。 [番茄鸡蛋汤追问 08:32](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=512) · [回放 7:48](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=468)
 
 <a name="new-BV1Ukaf6hEdM-522"></a>
 
 **289　驴肉比别的肉更值得专门买吗？**
 
-他觉得按普通红肉看就可以，自己嫌驴肉贵。没有为“驴肉”这个名字另给一项功效。 [回放 8:42](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=522)
+**答**　我就把它当普通红肉。我自己还嫌驴肉贵呢，没必要为了这个名字专门买。 [回放 8:42](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=522)
 
 <a name="new-BV1Ukaf6hEdM-541"></a>
 
 **290　黑豆的颜色深，对头发是不是特别好？**
 
-他认可黑豆这种食物，却没有从黑色推断它对头发有特殊作用。能吃和要为头发专门吃，在这里是两道题。 [回放 9:01](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=541)
+**答**　黑豆能吃。你是看它颜色黑，就觉得对同样黑的头发特别好？这个推不出来。 [回放 9:01](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=541)
 
 <a name="new-BV1Ukaf6hEdM-830"></a>
 
-**291　泡水用鲜柠檬和柠檬干，他会选哪个？**
+**291　泡水用鲜柠檬和柠檬干，你会选哪个？**
 
-他偏好鲜柠檬，切片泡水既能换换味道，也不用另外添甜味。他对市售干制品如何加工有疑虑，这段没有检测任何一款柠檬干。 [回放 13:50](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=830)
+**答**　我会拿鲜柠檬切片泡水，换换味道，还不用加甜的。市售的柠檬干是怎么加工的，我心里没底。 [回放 13:50](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=830)
+
+**编注**　现场没有检测具体商品。
 
 <a name="new-BV1Ukaf6hEdM-1299"></a>
 
 **292　新鲜毛豆能不能吃？它在餐盘里算什么？**
 
-可以。他把毛豆说成还年轻的黄豆，讲的是大豆蛋白，顺手把豆腐、豆浆也放进了同一类。 [回放 21:39](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=1299)
+**答**　能吃，毛豆就是还年轻的黄豆嘛。你刚问的豆腐、豆浆，我也会放在大豆蛋白这一类里看。 [回放 21:39](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=1299)
 
 <a name="new-BV1Ukaf6hEdM-1868"></a>
 
 **293　孩子晚饭只喝一杯牛奶够吗？**
 
-按他的答法不够。牛奶虽是他常推荐的东西，一杯奶仍代替不了一整顿晚饭，他反问这样跟没怎么吃饭差多少。 [回放 31:08](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=1868)
+**答**　一杯牛奶就算孩子吃过晚饭了？我平时推荐喝奶，也不能指望一杯就顶一整顿。 [回放 31:08](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=1868)
 
 <a name="new-BV1Ukaf6hEdM-2064"></a>
 
 **294　孩子不肯吃香菜，就是不肯好好吃菜吗？**
 
-他把两件事分开。总共吃的蔬菜太少，他觉得要管。只是觉得香菜的味道难接受，他让家长尊重这个口味。 [回放 34:24](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=2064)
+**答**　得分开说。他是一天下来什么菜都不肯吃，还是就受不了香菜那个味儿？菜吃太少得管，单单不爱香菜，我会尊重孩子。 [回放 34:24](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=2064)
 
 <a name="new-BV1Ukaf6hEdM-4136"></a>
 
 **295　听说有人从专科一路读到斯坦福，这能当自己的升学依据吗？**
 
-不能只看一个逆袭故事。他追问这种去向在大多数人身上常不常见，提醒观众别把别人达到的结果直接当作自己的把握。 [回放 1:08:56](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=4136)
+**答**　先问问这条路在大多数人身上常不常见。一个人从专科读到斯坦福，不能拿他的结果给你自己的升学打包票。 [回放 1:08:56](https://www.bilibili.com/video/BV1Ukaf6hEdM/?t=4136)
 
 [回本页目录](#直播问答)
 
@@ -1894,79 +2038,87 @@
 
 ## 10 月 31 日直播 · 12 组
 
-前面说日常怎么吃，后来有人补充家人没牙、咬不动，他对米糊的答案也跟着改了。本次核对 00:00–25:00、30:00–35:00，另核 50:00–55:00 的豆腐追问。作品全长 1:06:18。[录播](https://www.bilibili.com/video/BV1YBxy6LEPZ/)
+**[从录屏开头读到收播 · 203 组问答和追问](sessions/2026-10-31.md)**　下列是最早编入索引的几题，保留原编号和时间点。
 
 <a name="new-BV1YBxy6LEPZ-89"></a>
 
 **296　买虾，非得挑活的吗？**
 
-他把货源放在前面。正规渠道的冻虾和活虾他都接受，没有让人仅为“活”这个字换一份。 [回放 1:29](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=89)
+**答**　不一定。先看你从哪儿买，正规渠道的冻虾、活虾我都接受，不用光为了“活”挑一份。 [回放 1:29](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=89)
 
 <a name="new-BV1YBxy6LEPZ-140"></a>
 
 **297　腐乳是豆子做的，也能像豆腐那样一大块一大块吃吗？**
 
-他认腐乳是发酵豆制品，紧接着提醒它咸。一小块佐餐和端一盘豆腐，是两种吃法。 [回放 2:20](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=140)
+**答**　腐乳当然是发酵豆制品，可它咸啊。你用一小块佐餐，和端一大盘豆腐吃，能一样吗？ [回放 2:20](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=140)
 
 <a name="new-BV1YBxy6LEPZ-162"></a>
 
 **298　白馒头放凉会有抗性淀粉，那照常吃一大个行吗？**
 
-他觉得先看吃了多少更实际。本来吃一整个，少吃一点，比一心指望冰箱把这个馒头变得特别健康，更合他的取舍。直播里随口举的比例不适合套到每个馒头上。 [回放 2:42](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=162)
+**答**　你本来吃一整个，少吃一点更实际。别把全部希望寄托在冰箱上，觉得一放凉，这个馒头就能照常吃一大个。 [回放 2:42](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=162)
+
+**编注**　直播里估的比例不适用于所有馒头。
 
 <a name="new-BV1YBxy6LEPZ-288"></a>
 
 **299　干豆腐卷大葱这道家常菜怎么样？**
 
-他挺喜欢这个搭配，干豆腐能提供大豆蛋白，大葱也是蔬菜。他夸的是两样普通食材配在一起，没在这里给一整天开食谱。 [回放 4:48](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=288)
+**答**　我还挺喜欢。干豆腐是大豆蛋白，大葱也是蔬菜，两样普通东西卷一块正好。 [回放 4:48](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=288)
 
 <a name="new-BV1YBxy6LEPZ-393"></a>
 
 **300　黑玉米、紫玉米比普通的贵一倍，要为颜色加钱吗？**
 
-他不会只为花青素付这一倍差价。想吃深色食物，他举的是便宜的紫甘蓝，回家炒或凉拌都行。 [回放 6:33](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=393)
+**答**　我不会只为了花青素多付一倍。你想吃点深色的，紫甘蓝就挺便宜，回家炒也行、凉拌也行。 [回放 6:33](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=393)
 
 <a name="new-BV1YBxy6LEPZ-449"></a>
 
 **301　牛肉买回来总炖不烂怎么办？**
 
-先换做法。他建议试试高压锅，炖的时候也可以加点山楂干。问的是怎么把肉做软，他给的是厨房里的办法。 [回放 7:29](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=449)
+**答**　试试高压锅。炖的时候也可以放点山楂干，先从做法上想办法。 [回放 7:29](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=449)
 
 <a name="new-BV1YBxy6LEPZ-491"></a>
 
 **302　平时让人少喝米糊，家里人没牙、嚼不动，也不能喝吗？**
 
-换了前提，他就答可以。他前面劝的是能正常咀嚼的人别把所有东西磨成糊，没有要求牙口差的人硬嚼。这里只谈质地选择。 [回放 8:11](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=491)
+**答**　你早说是没牙、嚼不动啊，那可以打米糊。我前面说的是能嚼的人，别什么都打成糊。 [回放 8:11](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=491)
+
+**编注**　此处讲牙口和食物质地，未评估吞咽困难。
 
 <a name="new-BV1YBxy6LEPZ-522"></a>
 
 **303　孩子一点辣都不肯吃，家长要怎么管？**
 
-用不着管。他先拿小米辣开个夸张的玩笑，随即反问小孩不吃辣有什么问题，意思是家长可以尊重这个口味。 [回放 8:42](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=522)
+**答**　小孩不吃辣有什么问题？他不喜欢就别逼他吃，非管这一口干什么。 [回放 8:42](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=522)
 
 <a name="new-BV1YBxy6LEPZ-664"></a>
 
 **304　秋梨膏兑水，平时当水喝好不好？**
 
-他把非常甜、黏稠的膏兑出的水按甜饮料看，拿可乐作比方。那是在提醒饮料里的糖，现场没有比对两个产品的营养成分表。 [回放 11:04](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=664)
+**答**　秋梨膏又甜又稠，兑上水，我会当甜饮料看。说到这我拿可乐打比方，你得想到那杯水里的糖。 [回放 11:04](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=664)
+
+**编注**　现场没有比较两款产品的营养标签。
 
 <a name="new-BV1YBxy6LEPZ-842"></a>
 
 **305　你推荐坐月子吃鸡蛋，家里就只给产妇吃鸡蛋吗？**
 
-他马上纠正，鸡蛋可以吃，奶、牛肉和其他饭菜也照样吃。她自己喜欢别的东西也可以安排，不能把推荐一种食材听成只端这一种。 [回放 14:02](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=842)
+**答**　我说鸡蛋可以吃，怎么端上来就只剩鸡蛋了？奶、牛肉、别的饭菜照样可以吃，她自己爱吃的也可以安排。 [回放 14:02](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=842)
 
 <a name="new-BV1YBxy6LEPZ-1386"></a>
 
 **306　你脾气这么大，该吃点什么？**
 
-他没接着聊食物，转而打趣自己是在演。他觉得这种说话方式能把观众吸引进直播间，是在讲自己面对镜头时的表现。 [回放 23:06](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=1386)
+**答**　吃什么呀，我是在演呢。镜头前这么说话，有人爱看，就留下来了。 [回放 23:06](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=1386)
 
 <a name="new-BV1YBxy6LEPZ-1860"></a>
 
 **307　妻子坚持衣物要手洗，丈夫不同意，怎么办？**
 
-原问题说的是内裤。他的回答很直接，想帮就自己动手。如果是妻子自己在洗，她愿意怎么洗就尊重她。他没给洗衣机和手洗做卫生排序。 [回放 31:00](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=1860)
+**答**　你想帮忙，那你自己动手洗。要是内裤是她自己洗，她愿意怎么洗就怎么洗。 [回放 31:00](https://www.bilibili.com/video/BV1YBxy6LEPZ/?t=1860)
+
+**编注**　当时没有比较手洗和机洗的卫生效果。
 
 [回本页目录](#直播问答)
 
@@ -1982,67 +2134,73 @@
 
 **308　你上高中以后，妈妈还得在家督着你学吗？**
 
-他回忆，高中班里的自习课大家都安静做自己的事。他有时想聊天，同学会当面提醒别打扰人。到了那几年，同伴和课堂习惯已经把他往学习上推，妈妈用不着再时时盯。 [评测百态 · 0:03](https://www.bilibili.com/video/BV18GkxBbE3w/?t=3)
+**答**　到高中上自习，大家都安安静静干自己的事。我想找人说话，同学会提醒我别打扰。班里是这个样子，还用我妈在家时时盯着吗？ [评测百态 · 0:03](https://www.bilibili.com/video/BV18GkxBbE3w/?t=3)
 
 <a name="new-BV1airoBJEud-0"></a>
 
 **309　你准备了九个月就考上复旦，九个月是怎么算的？**
 
-他先讲这九个月里自己到底做了什么。到后面几个月，他白天去图书馆不带手机，跟妈妈说白天不用找他。他还回忆这种强度给自己的压力很大，讲的是自己的备考经历。 [评鉴百态 · 0:00](https://www.bilibili.com/video/BV1airoBJEud/?t=0)
+**答**　这九个月怎么过的？后面几个月，我白天上图书馆连手机都不带，跟我妈说白天不用找我。那时候给我自己的压力也挺大。 [评鉴百态 · 0:00](https://www.bilibili.com/video/BV1airoBJEud/?t=0)
 
 <a name="new-BV1airoBJEud-110"></a>
 
 **310　要准备到什么程度，才不会被考场的一次失误拖垮？**
 
-他希望平时的水平留有余地，偶尔一个题型丢分，考得不如预期也还有机会过复试线。他拿自己英语排序题失分来说明这个意思。 [评鉴百态 · 1:50](https://www.bilibili.com/video/BV1airoBJEud/?t=110)
+**答**　平时得给自己留点余地。拿我自己的英语来说，排序题丢了分，发挥比平常差，还是得争取过复试线。 [评鉴百态 · 1:50](https://www.bilibili.com/video/BV1airoBJEud/?t=110)
 
 <a name="new-BV1x7r6BtEig-30"></a>
 
-**311　上大学最值得坚持的两件事，鱼博怎么排？**
+**311　上大学最值得坚持的两件事，你怎么排？**
 
-他给男生女生同一个回答，学英语、锻炼身体。他拿本科时清早集体跑操作例子，解释运动习惯怎么留下来。谈恋爱他也接受，只是劝人别让一段感情挤掉这两件事。 [评鉴百态 · 0:30](https://www.bilibili.com/video/BV1x7r6BtEig/?t=30)
+**答**　男生女生我都这么答，学英语、锻炼身体。本科那会儿我们清早集体跑操，习惯就是这么留下来的。谈恋爱也行，别把这两件事都挤没了。 [评鉴百态 · 0:30](https://www.bilibili.com/video/BV1x7r6BtEig/?t=30)
 
 <a name="new-BV1dQBDBPEQZ-60"></a>
 
-**312　同一个医学毕业生，回上海找工作和回沈阳找，在他看来差在哪？**
+**312　同一个医学毕业生，回上海找工作和回沈阳找，在你看来差在哪？**
 
-他用自己举例。在上海，读硕士时带过他的老师了解他做过什么，或许愿意帮他说句话。换回沈阳就少了这层联系。他谈的是自己能动用的关系和当地同行的熟悉程度，具体岗位还得看当年的招聘。 [评鉴百态 · 1:00](https://www.bilibili.com/video/BV1dQBDBPEQZ/?t=60)
+**答**　就拿我自己来说，读硕士时上海的老师知道我做过什么，找工作兴许能替我说句话。换回沈阳，就少了这一层熟悉。 [评鉴百态 · 1:00](https://www.bilibili.com/video/BV1dQBDBPEQZ/?t=60)
+
+**编注**　具体岗位取决于当年的招聘。
 
 <a name="new-BV1s6BCBbErB-134"></a>
 
 **313　同学成绩不怎么样，交朋友时要紧吗？**
 
-他赞同弹幕说的，成绩差不能推出人品差。他说自己愿意跟相处时仗义、靠得住的人玩，拿《水浒传》里的鲁智深作比方。 [评鉴百态 · 2:14](https://www.bilibili.com/video/BV1s6BCBbErB/?t=134)
+**答**　成绩不怎么样，人品就不好吗？我愿意跟仗义、靠得住的人玩。要打个比方，像《水浒传》里的鲁智深。 [评鉴百态 · 2:14](https://www.bilibili.com/video/BV1s6BCBbErB/?t=134)
 
 <a name="new-BV1oCXqBAEWt-10"></a>
 
 **314　你说自己的瑞典博士不交学费，是不是上学就不用准备钱？**
 
-他自己的博士岗位免学费，还有工资。可他在当地要自己租房，吃饭也得花钱。算出国预算时，他会把岗位的资助和实际生活账分开。 [偏口鱼超会说 · 0:10](https://www.bilibili.com/video/BV1oCXqBAEWt/?t=10)
+**答**　我这份博士岗位免学费、拿工资。可我在当地得租房，吃饭也得掏钱，不能听见免学费就不算生活账了。 [偏口鱼超会说 · 0:10](https://www.bilibili.com/video/BV1oCXqBAEWt/?t=10)
 
 <a name="new-BV1nRraBcEBh-0"></a>
 
 **315　大学有必要进学生会积攒人脉吗？**
 
-他先问读什么专业。按他自己的医学求学经历，他更愿意拿时间学习。谈到其他院校和专业，他又承认某些学生组织能带来资源，没有给所有大学生一个选项。 [偏偏啥都懂 · 0:00](https://www.bilibili.com/video/BV1nRraBcEBh/?t=0)
+**答**　先说你读什么专业。我学医那会儿，我愿意把这时间拿去学习。换个学校、换个专业，有的学生组织确实能接触到资源，这就不能一概而论。 [偏偏啥都懂 · 0:00](https://www.bilibili.com/video/BV1nRraBcEBh/?t=0)
 
 <a name="new-BV1ctDCBDE7f-15"></a>
 
 **316　孩子学《新概念英语》，短期没见涨分，还能学到什么？**
 
-他在这段讲解里说，他看中的是实用词汇，说自己在国外交谈时仍然用得到。教材内容和眼下考试未必对得上，所以他不拿当期分数当成唯一的衡量办法。 [偏口鱼超会说 · 0:15](https://www.bilibili.com/video/BV1ctDCBDE7f/?t=15)
+**答**　我看中的是里面实用的词。我现在在国外跟人说话，还用得到。教材和眼下那场考试未必对得上，哪能只看这回分数涨没涨？ [偏口鱼超会说 · 0:15](https://www.bilibili.com/video/BV1ctDCBDE7f/?t=15)
 
 <a name="new-BV1Y7DQB8EQ4-7"></a>
 
 **317　已经工作以后回头看，为什么有人反而觉得学习这件事简单？**
 
-两人聊到工作后的体会，读书花力气，收获可能晚来，但方向比较看得见。上班做了半年，也可能事情越做越糟。他们比较的是付出和结果之间的关系。 [偏口鱼超会说 · 0:07](https://www.bilibili.com/video/BV1Y7DQB8EQ4/?t=7)
+**两人对谈**　读书花力气，收获也许来得晚，可你知道大概往哪儿使劲。上班做了半年，事情还有可能越做越糟。 [偏口鱼超会说 · 0:07](https://www.bilibili.com/video/BV1Y7DQB8EQ4/?t=7)
+
+**编注**　这是两人交流工作体会时谈到的区别。
 
 <a name="new-BV1XKDpB5EaA-0"></a>
 
-**318　医生以后会不会被 AI 取代，外科和影像科他怎么看？**
+**318　医生以后会不会被 AI 取代，外科和影像科你怎么看？**
 
-他对影像科没下判断。对外科，他认为手术操作的难度很高，所以预测外科医生会是很晚才被替代的职业。这是当时的判断，不是技术发展的时间表。 [偏口鱼超会说 · 0:00](https://www.bilibili.com/video/BV1XKDpB5EaA/?t=0)
+**答**　影像科我不好判断。外科要上手做手术，操作这关难，我自己估计会是很晚才被替代的。 [偏口鱼超会说 · 0:00](https://www.bilibili.com/video/BV1XKDpB5EaA/?t=0)
+
+**编注**　这是当时的个人预测。
 
 ### 家庭、生活和休息
 
@@ -2050,61 +2208,69 @@
 
 **319　孩子十一岁脾气大，会伤身体吗？**
 
-身体上会怎样，他当场说不知道。他担心的是孩子日后怎样跟别人相处，别人一提意见就顶回去，容易妨碍合作。给家长的建议是把待人接物也纳入平时的教育。 [偏口鱼超会说 · 0:03](https://www.bilibili.com/video/BV1pkXpBqEDq/?t=3)
+**答**　伤不伤身体，我不知道。我担心的是以后跟人相处，别人一提意见他就顶回去，那怎么合作？平时也得教教待人接物。 [偏口鱼超会说 · 0:03](https://www.bilibili.com/video/BV1pkXpBqEDq/?t=3)
 
 <a name="new-BV1mCzYBzEyv-0"></a>
 
 **320　大学宿舍的公用洗衣机，你自己真会用吗？**
 
-会。他解释自己住的瑞典学生宿舍没有单独洗衣机的位置和排水条件，长期在公共洗衣房解决。这是他个人的住宿经验。 [偏偏啥都懂 · 0:00](https://www.bilibili.com/video/BV1mCzYBzEyv/?t=0)
+**答**　会啊。我在瑞典住学生宿舍，屋里没地方放一台，排水也不合适，就一直去公共洗衣房洗。 [偏偏啥都懂 · 0:00](https://www.bilibili.com/video/BV1mCzYBzEyv/?t=0)
 
 <a name="new-BV1mCzYBzEyv-55"></a>
 
-**321　如果就是介意内衣在公用机器里洗，他会怎么选？**
+**321　如果就是介意内衣在公用机器里洗，你会怎么选？**
 
-他更愿意机洗。家里有条件又想把内衣分开，他提的是添一台专用的小洗衣机。这一段没有比较某台机器、某种洗涤程序的实际卫生状况。 [偏偏啥都懂 · 0:55](https://www.bilibili.com/video/BV1mCzYBzEyv/?t=55)
+**答**　换我还是机洗。你家有地方、又想把内衣分开洗，也可以买台小洗衣机。 [偏偏啥都懂 · 0:55](https://www.bilibili.com/video/BV1mCzYBzEyv/?t=55)
+
+**编注**　片中没有做卫生检测。
 
 <a name="new-BV19yjL6LEDA-4"></a>
 
-**322　观众问怎么降低压力激素，鱼博最后给了什么生活上的办法？**
+**322　工作压力大，总担心压力激素太高，平常能做点什么？**
 
-他让人先松一口气，该上班上班，该努力努力，但别连公司的每件事都当成自己的生死大事。他用自己也会为直播内容发愁举例。问答给的是应对工作压力的态度，不能凭它判断谁的激素水平。 [偏偏啥都懂 · 0:04](https://www.bilibili.com/video/BV19yjL6LEDA/?t=4)
+**答**　先松口气。该上班上班，该努力努力，公司的每件事不至于都成你的生死大事。我自己也有为直播该讲什么发愁的时候。 [偏偏啥都懂 · 0:04](https://www.bilibili.com/video/BV19yjL6LEDA/?t=4)
+
+**编注**　不能从这段对话判断激素水平。
 
 <a name="new-BV1yX6TBhEXT-0"></a>
 
 **323　下班累了，躺着刷手机就是最好的休息吗？**
 
-鱼博回忆，读研时导师建议他出去溜达一圈。他发现自己越躺着刷越累，后来累了也愿意出门走走，有时去游泳。这是他自己的恢复方式。 [偏偏啥都懂 · 0:00](https://www.bilibili.com/video/BV1yX6TBhEXT/?t=0)
+**答**　我读研时导师劝我出去溜达一圈。我自己越躺着刷手机越累，后来累了反而愿意出去走走，有时候也去游个泳。 [偏偏啥都懂 · 0:00](https://www.bilibili.com/video/BV1yX6TBhEXT/?t=0)
 
 <a name="new-BV1SGF5z6ERx-0"></a>
 
 **324　初二的孩子爱用手机看小说，家长该从哪里管起？**
 
-他先反问手机是谁买的。家长给了孩子一部可以随时用的手机，回头只追究孩子为什么看，他觉得漏掉了大人当初怎样作决定、怎样立规矩。 [评鉴百态 · 0:00](https://www.bilibili.com/video/BV1SGF5z6ERx/?t=0)
+**答**　先说手机是谁买给孩子的。大人给了他一部随时能用的手机，回过头光问他为什么看小说，那当初怎么给、怎么立规矩，也得问问自己。 [评鉴百态 · 0:00](https://www.bilibili.com/video/BV1SGF5z6ERx/?t=0)
 
 <a name="new-BV1vZrzB3EkU-0"></a>
 
 **325　你自己会做饭吗？会专门要求女儿先把做饭学好吗？**
 
-他说会做，但自己不总做。聊到家长如何安排孩子的时间，他更愿意让女孩子把时间花在读书和自己的发展上，不要因为将来要照顾谁就把做饭排在前面。 [偏偏啥都懂 · 0:00](https://www.bilibili.com/video/BV1vZrzB3EkU/?t=0)
+**答**　我会做，就是不总做。要给女孩子排时间，我更愿意让她去读书、做自己的事。为什么先想着她以后得做饭照顾谁？ [偏偏啥都懂 · 0:00](https://www.bilibili.com/video/BV1vZrzB3EkU/?t=0)
 
 <a name="new-BV1r4LX6bEfW-18"></a>
 
 **326　到欧洲旅游觉得很好，怎么判断自己愿不愿意久住？**
 
-他回忆，第一次去罗马、巴黎时也觉得新鲜，但住上几年以后，日常工作、住房和想回家的感受更能影响自己的决定。这是他顺着留学话题讲的个人体验。 [偏口鱼超会说 · 0:18](https://www.bilibili.com/video/BV1r4LX6bEfW/?t=18)
+**答**　头一次去罗马、巴黎，我也觉得什么都新鲜。真住上几年，每天得工作、得住房，还会想家。问我要不要久住，我会把这些日子也算进去。 [偏口鱼超会说 · 0:18](https://www.bilibili.com/video/BV1r4LX6bEfW/?t=18)
 
 <a name="new-BV1SNVm6HES4-22"></a>
 
-**327　他刚到瑞典住进素食家庭，什么细节让他记住了这家人？**
+**327　你初到瑞典住在素食家庭，房东买酱料有什么讲究？**
 
-按他的回忆，房东一家买酱料也会看是否含动物来源的成分。他自己在同一处做过酸菜炖排骨。这是他在直播中主动讲的寄宿故事。 [养生健康知识分享家 · 0:22](https://www.bilibili.com/video/BV1SNVm6HES4/?t=22)
+**主动讲述**　我刚去瑞典，房东一家吃素，买瓶酱料都要看里面有没有动物成分。我还在那儿做过酸菜炖排骨。 [养生健康知识分享家 · 0:22](https://www.bilibili.com/video/BV1SNVm6HES4/?t=22)
+
+**编注**　这是他主动讲的寄宿经历。
 
 <a name="new-BV1vuG46NE9Q-35"></a>
 
-**328　夏天在上海住，鱼博自己用什么办法防蚊？**
+**328　夏天在上海住，你自己用什么办法防蚊？**
 
-他在讲解中自己问起怎么防蚊，给的例子是他在上海常用电驱蚊液。这是个人使用经验，没有针对不同家庭成员比较产品。 [偏口鱼超会说 · 0:35](https://www.bilibili.com/video/BV1vuG46NE9Q/?t=35)
+**自问自答**　我在上海的时候常用电驱蚊液。 [偏口鱼超会说 · 0:35](https://www.bilibili.com/video/BV1vuG46NE9Q/?t=35)
+
+**编注**　主播自己引出的例子，未比较不同人群的产品选择。
 
 ### 菜市场、食堂和家用物品
 
@@ -2112,49 +2278,51 @@
 
 **329　苹果干是在山姆买的，能因此放心多吃吗？**
 
-他先问听众为什么要看超市的名字。那里既卖粗粮也卖含糖可乐，回头又以葡萄干举例。决定买什么、吃多少，得看拿在手里的食物。 [养生健康知识分享家 · 0:00](https://www.bilibili.com/video/BV1Hv7A6ZEnZ/?t=0)
+**答**　山姆不也卖粗粮、也卖含糖可乐吗？先看你手里拿的是哪样。苹果干、葡萄干，不能因为换个超市就放开吃。 [养生健康知识分享家 · 0:00](https://www.bilibili.com/video/BV1Hv7A6ZEnZ/?t=0)
 
 <a name="new-BV1JBZLBRE11-0"></a>
 
 **330　家里要不要装净水器，一定要上万元吗？**
 
-按他的家庭预算观念，平常吃饭的钱都紧就先顾吃饭。条件宽裕，想装可以装，他没看出为了贵而买上万元设备的必要。这只是他对这笔支出的排序。 [养生健康知识分享家 · 0:00](https://www.bilibili.com/video/BV1JBZLBRE11/?t=0)
+**答**　要是平常吃饭的钱都有点紧，我先顾吃饭。条件宽裕，喜欢可以装，可也用不着光为了贵就去挑上万元的。 [养生健康知识分享家 · 0:00](https://www.bilibili.com/video/BV1JBZLBRE11/?t=0)
 
 <a name="new-BV1yvVZ6rEUQ-6"></a>
 
 **331　买西红柿，要数蒂上有几瓣、看它翘不翘吗？**
 
-这是他问观众的一题。他不认可数瓣、看翘不翘能判好坏。摊主若拿五瓣六瓣当加价理由，他劝别多花这个钱。 [偏口鱼超会说 · 0:06](https://www.bilibili.com/video/BV1yvVZ6rEUQ/?t=6)
+**向观众提问**　我问你们，数西红柿蒂上五瓣、六瓣，就能知道好坏？摊主拿这个当加钱的理由，我可不多掏。 [偏口鱼超会说 · 0:06](https://www.bilibili.com/video/BV1yvVZ6rEUQ/?t=6)
+
+**编注**　这里是主播问直播间的辨别题。
 
 <a name="new-BV1yvVZ6rEUQ-44"></a>
 
 **332　你以前学医，怎么连种西红柿也能聊？**
 
-他小时候在农村长大，下地干过活，也种过辣椒和西红柿。 [偏口鱼超会说 · 0:44](https://www.bilibili.com/video/BV1yvVZ6rEUQ/?t=44)
+**答**　我小时候在农村长大，下过地，辣椒、西红柿我都种过。 [偏口鱼超会说 · 0:44](https://www.bilibili.com/video/BV1yvVZ6rEUQ/?t=44)
 
 <a name="new-BV1YXQYB2EWo-0"></a>
 
 **333　孩子想吃爆米花，原味和奶油巧克力味能算一回事吗？**
 
-他觉得单纯爆开的那种没那么差。看着一大堆，谷粒膨胀后才占这么大体积。他说的是不加糖、不放奶油的版本。加了奶油、巧克力就得另算。 [偏口鱼超会说 · 0:00](https://www.bilibili.com/video/BV1YXQYB2EWo/?t=0)
+**答**　你先说是哪种。光把谷粒爆开，不加糖、不加奶油，看着一大堆，是它膨胀以后占地方。要是上面又裹奶油、巧克力，那得另算。 [偏口鱼超会说 · 0:00](https://www.bilibili.com/video/BV1YXQYB2EWo/?t=0)
 
 <a name="new-BV1sGGz6DEEV-0"></a>
 
 **334　吃茄子要把紫皮削掉吗？担心表面没洗干净呢？**
 
-他自己会留皮，提到紫皮里的花青素。观众追问农残，他给茄子的具体做法是洗一洗、带皮吃。对是否留皮，他也认可怎么吃总比不吃好。 [偏口鱼超会说 · 0:00](https://www.bilibili.com/video/BV1sGGz6DEEV/?t=0)
+**答**　我自己洗一洗，留着紫皮吃，皮里也有花青素。你要是实在介意，怎么吃总比干脆不吃强。 [偏口鱼超会说 · 0:00](https://www.bilibili.com/video/BV1sGGz6DEEV/?t=0)
 
 <a name="new-BV1jWXSBvEhM-0"></a>
 
 **335　食堂打一碗紫菜蛋花汤，怎么能多吃到点东西？**
 
-先搅一搅再舀。鱼博说蛋花和紫菜常沉在底下，光舀表面喝到的主要是调过味的汤。把底下的料搅上来，鸡蛋也一起吃掉。 [偏口鱼超会说 · 0:00](https://www.bilibili.com/video/BV1jWXSBvEhM/?t=0)
+**答**　先把勺子伸下去，搅一搅再舀。蛋花和紫菜常沉在底下，你只撇上面，喝到的主要是调过味儿的水。把料也吃进去。 [偏口鱼超会说 · 0:00](https://www.bilibili.com/video/BV1jWXSBvEhM/?t=0)
 
 <a name="new-BV1L797BVEHs-0"></a>
 
-**336　清炒蔬菜能好吃吗？他自己爱吃哪几样？**
+**336　清炒蔬菜能好吃吗？你自己爱吃哪几样？**
 
-他在这段讲解里说，他喜欢两广路边摊现炒蔬菜的锅气，举的是空心菜、地瓜叶（番薯叶）。他在这段聊的是自己愿意吃的做法。 [偏口鱼超会说 · 0:00](https://www.bilibili.com/video/BV1L797BVEHs/?t=0)
+**主动讲解**　我喜欢两广路边摊现炒那口锅气。空心菜、地瓜叶，也就是番薯叶，拿来清炒我都爱吃。 [偏口鱼超会说 · 0:00](https://www.bilibili.com/video/BV1L797BVEHs/?t=0)
 
 ### 牙刷、手表和运动
 
@@ -2162,25 +2330,27 @@
 
 **337　电动牙刷和手动牙刷，非得换电动的吗？**
 
-会刷的人，用小头、软毛的手动牙刷也行。他自己嫌研究刷牙动作麻烦，已经用了很多年电动牙刷，觉得顺手，预算多少可以自己定。 [评测百态 · 0:04](https://www.bilibili.com/video/BV1XnzfBnEiQ/?t=4)
+**答**　你会刷，用小头、软毛的手动牙刷也可以。我自己嫌琢磨动作麻烦，用电动的很多年了，顺手。要花多少钱，看你的预算。 [评测百态 · 0:04](https://www.bilibili.com/video/BV1XnzfBnEiQ/?t=4)
 
 <a name="new-BV1TaPPzXEUA-162"></a>
 
 **338　手表测的心率和血压计对得上，还不能凭读数判断心律问题吗？**
 
-他在追问后承认，每分钟跳几次可以测得准。判断异常心律还要看电活动波形，光对上一个数字不够。独立核对时要保留一个区别，部分手表能记录单导联心电图，也提供有限的分类功能，但不能代替临床十二导联检查。[设备功能与局限](https://support.apple.com/en-us/120278) [养生健康知识分享家 · 2:42](https://www.bilibili.com/video/BV1TaPPzXEUA/?t=162)
+**答**　每分钟跳几次，这个数可以对得上。可要判断心律的事，还得看电活动的波形，光把一个数对上不够。 [养生健康知识分享家 · 2:42](https://www.bilibili.com/video/BV1TaPPzXEUA/?t=162)
+
+**编注**　部分手表能记录单导联心电图并做有限分类，不能代替临床十二导联检查。 [设备功能与局限](https://support.apple.com/en-us/120278)
 
 <a name="new-BV1J9EB6xEPV-11"></a>
 
-**339　青少年长了胡子，家里人说不能刮，鱼博赞成吗？**
+**339　青少年长了胡子，家里人说不能刮，你赞成吗？**
 
-他赞成想刮就刮，觉得把自己收拾整洁很正常，还说起自己上高中时留胡子的同学。他没有在这道题里讨论胡子长得快慢。 [偏偏啥都懂 · 0:11](https://www.bilibili.com/video/BV1J9EB6xEPV/?t=11)
+**答**　想刮就刮，收拾整洁有什么问题？我上高中那会儿，班里也有留胡子的同学。 [偏偏啥都懂 · 0:11](https://www.bilibili.com/video/BV1J9EB6xEPV/?t=11)
 
 <a name="new-BV1J9EB6xEPV-35"></a>
 
 **340　学腹式呼吸就能专门减肚子吗？**
 
-他没把呼吸方法当作局部减脂办法。拿腹式、胸式两种说法开了句玩笑，接着给的选择是去运动。 [偏偏啥都懂 · 0:35](https://www.bilibili.com/video/BV1J9EB6xEPV/?t=35)
+**答**　你是想靠换个呼吸方法专门把肚子减下去？我不会这么指望。要动就去运动。 [偏偏啥都懂 · 0:35](https://www.bilibili.com/video/BV1J9EB6xEPV/?t=35)
 
 <a name="conversations"></a>
 
