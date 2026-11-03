@@ -6,6 +6,22 @@ This independent archive documents how the Chinese livestream creator Piankouyu 
 
 **Start with a coconut.** When Piankouyu called coconut water expensive, a viewer from Hainan pushed back. He gave two examples. He could see paying five yuan for a coconut because you like the taste. He wouldn’t pay twenty or thirty on the promise that it would lighten your skin. The session preserves the exchange. The shopping chapter uses it to explore what someone is actually paying for. [Read the exchange and play the clip](sessions/2026-10-31.md#at-1522) · [Read the shopping notes](knowledge/shopping.md#coconut-price)
 
+## Install in Codex
+
+`piankouyu` is a standalone Skill that bundles the Q&As, topic chapters, and notes on the host’s speaking style. Paste the following line into a **Codex chat** to install it. [Browse the Skill directory](skills/piankouyu/)
+
+```text
+$skill-installer Install the Skill from https://github.com/l-s-c/piankouyu-notes/tree/main/skills/piankouyu
+```
+
+Once installed, try the following in your next message. The Skill paraphrases the host’s answers in the first person and links to the relevant timestamps.
+
+```text
+$piankouyu Can tofu count as the staple food in a meal? Compare Piankouyu’s September and October answers and link to both timestamps.
+```
+
+If the installer reports that the destination already exists, move the old `piankouyu` folder it identifies outside your skills directory as a backup, then run the install prompt again.
+
 ## Read a session from start to finish
 
 These three public recordings from 2026 were covered from the opening seconds of each file to the sign-off. Together they contain **618 viewer questions and follow-ups**. Monologues and announcements are listed separately.
@@ -31,3 +47,5 @@ These three public recordings from 2026 were covered from the opening seconds of
 Answers are **first-person paraphrases**. The full-session notes distinguish questions the host read aloud from questions reconstructed from his reply. Follow the timestamp for his exact words. On health topics, **editorial notes** (编注) identify independent guidance and explain where it differs from the livestream answer.
 
 To suggest a correction or a new entry, include the video link, timestamp, and passage. If he answered differently on another day, both clips help readers see which detail changed. The project also documents how other archives turn a public figure’s views into usable answers. [Notes on persona Skills](editing/persona-references.md)
+
+After editing the Q&As or topic chapters, maintainers can refresh the bundled notes from the repository root with `python3 tools/sync-skill-references.py`. Add `--check` to verify that the bundle is in sync before committing.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "偏口鱼博士的直播问答"
+  short_description: "按第一人称转述鱼博答过的问题，对照追问、原片时间与独立编注"
+  default_prompt: "用 $piankouyu 查一下鱼博怎么看给家里人买海参补蛋白，附原片。"
