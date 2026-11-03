@@ -20,6 +20,13 @@ Once installed, try the following in your next message. The Skill paraphrases th
 $piankouyu Can tofu count as the staple food in a meal? Compare Piankouyu’s September and October answers and link to both timestamps.
 ```
 
+**Manual install from an existing checkout.** On macOS or Linux, open a terminal at the repository root and run the two lines below. The copy is skipped if a skill with the same name is already present.
+
+```sh
+piankouyu_dir="${CODEX_HOME:-$HOME/.codex}/skills"
+mkdir -p "$piankouyu_dir" && test ! -e "$piankouyu_dir/piankouyu" && cp -R skills/piankouyu "$piankouyu_dir/"
+```
+
 If the installer reports that the destination already exists, move the old `piankouyu` folder it identifies outside your skills directory as a backup, then run the install prompt again.
 
 ## Read a session from start to finish

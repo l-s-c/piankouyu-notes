@@ -20,6 +20,13 @@ $skill-installer 请从 https://github.com/l-s-c/piankouyu-notes/tree/main/skill
 $piankouyu 鱼博怎么看豆腐当主食？把 9 月和 10 月两次回答放在一起，给我原片时间点。
 ```
 
+**手动安装（已有仓库副本）**　在 macOS 或 Linux 上，打开终端进入仓库根目录，运行下面两行。目标已有同名 Skill 时，命令会保留现有目录。
+
+```sh
+piankouyu_dir="${CODEX_HOME:-$HOME/.codex}/skills"
+mkdir -p "$piankouyu_dir" && test ! -e "$piankouyu_dir/piankouyu" && cp -R skills/piankouyu "$piankouyu_dir/"
+```
+
 如果安装器提示已有同名目录，先把它显示的旧 `piankouyu` 文件夹移到 Skills 目录之外备份，再发送安装指令。
 
 ## 从头读一场直播
